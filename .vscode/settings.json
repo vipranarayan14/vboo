@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.vhtmx": "html"
+    },
+    "npm.enableScriptExplorer": true
+}
