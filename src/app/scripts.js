@@ -8,7 +8,7 @@ const ajax = (url, cb) => {
 
   xhttp.addEventListener('error', () => {
 
-    log(`An error occurred while loading the file: ${url}`);
+    log(`An error occurred while loading the file: '${url}'`);
 
   });
 
