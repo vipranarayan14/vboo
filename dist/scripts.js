@@ -1,20 +1,30 @@
 const mainElement = document.querySelector('main');
 
+const log = console.log; //eslint-disable-line no-console
+
 const ajax = (url, cb) => {
 
   const xhttp = new XMLHttpRequest();
 
-  xhttp.onreadystatechange = function () {
+  xhttp.addEventListener('error', () => {
 
-    if (this.readyState == 4 && this.status == 200) {
+    log(`An error occurred while loading the file: ${url}`);
 
-      cb(xhttp.responseText);
+  });
 
-    }
+  xhttp.addEventListener('abort', () => {
 
-  };
+    log(`The loading of '${url}' has been aborted.`);
 
-  xhttp.open("GET", url, true);
+  });
+
+  xhttp.addEventListener('load', () => {
+
+    cb(xhttp.responseText);
+
+  });
+
+  xhttp.open('GET', url, true);
   xhttp.send();
 
 };
@@ -37,12 +47,11 @@ const setPageContent = content => {
 
   initEventListeners();
 
-}
-
+};
 
 const getRelativeUrl = reference => {
 
-  const validRelativeUrl = reference.match(/^\.(\/.+)\.html$/)
+  const validRelativeUrl = reference.match(/^\.(\/.+)\.html$/);
 
   return (validRelativeUrl) ? validRelativeUrl[1] : null;
 
