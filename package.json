@@ -5,17 +5,19 @@
   "main": "",
   "scripts": {
     "build": "node ./src/build.js",
+    "eslint": "eslint ./src",
     "start": "node ./src/serve.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "2.24.5",
+    "browser-sync": "^2.24.6",
     "chokidar": "2.0.4",
     "cpx": "1.5.0",
+    "eslint": "5.2.0",
     "light-server": "2.5.1",
     "rimraf": "2.6.2",
-    "vhtmx": "1.1.1"
+    "vhtmx": "1.1.2"
   }
 }
