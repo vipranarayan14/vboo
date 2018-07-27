@@ -1,7 +1,7 @@
-const { Vhtmx } = require('vhtmx');
-const { processors } = require('./processors');
-const { watch } = require('chokidar');
 const { log } = require('./log');
+const { processors } = require('./processors');
+const { Vhtmx } = require('vhtmx');
+const { watchFiles } = require('./watch');
 const rimraf = require('rimraf');
 const cpx = require('cpx');
 
@@ -30,12 +30,4 @@ const build = () => {
 
 };
 
-build();
-
-watch(['./src/docs', './src/app']).on('all', (event, path) => {
-
-  build();
-
-  log(`${event}: ${path}`);
-
-});
+watchFiles(build);
