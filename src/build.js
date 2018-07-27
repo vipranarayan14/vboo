@@ -6,7 +6,7 @@ const rimraf = require('rimraf');
 const cpx = require('cpx');
 
 const src = './src';
-const dist = './dist'
+const dist = './dist';
 
 const vhtmx = new Vhtmx({
   distRoot: `${dist}/docs`,

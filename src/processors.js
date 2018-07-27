@@ -8,7 +8,7 @@ const processHeader = ele => {
 
   headerIdNo += 1;
 
-}
+};
 
 const processors = [
 
