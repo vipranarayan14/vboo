@@ -15,6 +15,12 @@
 .lsk main h1:after {
   content: ' ';
   display: block;
+  border: 1.5px solid #d3d3d3;
+}
+
+.lsk main h2:after {
+  content: ' ';
+  display: block;
   border: 1px solid #d3d3d3;
 }
 
