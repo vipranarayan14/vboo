@@ -18,6 +18,9 @@
     "eslint": "5.2.0",
     "light-server": "2.5.1",
     "rimraf": "2.6.2",
-    "vhtmx": "1.1.2"
+    "vhtmx": "1.1.2",
+    "vtranslit": "4.2.0",
+    "vtranslit-scheme-deva": "0.4.0",
+    "vtranslit-scheme-itrn": "0.3.0"
   }
 }
