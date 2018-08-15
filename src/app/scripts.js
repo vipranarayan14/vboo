@@ -29,25 +29,7 @@ const ajax = (url, cb) => {
 
 };
 
-const initEventListeners = () => {
-
-  document.querySelectorAll('a').forEach(anchorElement =>
-
-    anchorElement.addEventListener('click', loadLinks)
-
-  );
-
-};
-
 const setHash = hash => window.location.hash = hash;
-
-const setPageContent = content => {
-
-  mainElement.innerHTML = content;
-
-  initEventListeners();
-
-};
 
 const getRelativeUrl = reference => {
 
@@ -57,18 +39,36 @@ const getRelativeUrl = reference => {
 
 };
 
-const loadLinks = event => {
+// const loadLinks = event => {
 
-  const reference = event.target.getAttribute('href');
-  const relativeUrl = getRelativeUrl(reference);
+//   const reference = event.target.getAttribute('href');
+//   const relativeUrl = getRelativeUrl(reference);
 
-  if (relativeUrl) {
+//   if (relativeUrl) {
 
-    event.preventDefault();
+//     event.preventDefault();
 
-    setHash(relativeUrl);
+//     setHash(relativeUrl);
 
-  }
+//   }
+
+// };
+
+// const initEventListeners = () => {
+
+//   document.querySelectorAll('a').forEach(anchorElement =>
+
+//     anchorElement.addEventListener('click', loadLinks)
+
+//   );
+
+// };
+
+const setPageContent = content => {
+
+  mainElement.innerHTML = content;
+
+  // initEventListeners();
 
 };
 
