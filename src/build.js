@@ -1,5 +1,5 @@
 const { log } = require('./log');
-const { processors } = require('./processors');
+const { processors } = require('./processors/processors');
 const { Vhtmx } = require('vhtmx');
 const { watchFiles } = require('./watch');
 const rimraf = require('rimraf');

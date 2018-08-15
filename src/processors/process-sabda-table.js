@@ -1,15 +1,3 @@
-let headerIdNo = 0;
-
-const processHeaders = ele => {
-
-  const refinedText = ele.textContent.toLowerCase().replace(/\s/g, '-');
-
-  ele.setAttribute('id', `ha${headerIdNo}-${refinedText}`);
-
-  headerIdNo += 1;
-
-};
-
 const processSadbaTable = ele => {
 
   let html =
@@ -68,51 +56,4 @@ const processSadbaTable = ele => {
 
 };
 
-const processAboutWord = ele => {
-
-  const pratipadikam = ele.querySelector('pp').innerHTML;
-  const anta = ele.querySelector('antam').innerHTML;
-  const linga = ele.querySelector('linga').innerHTML;
-
-  ele.outerHTML =
-    `
-  <table>
-    <thead>
-      <tr>
-        <th align="center">प्रातिपदिकम्</th>
-        <th align="center">अन्तः</th>
-        <th align="center">लिङ्गः</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">${pratipadikam}</td>
-        <td align="center">${anta}</td>
-        <td align="center">${linga}</td>
-      </tr>
-    </tbody>
-  </table>
-  `;
-
-};
-
-const processors = [
-
-  {
-    process: processHeaders,
-    query: 'h1,h2,h3,h4'
-  },
-
-  {
-    process: processSadbaTable,
-    query: 'sabda-table'
-  },
-
-  {
-    process: processAboutWord,
-    query: 'about-word'
-  }
-
-];
-
-module.exports = { processors };
+module.exports = { processSadbaTable };
