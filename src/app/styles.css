@@ -12,16 +12,21 @@
   padding: 10px;
 }
 
-.lsk main h1:after {
+.lsk main h1 a,
+.lsk main h2 a,
+.lsk main h3 a {
+  color: inherit;
+}
+
+.lsk main h1:after,
+.lsk main h2:after {
   content: ' ';
   display: block;
   border: 1.5px solid #d3d3d3;
 }
 
 .lsk main h2:after {
-  content: ' ';
-  display: block;
-  border: 1px solid #d3d3d3;
+  border-width: 1px 
 }
 
 .lsk main table {
@@ -38,4 +43,13 @@
 
 .lsk main table tr:nth-child(even) {
   background-color: #d8d8d8;
+}
+
+.lsk q {
+  color: #000;
+}
+
+.lsk mark {
+  background: none;
+  color: #000;
 }
