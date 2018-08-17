@@ -4,9 +4,9 @@
   "description": "book",
   "main": "",
   "scripts": {
-    "build": "node ./src/build.js",
-    "eslint": "eslint ./src",
-    "start": "node ./src/serve.js",
+    "build": "NODE_ENV=production node ./dev/start.js",
+    "eslint": "eslint .",
+    "start": "node ./dev/start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

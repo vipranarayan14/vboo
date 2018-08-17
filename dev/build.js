@@ -1,7 +1,6 @@
 const { log } = require('./log');
 const { processors } = require('./processors/processors');
 const { Vhtmx } = require('vhtmx');
-const { watchFiles } = require('./watch');
 const rimraf = require('rimraf');
 const cpx = require('cpx');
 
@@ -16,7 +15,7 @@ const vhtmx = new Vhtmx({
 
 vhtmx.use(processors);
 
-const build = () => {
+const build = () => new Promise(resolve => {
 
   rimraf('./dist/*', rimrafErr => {
 
@@ -24,10 +23,16 @@ const build = () => {
 
     vhtmx.process();
 
-    cpx.copy(`${src}/app/**/*`, `${dist}/`, cpxErr => log(cpxErr, 'error'));
+    cpx.copy(`${src}/app/**/*`, `${dist}/`, cpxErr => {
+
+      log(cpxErr, 'error');
+
+      resolve();
+
+    });
 
   });
 
-};
+});
 
-watchFiles(build);
+module.exports = { build };
