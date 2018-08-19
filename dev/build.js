@@ -5,7 +5,7 @@ const rimraf = require('rimraf');
 const cpx = require('cpx');
 
 const src = './src';
-const dist = './dist';
+const dist = './build';
 
 const vhtmx = new Vhtmx({
   distRoot: `${dist}/docs`,
@@ -17,7 +17,7 @@ vhtmx.use(processors);
 
 const build = () => new Promise(resolve => {
 
-  rimraf('./dist/*', rimrafErr => {
+  rimraf(`${dist}/*`, rimrafErr => {
 
     log(rimrafErr, 'error');
 

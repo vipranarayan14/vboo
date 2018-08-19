@@ -7,7 +7,7 @@ const initServer = () => {
 
   bs.create('vbook-server');
   bs.init({
-    server: './dist'
+    server: './build'
   });
 
 };
