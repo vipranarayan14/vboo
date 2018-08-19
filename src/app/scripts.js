@@ -31,57 +31,56 @@ const ajax = (url, cb) => {
 
 const setHash = hash => window.location.hash = hash;
 
-const getRelativeUrl = reference => {
+const setView = sectionId =>
 
-  const validRelativeUrl = reference.match(/^\.(\/.+)\.html$/);
+  sectionId ? document.getElementById(sectionId).scrollIntoView() : '';
 
-  return (validRelativeUrl) ? validRelativeUrl[1] : null;
+const setAnchors = contentPath => {
+
+  document.querySelectorAll('a.ha-anchor')
+
+    .forEach(anchorElement =>
+
+      anchorElement.setAttribute(
+        'href',
+        `${window.location.origin}/${contentPath}/${anchorElement.getAttribute('href')}`
+      )
+
+    );
 
 };
 
-// const loadLinks = event => {
-
-//   const reference = event.target.getAttribute('href');
-//   const relativeUrl = getRelativeUrl(reference);
-
-//   if (relativeUrl) {
-
-//     event.preventDefault();
-
-//     setHash(relativeUrl);
-
-//   }
-
-// };
-
-// const initEventListeners = () => {
-
-//   document.querySelectorAll('a').forEach(anchorElement =>
-
-//     anchorElement.addEventListener('click', loadLinks)
-
-//   );
-
-// };
-
-const setPageContent = content => {
+const setPageContent = (content, contentPath, sectionId) => {
 
   mainElement.innerHTML = content;
 
-  // initEventListeners();
+  setAnchors(contentPath);
+
+  setView(sectionId);
 
 };
 
 const handleHash = () => {
 
   const hash = window.location.hash;
-  const contentUrl = `./docs/${hash.split('#/')[1]}.html`;
+  const [_path, sectionId] = hash.split('/#');
+  const path = _path.split('#/')[1];
 
-  ajax(contentUrl, responseText => {
+  if (path) {
 
-    setPageContent(responseText);
+    const contentUrl = `./docs/${path}.html`;
 
-  });
+    ajax(contentUrl, responseText => {
+
+      setPageContent(
+        responseText,
+        _path,
+        sectionId
+      );
+
+    });
+
+  }
 
 };
 
@@ -95,7 +94,7 @@ const documentInit = () => {
 
   }
 
-  return setHash(getRelativeUrl(homeContentPath));
+  return setHash(homeContentPath);
 
 };
 
