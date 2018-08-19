@@ -25,7 +25,11 @@
 }
 
 .lsk main h2:after {
-  border-width: 1px 
+  border-width: 1px
+}
+
+.lsk main .table-container {
+  overflow-x: auto;
 }
 
 .lsk main table {
@@ -51,4 +55,11 @@
 .lsk mark {
   background: none;
   color: #000;
+}
+
+.lsk .prakriya-block {
+  background-color: #159957;
+  color: floralwhite;
+  padding: 10px;
+  border-left: 5px solid #2e5a27;
 }
