@@ -2,6 +2,7 @@ const { processAboutWord } = require('./process-about-word');
 const { processHeaders } = require('./process-headers');
 const { processSadbaTable } = require('./process-sabda-table');
 const { processVtranslit } = require('./process-vtranslit');
+const { processPrakriya } = require('./process-prakriya');
 
 const processors = [
 
@@ -25,6 +26,10 @@ const processors = [
     query: 'about-word'
   },
 
+  {
+    process: processPrakriya,
+    query: 'pra'
+  }
 ];
 
 module.exports = { processors };
