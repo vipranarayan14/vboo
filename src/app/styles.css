@@ -18,7 +18,8 @@
 }
 
 .lsk main h1:after,
-.lsk main h2:after {
+.lsk main h2:after,
+.lsk main h3:after {
   content: ' ';
   display: block;
   border: 1.5px solid #d3d3d3;
@@ -26,6 +27,10 @@
 
 .lsk main h2:after {
   border-width: 1px
+}
+
+.lsk main h3:after {
+  border-width: 0.5px
 }
 
 .lsk main .table-container {
