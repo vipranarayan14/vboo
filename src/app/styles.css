@@ -1,68 +1,67 @@
 @import url(fonts.css);
-
-.lsk {
+.vboo {
   background-color: #f2f4f2;
 }
 
-.lsk main {
+.vboo main {
   font-family: 'Laila', serif;
   max-width: 700px;
   margin: 0 auto;
   padding: 20px;
 }
 
-.lsk main h1 a,
-.lsk main h2 a,
-.lsk main h3 a {
+.vboo main h1 a,
+.vboo main h2 a,
+.vboo main h3 a {
   color: inherit;
 }
 
-.lsk main h1:after,
-.lsk main h2:after,
-.lsk main h3:after {
+.vboo main h1:after,
+.vboo main h2:after,
+.vboo main h3:after {
   content: ' ';
   display: block;
   border: 1.5px solid #d3d3d3;
 }
 
-.lsk main h2:after {
+.vboo main h2:after {
   border-width: 1px
 }
 
-.lsk main h3:after {
+.vboo main h3:after {
   border-width: 0.5px
 }
 
-.lsk main .table-container {
+.vboo main .table-container {
   overflow-x: auto;
 }
 
-.lsk main table {
+.vboo main table {
   display: table;
   width: auto;
   margin: 5px auto;
 }
 
-.lsk main table th {
+.vboo main table th {
   /*#0bb111*/
   background-color: #159957;
   color: #fff;
 }
 
-.lsk main table tr:nth-child(even) {
+.vboo main table tr:nth-child(even) {
   background-color: #d8d8d8;
 }
 
-.lsk q {
+.vboo q {
   color: #000;
 }
 
-.lsk mark {
+.vboo mark {
   background: none;
   color: #000;
 }
 
-.lsk .prakriya-block {
+.vboo .prakriya-block {
   background-color: #159957;
   color: floralwhite;
   padding: 10px;
