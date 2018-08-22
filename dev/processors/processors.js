@@ -3,6 +3,7 @@ const { processHeaders } = require('./process-headers');
 const { processSadbaTable } = require('./process-sabda-table');
 const { processVtranslit } = require('./process-vtranslit');
 const { processPrakriya } = require('./process-prakriya');
+const { processTransclusion } = require('./process-transclusion');
 
 const processors = [
 
@@ -29,6 +30,11 @@ const processors = [
   {
     process: processPrakriya,
     query: 'pra'
+  },
+
+  {
+    process: processTransclusion,
+    query: 'v-include'
   }
 ];
 
