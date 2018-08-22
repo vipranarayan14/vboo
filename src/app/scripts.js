@@ -43,6 +43,10 @@ const setView = sectionId => {
     section.scrollIntoView();
     window.scrollBy(0, scrollOffset);
 
+  } else {
+
+    window.scrollTo(0, 0);
+
   }
 
 };
@@ -74,11 +78,13 @@ const setPageContent = (content, contentPath, sectionId) => {
 
 const updateBreadcrumbs = path => {
 
-  let html = '<a href="#/home">Home</a> >',
+  let html = '',
 
     href = '#';
 
   if (path !== 'home') {
+
+    html += '<a href="#/home">Home</a> >';
 
     const breadcrumbs = path.split('/');
 
@@ -87,7 +93,7 @@ const updateBreadcrumbs = path => {
     breadcrumbs.forEach(breadcrumb => {
 
       href += `/${breadcrumb}`;
-      html += ` <a href="${href}">${breadcrumb}</a> >`;
+      html += ` <a href="${href}/">${breadcrumb}</a> >`;
 
     });
 
