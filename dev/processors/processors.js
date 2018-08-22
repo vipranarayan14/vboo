@@ -13,6 +13,11 @@ const processors = [
   },
 
   {
+    process: processTransclusion,
+    query: 'v-include'
+  },
+
+  {
     process: processVtranslit,
     query: 'vt'
   },
@@ -30,11 +35,6 @@ const processors = [
   {
     process: processPrakriya,
     query: 'pra'
-  },
-
-  {
-    process: processTransclusion,
-    query: 'v-include'
   }
 ];
 
