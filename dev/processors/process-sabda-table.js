@@ -2,16 +2,17 @@ const processSadbaTable = ele => {
 
   let html =
     `
-  <table>
-  <thead>
-    <tr>
-      <th align="right">विभक्तयः</th>
-      <th align="center">एकवचनम्</th>
-      <th align="center">द्विवचनम्</th>
-      <th align="center">बहुवचनम्</th>
-    </tr>
-  </thead>
-  <tbody>
+  <div class="table-container">
+    <table>
+    <thead>
+      <tr>
+        <th align="right">विभक्तयः</th>
+        <th align="center">एकवचनम्</th>
+        <th align="center">द्विवचनम्</th>
+        <th align="center">बहुवचनम्</th>
+      </tr>
+    </thead>
+    <tbody>
   `;
 
   const vibhaktis = ['प्रथमा', 'द्वितीया', 'तृतीया', 'चतुर्थी', 'पञ्चमी', 'षष्ठी', 'सप्तमी'];
@@ -49,8 +50,9 @@ const processSadbaTable = ele => {
   });
 
   html += `
-    </tbody>
-  </table>`;
+      </tbody>
+    </table>
+  </div>`;
 
   ele.outerHTML = html;
 
