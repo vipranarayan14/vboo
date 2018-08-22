@@ -16,7 +16,6 @@
     "chokidar": "2.0.4",
     "cpx": "1.5.0",
     "eslint": "5.2.0",
-    "light-server": "2.5.1",
     "rimraf": "2.6.2",
     "vhtmx": "1.1.2",
     "vtranslit": "4.2.0",
