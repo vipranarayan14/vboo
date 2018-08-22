@@ -1,4 +1,5 @@
-const mainElement = document.querySelector('main');
+const navEle = document.querySelector('nav');
+const pagesContEle = document.getElementById('pages-container');
 
 const log = console.log; //eslint-disable-line no-console
 
@@ -31,9 +32,20 @@ const ajax = (url, cb) => {
 
 const setHash = hash => window.location.hash = hash;
 
-const setView = sectionId =>
+const setView = sectionId => {
 
-  sectionId ? document.getElementById(sectionId).scrollIntoView() : '';
+  const section = document.getElementById(sectionId);
+
+  const scrollOffset = -60;
+
+  if (section) {
+
+    section.scrollIntoView();
+    window.scrollBy(0, scrollOffset);
+
+  }
+
+};
 
 const setAnchors = contentPath => {
 
@@ -43,7 +55,7 @@ const setAnchors = contentPath => {
 
       anchorElement.setAttribute(
         'href',
-        `${window.location.origin}/${contentPath}/${anchorElement.getAttribute('href')}`
+        `${contentPath}/${anchorElement.getAttribute('href')}`
       )
 
     );
@@ -52,13 +64,50 @@ const setAnchors = contentPath => {
 
 const setPageContent = (content, contentPath, sectionId) => {
 
-  mainElement.innerHTML = content;
+  pagesContEle.innerHTML = content;
 
   setAnchors(contentPath);
 
   setView(sectionId);
 
 };
+
+const updateBreadcrumbs = path => {
+
+  let html = '<a href="#/home">Home</a> >',
+
+    href = '#';
+
+  if (path !== 'home') {
+
+    const breadcrumbs = path.split('/');
+
+    breadcrumbs.pop();
+
+    breadcrumbs.forEach(breadcrumb => {
+
+      href += `/${breadcrumb}`;
+      html += ` <a href="${href}">${breadcrumb}</a> >`;
+
+    });
+
+  }
+
+  navEle.innerHTML = html;
+
+};
+
+const getContentUrl = path =>
+
+  path[path.length - 1] === '/' ? (
+
+    `./docs/${path}main.html`
+
+  ) : (
+
+    `./docs/${path}.html`
+
+  );
 
 const handleHash = () => {
 
@@ -68,7 +117,7 @@ const handleHash = () => {
 
   if (path) {
 
-    const contentUrl = `./docs/${path}.html`;
+    const contentUrl = getContentUrl(path);
 
     ajax(contentUrl, responseText => {
 
@@ -78,6 +127,8 @@ const handleHash = () => {
         sectionId
       );
 
+      updateBreadcrumbs(path);
+
     });
 
   }
@@ -86,7 +137,7 @@ const handleHash = () => {
 
 const documentInit = () => {
 
-  const homeContentPath = mainElement.getAttribute('data-content');
+  const homeContentPath = pagesContEle.getAttribute('data-homepage');
 
   if (window.location.hash) {
 

@@ -29,6 +29,10 @@
   padding: 20px;
 }
 
+.vboo main nav {
+  font-size: 1rem;
+}
+
 .vboo main h1 a,
 .vboo main h2 a,
 .vboo main h3 a {
