@@ -1,16 +1,32 @@
 {
-  "name": "v",
+  "name": "vboo",
   "version": "0.0.0",
-  "description": "book",
-  "main": "",
+  "description": "A book of notes on Samskrita grammar and literature",
+  "author": "Prasanna Venkatesh T S <vipranarayan14@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipranarayan14/vboo.git"
+  },
+  "keywords": [
+    "sanskrit",
+    "grammar",
+    "literature",
+    "samskritam",
+    "notes"
+  ],
+  "bugs": {
+    "url": "https://github.com/vipranarayan14/vboo/issues"
+  },
+  "homepage": "https://github.com/vipranarayan14/vboo#readme",
+  "main": " ",
   "scripts": {
     "build": "NODE_ENV=production node ./dev/start.js",
     "eslint": "eslint .",
     "start": "node ./dev/start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "dependencies": {},
   "devDependencies": {
     "browser-sync": "^2.24.6",
     "chokidar": "2.0.4",
