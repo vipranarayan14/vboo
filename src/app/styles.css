@@ -95,6 +95,11 @@
   margin-bottom: 0;
 }
 
+.vboo main .img-box img {
+  display: block;
+  margin: 0 auto;
+}
+
 @media print {
   .vboo,
   .vboo *,
@@ -102,5 +107,13 @@
     background-color: #fff !important;
     color: #000 !important;
     border-color: #1d1d1d !important;
+  }
+
+  .vboo header {
+    display: none;
+  }
+
+  .vboo main .img-box.animated {
+    display: none;
   }
 }
