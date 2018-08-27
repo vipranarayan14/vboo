@@ -16,7 +16,7 @@ const initWatch = () => {
 
   log('===Watching Files===');
 
-  watch(['./src/docs', './src/app'])
+  watch(['./src/docs'])
     .on('all', (event, path) => {
 
       log(`${event}: ${path}`);
