@@ -15,10 +15,11 @@ const processSadbaTable = ele => {
     <tbody>
   `;
 
-  const vibhaktis = ['प्रथमा', 'द्वितीया', 'तृतीया', 'चतुर्थी', 'पञ्चमी', 'षष्ठी', 'सप्तमी'];
+  const vibhaktis = ['प्रथमा', 'सं-प्रथमा', 'द्वितीया', 'तृतीया', 'चतुर्थी', 'पञ्चमी', 'षष्ठी', 'सप्तमी'];
 
   const vibhaktiElements = [
     ele.querySelector('prathama'),
+    ele.querySelector('sam-prathama '),
     ele.querySelector('dvitiya'),
     ele.querySelector('tritiya'),
     ele.querySelector('caturthi'),
