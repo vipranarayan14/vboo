@@ -19,7 +19,7 @@ const processSadbaTable = ele => {
 
   const vibhaktiElements = [
     ele.querySelector('prathama'),
-    ele.querySelector('sam-prathama '),
+    ele.querySelector('sam-prathama'),
     ele.querySelector('dvitiya'),
     ele.querySelector('tritiya'),
     ele.querySelector('caturthi'),
