@@ -36,12 +36,9 @@ const setView = sectionId => {
 
   const section = document.getElementById(sectionId);
 
-  const scrollOffset = -60;
-
   if (section) {
 
     section.scrollIntoView();
-    window.scrollBy(0, scrollOffset);
 
   } else {
 
