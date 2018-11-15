@@ -40,4 +40,4 @@ below.
 
 Note: Click on a word in the table to see its //prakriyA|//
 
-{{#/shadlinga-prakaranam/raama-sabdah/--table}}
+{{#/shadlinga-prakaranam/raama-sabdah/0-table}}

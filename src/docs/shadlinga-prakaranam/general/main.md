@@ -1,3 +1,3 @@
 # General
 
-{{#/shadlinga-prakaranam/general/--contents}}
+{{#/shadlinga-prakaranam/general/0-contents}}
