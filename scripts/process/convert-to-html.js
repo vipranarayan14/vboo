@@ -1,5 +1,4 @@
 const remark = require('remark');
-const styleGuide = require('remark-preset-lint-markdown-style-guide');
 const html = require('remark-html');
 const report = require('vfile-reporter');
 
@@ -10,7 +9,6 @@ const convertToHtml = data => {
   let htmlOutput = '';
 
   remark()
-    .use(styleGuide)
     .use(html)
     .process(data, (err, file) => {
 
