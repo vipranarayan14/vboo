@@ -1,22 +1,8 @@
-<h1>
-  <vt>avasAnam</vt>
-</h1>
-<div>
-  <p>When no other
-    <vt>varNa</vt> (letter) is pronounced immediately after a
-    <vt>varNa</vt>, then this
-    <vt>varNa</vt> gets the
-    <vt>saMj~nA</vt> (label),
-    <vt>'avasAna'|</vt>
-  </p>
-  <p>For example, in the word
-    <vt>'bhavAn'</vt>, since no other
-    <vt>varNa</vt> is pronounced after
-    <vt>'n'</vt>, the
-    <vt>'n'</vt> gets the
-    <vt>avasAna-saMj~nA|</vt>
-  </p>
-  <!-- <blockquote>
+# //avasAnam//
+
+When no other //varNa// (letter) is pronounced immediately after a //varNa//, then this //varNa// gets the //saMj~nA// (label), //'avasAna'|// For example, in the word //'bhavAn'//, since no other //varNa// is pronounced after //'n'//, the //'n'// gets the //avasAna-saMj~nA|//
+
+<!-- <blockquote>
     <p>
       <vt>
         यदुच्चारणोत्तरं वर्णान्तरं नोच्चार्यते सोऽन्त्यवर्णोऽवसानसंज्ञ इत्यर्थः। अ�स्मस्तु पक्षे `खरवसानयोः` इत्येकापि सप्तमी विषयभेदाद्भिद्यते-खरि
@@ -24,4 +10,3 @@
       </vt>
     </p>
   </blockquote> -->
-</div>
