@@ -18,12 +18,10 @@ to the //prAtipadika// to give it the senses of //vibhakti// and
 [//vachana//](#/shadlinga-prakaranam/general/vachanani), thereby making
 it usable in a sentence.
 
-<!-- <p>
-    We also learnt that this process of forming usable forms (
-    //pada//-s) from a
-    //prAtipadika// is called as
-    <strong>Declension</strong> in English.
-  </p> -->
+<!--
+  We also learnt that this process of forming usable forms (//pada//-s) from a
+  //prAtipadika// is called as **Declension** in English.
+-->
 
 Here, we are going to learn, step-by-step, how the various //pada//-s
 are formed from a //prAtipadika|//

@@ -12,7 +12,7 @@ The //subanta-pratyaya//-s are:
 
 > //svaujasamauTChaShTAbhyAmbhis~NEbhyAmbhyas~NasibhyAmbhyas~NasOsAm~NyOssup‌//
 >
-> <cite>//--pANini-aShTAdhyAyI//</cite>
+> //--pANini-aShTAdhyAyI//
 
 i.e. //su, au, jas, am, auT, shas, TA, bhyAm, bhis, ~NE, bhyAm, bhyas, ~Nasi, bhyAm, bhyas, ~Nas, Os, Am, ~Ni, Os, sup‌ |//
 
@@ -38,7 +38,7 @@ From the list of //subanta-pratyaya//-s, taking three at a time, each set is giv
 >
 > //~Ni, Os, sup‌ iti saptamI |//
 >
-> <cite>-- //laghusiddhAntakaumudI//</cite>
+> -- //laghusiddhAntakaumudI//
 
 The first set of three //pratyaya//-s, //"su, au, jas"//, is given the label, //'prathamA'|//
 
