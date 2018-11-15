@@ -1,19 +1,17 @@
-const { log } = require('./log');
-const { processors } = require('./processors/processors');
-const { Vhtmx } = require('vhtmx');
+const { log } = require('./utils');
+const { process } = require('./process/process');
 const rimraf = require('rimraf');
 const cpx = require('cpx');
 
 const src = './src';
 const dist = './build';
 
-const vhtmx = new Vhtmx({
-  distRoot: `${dist}/docs`,
-  srcExt: '.html',
-  srcRoot: `${src}/docs`
-});
-
-vhtmx.use(processors);
+const config = {
+  distDir: `${dist}/docs`,
+  distExt: '.html',
+  srcDir: `${src}/docs`,
+  srcExt: '.md'
+};
 
 const build = () => new Promise(resolve => {
 
@@ -21,7 +19,7 @@ const build = () => new Promise(resolve => {
 
     log(rimrafErr, 'error');
 
-    vhtmx.process();
+    process(config);
 
     cpx.copy(`${src}/app/**/*`, `${dist}/`, cpxErr => {
 

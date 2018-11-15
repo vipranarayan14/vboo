@@ -9,14 +9,8 @@ const vtranslit = vTranslit([
 
 const vt = vtranslit.init('Itrn', 'Deva');
 
-const processVtranslit = ele => {
+const processVtranslit = (match, p1) =>
 
-  ele.outerHTML = `
-  <span class="vtranslit scheme-deva" lang="sa">
-     ${vt(ele.textContent)}
-  </span>
-  `;
-
-};
+  `<span class="vtranslit scheme-deva" lang="sa">${vt(p1)}</span>`;
 
 module.exports = { processVtranslit };

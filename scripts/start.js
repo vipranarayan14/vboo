@@ -1,4 +1,4 @@
-const { log } = require('./log');
+const { log } = require('./utils');
 const { watch } = require('chokidar');
 const bs = require('browser-sync');
 const { build } = require('./build');
