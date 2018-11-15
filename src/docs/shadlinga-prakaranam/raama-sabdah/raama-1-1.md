@@ -45,7 +45,7 @@ Now, by the //sUtra//-s --
 >
 > //tasya lOpaH 1/3/9//
 
-## the //'u'// in //'su'// gets //'lOpa'// i.e. it disappears. So, we get
+the //'u'// in //'su'// gets //'lOpa'// i.e. it disappears. So, we get
 
 ;;;prakriya
 //rAma + s//

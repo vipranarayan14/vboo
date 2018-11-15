@@ -31,7 +31,7 @@ Now, by the //sUtra//-s --
 >
 > //tasya lOpaH| 1/3/9//
 
-## the //'j'// in //'jas'// gets //'lOpa'// i.e. it disappears. So, we get
+the //'j'// in //'jas'// gets //'lOpa'// i.e. it disappears. So, we get
 
 ;;;prakriya
 //rAma + as//
