@@ -18,18 +18,23 @@ says that the last letter of the
 [//a~Nga//](#/shadlinga-prakaranam/general/angam) of a
 //subanta-pratyaya// is replaced by the letter, //'E'// if
 
-1.  the last letter of the //a~Nga// is //'a'//
-2.  and the first letter of //subanta-pratyaya// is is one the letters
-    of the //pratyAhAra, 'jhal'//
-3.  and the //subanta-pratyaya// represents //bahuvachana|//
+1. the last letter of the //a~Nga// is //'a'//
+
+2. and the first letter of //subanta-pratyaya// is is one the letters
+   of the //pratyAhAra, 'jhal'//
+
+3. and the //subanta-pratyaya// represents //bahuvachana|//
 
 Here,
 
 - //rAma// is the //a~Nga// of the //subanta-pratyaya, 'bhyas'//
+
 - and the last letter of the //a~Nga, 'rAma'// is //'a'//
+
 - and the first letter of the //subanta-pratyaya, 'bhyas'// is
   //'bh'// and this, //'bh'// is one of the letters in the
   //pratyAhAra, 'jhal'//
+
 - and the //subanta-pratyaya, 'bhyas'// represents //bahuvachana//
 
 So, the last letter //'a'// in //'rAma'// is replaced by //'E'// --

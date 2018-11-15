@@ -26,7 +26,7 @@ last letter of the //prAtipadika|//
 ;;;prakriya
 //rAm(a + a)m//
 
-_both are replaced by the the last letter of the //prAtipadika// --_
+both are replaced by the the last letter of the //prAtipadika// --
 
 = //rAm(a)m//
 

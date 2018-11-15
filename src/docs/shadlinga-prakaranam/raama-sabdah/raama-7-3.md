@@ -35,21 +35,25 @@ Now, the //sUtra,//
 
 says that if the letter //'s'//
 
-1.  is not at the end of a //pada//
-2.  and is one of the letters in a //pratyaya// or is itself a
-    replacement to some other letter(s)
-3.  and comes just after the letters of the //pratyAhAra, 'iN'// i.e.
-    //'i, u, RRi, LLi, E, O, ai, au, h, y, v, r, l'// or the
-    letters of //ka-varga// i.e. //'k, kh, g, gh, ~N'//
+1. is not at the end of a //pada//
+
+2. and is one of the letters in a //pratyaya// or is itself a
+   replacement to some other letter(s)
+
+3. and comes just after the letters of the //pratyAhAra, 'iN'// i.e.
+   //'i, u, RRi, LLi, E, O, ai, au, h, y, v, r, l'// or the
+   letters of //ka-varga// i.e. //'k, kh, g, gh, ~N'//
 
 then it (the letter, //'s'//) is replaced by the letter, //'Sh'|//
 
 Here, in //'rAmEsu',// the letter //'s'//
 
--   is not at the end of the //pada//
--   and is one of the letters in the //pratyaya, 'sup'//
--   and comes after the letter, //'E'// which is one of the letters in
-    the //pratyAhAra, 'iN'//
+- is not at the end of the //pada//
+
+- and is one of the letters in the //pratyaya, 'sup'//
+
+- and comes after the letter, //'E'// which is one of the letters in
+  the //pratyAhAra, 'iN'//
 
 So, the letter //'s'// in //'rAmEsu'// is replaced by the letter
 //'Sh'// --

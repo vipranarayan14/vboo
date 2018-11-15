@@ -63,12 +63,14 @@ last letter is:
 
 Here,
 
-1.  the word, //rAma// is the //a~Nga// of the //pratyaya, 'su'|//
-    \[See [//a~Nga//](#/shadlinga-prakaranam/general/angam)].
-2.  the last letter of the //a~Nga// is //'a'// which is a short vowel
-    //(hrasva).//
-3.  the //pratyaya, 'su'// is labeled as //sambuddhi// and has a
-    consonant, //'s'// in it.
+1. the word, //rAma// is the //a~Nga// of the //pratyaya, 'su'|//
+   \[See [//a~Nga//](#/shadlinga-prakaranam/general/angam)].
+
+2. the last letter of the //a~Nga// is //'a'// which is a short vowel
+   //(hrasva).//
+
+3. the //pratyaya, 'su'// is labeled as //sambuddhi// and has a
+   consonant, //'s'// in it.
 
 So, the //'s'// after //'rAma'// gets //lOpa// i.e. it disappears --
 

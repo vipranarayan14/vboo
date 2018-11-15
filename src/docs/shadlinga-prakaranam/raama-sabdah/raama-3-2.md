@@ -30,11 +30,14 @@ Now, the above given //sUtra// says that the last letter of a
 In this context, we have the //prAtipadika, 'rAma'// and the
 //sup-pratyaya, 'bhyAm'// placed after //'rAma'// Here,
 
-1.  //'bhyAm'// is a //subanta-pratyaya|//
-2.  The first letter of //'bhyAm'// is //'bh'//, and the letter //'bh'//
-    is one the letters in the //ya~n-pratyAhAra|//
-3.  The //a~Nga// of the //'bhyAm'-pratyaya// is //'rAma'|//
-4.  The last letter of the //a~Nga, 'rAma'// is //'a'|//
+1. //'bhyAm'// is a //subanta-pratyaya|//
+
+2. The first letter of //'bhyAm'// is //'bh'//, and the letter //'bh'//
+   is one the letters in the //ya~n-pratyAhAra|//
+
+3. The //a~Nga// of the //'bhyAm'-pratyaya// is //'rAma'|//
+
+4. The last letter of the //a~Nga, 'rAma'// is //'a'|//
 
 So, by the above given //sUtra,// the last letter of the //a~Nga,
 'rAma'// which is //'a'// is replaced by its //dIrgha// i.e. //'A'// --

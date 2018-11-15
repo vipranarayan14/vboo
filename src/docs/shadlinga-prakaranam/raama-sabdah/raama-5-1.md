@@ -51,6 +51,7 @@ First of all, let's see what are //'jhal'// and //'jash'|//
 
 - //'jhal'-pratyAhAra// represents all the consonants except //'y, v,
   r, l'// and //'~N, ~n, N, n, m'|//
+
 - //'jash'-pratyAhAra// represents third letter of each //varga// i.e.
   //g, j, D, d, b|//
 

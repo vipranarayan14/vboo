@@ -19,10 +19,11 @@ says that the //pratyaya, '~NE'// is to be replaced by //'ya'// if its
 
 Here,
 
-1.  //'rAma'// is the [//a~Nga//](#/shadlinga-prakaranam/general/angam)
-    of the //pratyaya, '~NE'|//
-2.  And the last letter of the //a~Nga, 'rAma'// is //'a'// i.e.
-    //'rAma'// is //a-kArAnta|//
+1. //'rAma'// is the [//a~Nga//](#/shadlinga-prakaranam/general/angam)
+   of the //pratyaya, '~NE'|//
+
+2. And the last letter of the //a~Nga, 'rAma'// is //'a'// i.e.
+   //'rAma'// is //a-kArAnta|//
 
 So, by the //sUtra// given above, the //pratyaya, '~NE'// is replaced
 by //'ya'// --
@@ -31,8 +32,7 @@ by //'ya'// --
 //rAma + ya//
 ;;;
 
-**Now, will this //'ya'// also be treated like a
-[//'sup'//](#/shadlinga-prakaranam/general/subanta-pratyayAH)?**
+Now, will this //'ya'// also be treated like a [//'sup'//](#/shadlinga-prakaranam/general/subanta-pratyayAH)?
 
 Here, the //sUtra// --
 
