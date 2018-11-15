@@ -21,10 +21,11 @@
   "homepage": "https://github.com/vipranarayan14/vboo#readme",
   "main": " ",
   "scripts": {
-    "build": "NODE_ENV=production node ./dev/start.js",
     "eslint": "eslint .",
-    "start": "node ./dev/start.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "remark-lint": "remark src/docs/. --use preset-lint-markdown-style-guide",
+    "test": "npm run eslint && npm run remark-lint",
+    "build": "NODE_ENV=production npm start",
+    "start": "npm test && node ./scripts/start.js"
   },
   "dependencies": {},
   "devDependencies": {
