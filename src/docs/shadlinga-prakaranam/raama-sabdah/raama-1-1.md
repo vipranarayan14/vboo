@@ -28,17 +28,17 @@ So, now we add //'su'// after //'rAma'// --
 Here, we have to note that the word, //'rAma'// now has a //pratyaya//
 at its end. There are two consequences from this:
 
--   One, the word //'rAma'// loses the //'prAtipadika' saMj~nA//
-    (label) as it has a //pratyaya// at its end and this //pratyaya//
-    does not belong to the //kRRit// or //taddhita// set of
-    //pratyaya//-s. (Refer [Definition of a
-    //prAtipadika//](#/shadlinga-prakaranam/general/praatipadika/#ha-The-Definition-of-prAtipadika)
-    )
--   Two, //'rAma + su'// gets a new //saMj~nA// (label), //'pada'// as
-    it has a //subanta-pratyaya// at its end, accordingly to the
-    //sUtra// --
+- One, the word //'rAma'// loses the //'prAtipadika' saMj~nA//
+  (label) as it has a //pratyaya// at its end and this //pratyaya//
+  does not belong to the //kRRit// or //taddhita// set of
+  //pratyaya//-s. (Refer [Definition of a
+  //prAtipadika//](#/shadlinga-prakaranam/general/praatipadika/#ha-The-Definition-of-prAtipadika)
+  )
+- Two, //'rAma + su'// gets a new //saMj~nA// (label), //'pada'// as
+  it has a //subanta-pratyaya// at its end, accordingly to the
+  //sUtra// --
 
-    > //supti~NantaM padam| 1/4/14//
+  > //supti~NantaM padam| 1/4/14//
 
 Now, by the //sUtra//-s --
 

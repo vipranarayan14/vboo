@@ -98,7 +98,7 @@ And, we see that, the //upasarga, ‘sam’// is not included within the //a~Nga
 
 Thereby, we learn that the //a~Nga// of a //pratyaya//:
 
--   is determined by the word with reference to which the //pratyaya// is instructed to be placed.
--   will include everything between the reference word and the //pratyaya|//
--   will not include the //pratyaya// or anything after it.
--   will not will include anything before the reference word.
+- is determined by the word with reference to which the //pratyaya// is instructed to be placed.
+- will include everything between the reference word and the //pratyaya|//
+- will not include the //pratyaya// or anything after it.
+- will not will include anything before the reference word.

@@ -22,9 +22,9 @@ a //shabda// whose last letter is //'a'//), are replaced by //'ina',
 
 In other words,
 
--   //tRRitIyA-Ekavachana-pratyaya, 'TA'// is replaced by //'ina'//
--   //pa~nchamI-Ekavachana-pratyaya, '~Nasi'// is replaced by //'At'//
--   //ShaShTI-Ekavachana-pratyaya, '~Nas'// is replaced by //'sya'//
+- //tRRitIyA-Ekavachana-pratyaya, 'TA'// is replaced by //'ina'//
+- //pa~nchamI-Ekavachana-pratyaya, '~Nasi'// is replaced by //'At'//
+- //ShaShTI-Ekavachana-pratyaya, '~Nas'// is replaced by //'sya'//
 
 when it comes after a //'a-kArAnta-shabda'// like //bAla, dEva,
 kRRiShNa,// etc.

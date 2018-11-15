@@ -21,8 +21,8 @@ last letter of the //a~Nga// is //'a'|//
 
 Here,
 
--   //rAma// is the //a~Nga// of the //subanta-pratyaya, 'Os'//
--   and the last letter of the //a~Nga, 'rAma'// is //'a'//
+- //rAma// is the //a~Nga// of the //subanta-pratyaya, 'Os'//
+- and the last letter of the //a~Nga, 'rAma'// is //'a'//
 
 So, the last letter //'a'// in //'rAma'// is replaced by //'E'// --
 

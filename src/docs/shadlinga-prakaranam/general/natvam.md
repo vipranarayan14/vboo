@@ -16,11 +16,11 @@ The letter, //'n'// is changed into //'N'://
 1.  when, within a word, it comes just after the letter, //'r'// or //'Sh'// or even when it is seperated from them by
     one or more of these:
 
-    -   //aT// i.e. the letters, //'a, i, u, RRi, LLi, E, ai, O, au, h, y, v, r'|//
-    -   //ka-varga (ku)// i.e. the letters, //'k, kh, g, gh, ~N'//
-    -   //pa-varga (pu)// i.e. the letters, //'p, ph, b, bh, m'//
-    -   the upasarga //A~N//
-    -   //anusvAra (:)//
+    - //aT// i.e. the letters, //'a, i, u, RRi, LLi, E, ai, O, au, h, y, v, r'|//
+    - //ka-varga (ku)// i.e. the letters, //'k, kh, g, gh, ~N'//
+    - //pa-varga (pu)// i.e. the letters, //'p, ph, b, bh, m'//
+    - the upasarga //A~N//
+    - //anusvAra (:)//
 
     eg: //rAmENa, rAmANAm//
 

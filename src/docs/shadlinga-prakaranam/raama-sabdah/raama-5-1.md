@@ -49,18 +49,18 @@ understand this.
 
 First of all, let's see what are //'jhal'// and //'jash'|//
 
--   //'jhal'-pratyAhAra// represents all the consonants except //'y, v,
-    r, l'// and <vt>'~N, ~n, N, n, m'|</vt>
--   //'jash'-pratyAhAra// represents third letter of each //varga// i.e.
-    //g, j, D, d, b|//
+- //'jhal'-pratyAhAra// represents all the consonants except //'y, v,
+  r, l'// and //'~N, ~n, N, n, m'|//
+- //'jash'-pratyAhAra// represents third letter of each //varga// i.e.
+  //g, j, D, d, b|//
 
 So, the //sUtra// means that if any one of the these letters,
 
--   first letters of each //varga// i.e. //'k, ch, T, t, p'//
--   second letters of each //varga// i.e. //'kh, Ch, Th, th, ph'//
--   third letters of each //varga// i.e. //'g, j, D, d, b'//
--   fourth letters of each //varga// i.e. //'gh, jh, Dh, dh, bh'//
--   the //UShmANa// i.e. //'sh, Sh, s, h'//
+- first letters of each //varga// i.e. //'k, ch, T, t, p'//
+- second letters of each //varga// i.e. //'kh, Ch, Th, th, ph'//
+- third letters of each //varga// i.e. //'g, j, D, d, b'//
+- fourth letters of each //varga// i.e. //'gh, jh, Dh, dh, bh'//
+- the //UShmANa// i.e. //'sh, Sh, s, h'//
 
 come at the end a //pada//, then that letter will be replaced by a
 letter out of //'g, j, D, d, b'|//

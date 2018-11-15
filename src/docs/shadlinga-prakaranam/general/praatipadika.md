@@ -22,11 +22,11 @@ and
 
 A word is considered as **//prAtipadika//** if it:
 
--   is meaningful [ //arthavat//] and,
--   is not a //dhAtu// [ //adhAtuH//] and,
--   is not a //pratyaya// [ //apratyayaH//] and,
--   does not have a //pratyaya// at its end, except the //pratyaya//-s in the //kRRit// and //taddhita// sets, and
--   is labeled as //samAsa.//
+- is meaningful [ //arthavat//] and,
+- is not a //dhAtu// [ //adhAtuH//] and,
+- is not a //pratyaya// [ //apratyayaH//] and,
+- does not have a //pratyaya// at its end, except the //pratyaya//-s in the //kRRit// and //taddhita// sets, and
+- is labeled as //samAsa.//
 
 Now, let's take this list of words and see which words can be taken as //prAtipadika//:
 

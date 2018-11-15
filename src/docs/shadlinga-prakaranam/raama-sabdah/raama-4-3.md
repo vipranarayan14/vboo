@@ -25,12 +25,12 @@ says that the last letter of the
 
 Here,
 
--   //rAma// is the //a~Nga// of the //subanta-pratyaya, 'bhyas'//
--   and the last letter of the //a~Nga, 'rAma'// is //'a'//
--   and the first letter of the //subanta-pratyaya, 'bhyas'// is
-    //'bh'// and this, //'bh'// is one of the letters in the
-    //pratyAhAra, 'jhal'//
--   and the //subanta-pratyaya, 'bhyas'// represents //bahuvachana//
+- //rAma// is the //a~Nga// of the //subanta-pratyaya, 'bhyas'//
+- and the last letter of the //a~Nga, 'rAma'// is //'a'//
+- and the first letter of the //subanta-pratyaya, 'bhyas'// is
+  //'bh'// and this, //'bh'// is one of the letters in the
+  //pratyAhAra, 'jhal'//
+- and the //subanta-pratyaya, 'bhyas'// represents //bahuvachana//
 
 So, the last letter //'a'// in //'rAma'// is replaced by //'E'// --
 

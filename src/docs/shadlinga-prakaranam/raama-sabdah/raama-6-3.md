@@ -16,10 +16,10 @@ Now, the //sUtra// --
 
 says that if the //a~Nga// of the //subanta-pratyaya, 'Am'//
 
--   has its last letter as a short vowel //(hrasva) i.e. 'a, i, u, RRi,
-    LLi'//
--   or is given the //saMj~na, 'nadI'//
--   or has the //pratyaya, 'TAp', 'chAp',// or //'DAp'//
+- has its last letter as a short vowel //(hrasva) i.e. 'a, i, u, RRi,
+  LLi'//
+- or is given the //saMj~na, 'nadI'//
+- or has the //pratyaya, 'TAp', 'chAp',// or //'DAp'//
 
 then, //'nuT'// is //(Agama)// added to the //'Am'|//
 
@@ -31,17 +31,17 @@ For this, the //sUtra// --
 
 says that
 
--   a //Agama// having the letter //'T'// as //it// is to be placed at
-    the **start** at the of the reference
--   a //Agama// having the letter //'k'// as //it// is to be placed at
-    the **end** at the of the reference
+- a //Agama// having the letter //'T'// as //it// is to be placed at
+  the **start** at the of the reference
+- a //Agama// having the letter //'k'// as //it// is to be placed at
+  the **end** at the of the reference
 
 Here,
 
--   //'Am'// is the reference with which the //'nuT'// is asked to be
-    placed.
--   In //'nuT'//, the letter, //'T'// gets the //'it'-saMj~nA// by the
-    //sUtra,// “//halantyam//”
+- //'Am'// is the reference with which the //'nuT'// is asked to be
+  placed.
+- In //'nuT'//, the letter, //'T'// gets the //'it'-saMj~nA// by the
+  //sUtra,// “//halantyam//”
 
 So, //'nuT'// is to placed at the start of the //pratyaya, 'Am'// --
 

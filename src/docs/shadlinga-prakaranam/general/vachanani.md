@@ -8,9 +8,9 @@ Just as we have singular and plural in English, we have //vachana//-s in Samskri
 
 Here, //pANini// uses three //saMj~nA//-s (labels) to label the [//sup-pratyaya//-s](#/shadlinga-prakaranam/general/subanta-pratyayAH) and //ti~N-pratyaya//-s:
 
--   //Ekavachana//
--   //dvivachana//
--   //bahuvachana//
+- //Ekavachana//
+- //dvivachana//
+- //bahuvachana//
 
 These //saMj~nA//-s determine the sense of number (vachana) the //pratyaya//-s will be adding to the meaning of a [//prAtipadika//](#/shadlinga-prakaranam/general/praatipadika) or a //dhAtu.//
 

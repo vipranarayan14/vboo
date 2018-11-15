@@ -57,9 +57,9 @@ says that the consonant //(hal)// of a //sambuddhi// gets //lOpa// if it
 comes after a [//a~Nga//](#/shadlinga-prakaranam/general/angam) whose
 last letter is:
 
--   //E//
--   or //O//
--   or any short vowel //(hrasva)//
+- //E//
+- or //O//
+- or any short vowel //(hrasva)//
 
 Here,
 
