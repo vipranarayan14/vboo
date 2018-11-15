@@ -45,7 +45,7 @@ Here, the //pratyaya, '~NE'// is a //sup|// So, its replacement,
 //'ya'// is also to be treated as //sup|//
 
 Now, since the first letter //'y'// of the //pratyaya, 'ya'// is one of
-the letters in the <vt>pratyAhAra, 'ya~n' (y, v, r, ...)</vt>, by the
+the letters in the //pratyAhAra, 'ya~n' (y, v, r, ...)//, by the
 //sUtra//, “//supi cha|//” the last letter of //'rAma'// is replaced by
 its //dIrgha// i.e. the letter //'a'// at the end of //'rAma'// is
 replaced by //'A'// \[See under

@@ -72,7 +72,7 @@ gh'// will be replaced by //'g',// the letters //'ch, Ch, j, jh'// will
 be replaced by //'j'// and so on.
 
 Here, since //'rAmAt'// is a //pada// and its last letter, //'t'// is
-one of the letters of the <vt>pratyAhAra, 'jhal'</vt>, this last letter
+one of the letters of the //pratyAhAra, 'jhal'//, this last letter
 is replaced by the letter, //'d'// --
 
 ;;;prakriya
@@ -91,7 +91,7 @@ be replaced by the letters of the //pratyAhAra, 'char'//, optionally.
 
 Since, in //'rAmAd'// the last letter, //'d'// is a
 [//avasAna//](#/shadlinga-prakaranam/general/avasana) and is one of the
-letters of the <vt>pratyAhAra, 'jhal'</vt>, this last letter is replaced
+letters of the //pratyAhAra, 'jhal'//, this last letter is replaced
 by the letter, //'t'// --
 
 ;;;prakriya

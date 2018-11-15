@@ -39,7 +39,7 @@ says that if the letter //'s'//
 2.  and is one of the letters in a //pratyaya// or is itself a
     replacement to some other letter(s)
 3.  and comes just after the letters of the //pratyAhAra, 'iN'// i.e.
-    <vt>'i, u, RRi, LLi, E, O, ai, au, h, y, v, r, l'</vt> or the
+    //'i, u, RRi, LLi, E, O, ai, au, h, y, v, r, l'// or the
     letters of //ka-varga// i.e. //'k, kh, g, gh, ~N'//
 
 then it (the letter, //'s'//) is replaced by the letter, //'Sh'|//

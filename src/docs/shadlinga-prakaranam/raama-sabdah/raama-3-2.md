@@ -19,8 +19,8 @@ We know that
 [//sup-pratyaya//](#/shadlinga-prakaranam/general/subanta-pratyayAH) are
 a set of //pratyaya//-s which are added after a //prAtipadika// to
 change it into a //pada|// Now, of these, the //pratyaya//-s having
-their first letter as one of //ya~n// i.e. <vt>'y, v, r, l, ~N, ~n,
-N, n, m, jh, bh'</vt> are //'bhyAm', 'bhis'// and // 'bhyas'|//
+their first letter as one of //ya~n// i.e. //'y, v, r, l, ~N, ~n,
+N, n, m, jh, bh'// are //'bhyAm', 'bhis'// and // 'bhyas'|//
 
 Now, the above given //sUtra// says that the last letter of a
 //a-kArAnta// [//a~Nga//](#/shadlinga-prakaranam/general/angam) of such
