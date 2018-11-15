@@ -67,12 +67,12 @@ Thus, with these labels //(prathama, dvitiyA,// etc. and //Ekavachana, dvivachan
 | //Ekavachana// | //dvivachana// | //bahuvachana// |
 | :------------: | :------------: | :-------------: |
 |     //su//     |     //au//     |     //jas//     |
-|     //am//     |     //auT//    |     //shas//    |
-|     //TA//     |    //bhyAm//   |     //bhis//    |
-|     //~NE//    |    //bhyAm//   |    //bhyas//    |
-|    //~Nasi//   |    //bhyAm//   |    //bhyas//    |
-|    //~Nas//    |     //Os//     |      //Am//     |
-|     //~Ni//    |     //Os//     |     //sup//     |
+|     //am//     |    //auT//     |    //shas//     |
+|     //TA//     |   //bhyAm//    |    //bhis//     |
+|    //~NE//     |   //bhyAm//    |    //bhyas//    |
+|   //~Nasi//    |   //bhyAm//    |    //bhyas//    |
+|    //~Nas//    |     //Os//     |     //Am//      |
+|    //~Ni//     |     //Os//     |     //sup//     |
 
 So, now we can call //'su'// as //prathamA-Ekavachana-pratyaya,// //'auT'// as //dvitiyA-dvivachana-pratyaya,// //'bhis'// as //tRRitiyA-bahuvachana-pratyaya,// and so on.
 
