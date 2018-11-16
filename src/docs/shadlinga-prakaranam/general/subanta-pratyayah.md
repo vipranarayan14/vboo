@@ -86,18 +86,18 @@ we give the label //Ekavachana// for //su,// //dvivachana// for //au// and
 Thus, with these labels //(prathama, dvitiyA,// etc. and //Ekavachana, 
 dvivachana, etc.)// and the //subanta-pratyaya,// we can make a table:
 
-| //Ekavachana// | //dvivachana// | //bahuvachana// |
-| :------------: | :------------: | :-------------: |
-|     //su//     |     //au//     |     //jas//     |
-|     //am//     |    //auT//     |    //shas//     |
-|     //TA//     |   //bhyAm//    |    //bhis//     |
-|    //~NE//     |   //bhyAm//    |    //bhyas//    |
-|   //~Nasi//    |   //bhyAm//    |    //bhyas//    |
-|    //~Nas//    |     //Os//     |     //Am//      |
-|    //~Ni//     |     //Os//     |     //sup//     |
+| //vibhaktayaH//   | //Ekavachana// | //dvivachana// | //bahuvachana// |
+| :---------------- | :------------: | :------------: | :-------------: |
+| **//prathamA//**  |     //su//     |     //au//     |     //jas//     |
+| **//dvitIyA//**   |     //am//     |    //auT//     |    //shas//     |
+| **//tRRitIyA//**  |     //TA//     |   //bhyAm//    |    //bhis//     |
+| **//chaturthI//** |    //~NE//     |   //bhyAm//    |    //bhyas//    |
+| **//pa~nchamI//** |   //~Nasi//    |   //bhyAm//    |    //bhyas//    |
+| **//ShaShThI//**  |    //~Nas//    |     //Os//     |     //Am//      |
+| **//saptamI//**   |    //~Ni//     |     //Os//     |     //sup//     |
 
-So, now we can call //'su'// as //prathamA-Ekavachana-pratyaya,// //'auT'// as 
-//dvitiyA-dvivachana-pratyaya,// //'bhis'// as 
+So, now we can call //'su'// as //prathamA-Ekavachana-pratyaya,// //'auT'// as
+//dvitiyA-dvivachana-pratyaya,// //'bhis'// as
 //tRRitiyA-bahuvachana-pratyaya,// and so on.
 
 ## Use of //subanta-pratyaya//-s
