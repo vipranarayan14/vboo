@@ -22,7 +22,7 @@
   "main": " ",
   "scripts": {
     "eslint": "eslint .",
-    "remark-lint": "remark src/docs/. --use preset-lint-markdown-style-guide",
+    "remark-lint": "remark src/docs/. -q",
     "test": "npm run eslint && npm run remark-lint",
     "build": "NODE_ENV=production npm start",
     "start": "npm test && node ./scripts/start.js"
