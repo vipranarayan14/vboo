@@ -16,7 +16,7 @@ Here, this //sUtra// has to be used --
 Before using it, let us try to understand the above //sUtra// --
 
 We know that
-[//sup-pratyaya//](#/shadlinga-prakaranam/general/subanta-pratyayAH) are
+[//sup-pratyaya//](#/shadlinga-prakaranam/general/subanta-pratyayah) are
 a set of //pratyaya//-s which are added after a //prAtipadika// to
 change it into a //pada|// Now, of these, the //pratyaya//-s having
 their first letter as one of //ya~n// i.e. //'y, v, r, l, ~N, ~n,

@@ -4,7 +4,7 @@ When we want call or address someone (or something) we have use to the
 //'saMbOdhana-prathamA' vibhakti|//
 
 But, if you can remeber, in the notes on
-[//subanta-pratyaya//-s,](#/shadlinga-prakaranam/general/subanta-pratyayAH)
+[//subanta-pratyaya//-s,](#/shadlinga-prakaranam/general/subanta-pratyayah)
 we never saw any //subanta-pratyaya// associated with this
 //'saMbOdhana-prathamA' vibhakti|//
 

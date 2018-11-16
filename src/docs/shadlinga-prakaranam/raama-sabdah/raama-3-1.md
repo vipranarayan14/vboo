@@ -15,7 +15,7 @@ Here, the //sUtra// --
 > //TA~Nasi~NasaminAtsyAH| 7/1/12//
 
 says that the
-[//subanta-pratyaya//-s,](#/shadlinga-prakaranam/general/subanta-pratyayAH)
+[//subanta-pratyaya//-s,](#/shadlinga-prakaranam/general/subanta-pratyayah)
 //'TA', '~Nasi', '~Nas'// coming after a //'a'-kArAnta-shabda// (i.e.
 a //shabda// whose last letter is //'a'//), are replaced by //'ina',
 'At', 'sya'//, respectively.

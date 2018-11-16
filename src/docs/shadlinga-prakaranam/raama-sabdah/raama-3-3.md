@@ -15,7 +15,7 @@ Here, the //sUtra// --
 > //atO bhisa ais| 7/1/9//
 
 says that the
-[//subanta-pratyaya//](#/shadlinga-prakaranam/general/subanta-pratyayAH),
+[//subanta-pratyaya//](#/shadlinga-prakaranam/general/subanta-pratyayah),
 //'bhis'// coming after a //'a'-kArAnta-shabda// (i.e. a //shabda//
 whose last letter is //'a'//), is replaced by //'ais'|//
 

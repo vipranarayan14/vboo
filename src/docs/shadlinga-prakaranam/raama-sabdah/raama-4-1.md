@@ -32,7 +32,7 @@ by //'ya'// --
 //rAma + ya//
 ;;;
 
-Now, will this //'ya'// also be treated like a [//'sup'//](#/shadlinga-prakaranam/general/subanta-pratyayAH)?
+Now, will this //'ya'// also be treated like a [//'sup'//](#/shadlinga-prakaranam/general/subanta-pratyayah)?
 
 Here, the //sUtra// --
 

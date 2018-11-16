@@ -13,7 +13,7 @@ cannot be used in a sentence. So, by the //sUtra//-s --
 > //parashcha| 3/1/2//
 
 we get to add the
-[//subanta-pratyaya//-s](#/shadlinga-prakaranam/general/subanta-pratyayAH)
+[//subanta-pratyaya//-s](#/shadlinga-prakaranam/general/subanta-pratyayah)
 to the //prAtipadika// to give it the senses of //vibhakti// and
 [//vachana//](#/shadlinga-prakaranam/general/vachanani), thereby making
 it usable in a sentence.
