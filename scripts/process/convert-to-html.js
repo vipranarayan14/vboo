@@ -2,24 +2,20 @@ const remark = require('remark');
 const html = require('remark-html');
 const report = require('vfile-reporter');
 
-const { log } = require('../utils');
+const convertToHtml = data =>
 
-const convertToHtml = data => {
+  new Promise((resolve, reject) => {
 
-  let htmlOutput = '';
+    remark()
+      .use(html)
+      .process(data, (err, file) => err ?
 
-  remark()
-    .use(html)
-    .process(data, (err, file) => {
+        reject(report(err || file, { quiet: true })) :
 
-      log(report(err || file), 'error');
+        resolve(String(file))
 
-      htmlOutput = String(file);
+      );
 
-    });
-
-  return htmlOutput;
-
-};
+  });
 
 module.exports = { convertToHtml };

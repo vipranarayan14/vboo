@@ -1,20 +1,13 @@
-const { preprocesses } = require('./preprocesses');
+const { preprocess } = require('./preprocess');
 const { convertToHtml } = require('./convert-to-html');
 
-const processData = data => {
+const processData = data =>
 
-  let processedData = data;
+  new Promise((resolve, reject) => preprocess(data)
+    .then(convertToHtml)
+    .then(resolve)
+    .catch(err => reject(err))
 
-  preprocesses.forEach(process => {
-
-    processedData = processedData.replace(process.regex, process.replacement);
-
-    processedData = convertToHtml(processedData);
-
-  });
-
-  return processedData;
-
-};
+  );
 
 module.exports = { processData };

@@ -14,11 +14,7 @@ const writeOutput = (path, config) => data =>
 
       .then(writeFile(outputFilePath, data))
 
-      .catch(err => {
-
-        reject(err);
-
-      });
+      .catch(err => reject(err));
 
     resolve();
 

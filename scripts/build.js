@@ -1,5 +1,5 @@
 const { log } = require('./utils');
-const { process } = require('./process/process');
+const { process } = require('./process/');
 const rimraf = require('rimraf');
 const cpx = require('cpx');
 
@@ -13,23 +13,39 @@ const config = {
   srcExt: '.md'
 };
 
-const build = () => new Promise(resolve => {
+const clean = dir =>
 
-  rimraf(`${dist}/*`, rimrafErr => {
+  new Promise((resolve, reject) =>
 
-    log(rimrafErr, 'error');
+    rimraf(dir, err => err ? reject(err) : resolve())
 
-    process(config);
+  );
 
-    cpx.copy(`${src}/app/**/*`, `${dist}/`, cpxErr => {
+const copy = () =>
 
-      log(cpxErr, 'error');
+  new Promise((resolve, reject) =>
 
-      resolve();
+    cpx.copy(
+      `${src}/app/**/*`,
+      `${dist}/`,
+      err => err ? reject(err) : resolve()
+    )
+
+  );
+
+const build = () => new Promise((resolve, reject) => {
+
+  clean(`${dist}/*`)
+    .then(process(config))
+    .then(copy)
+    .then(resolve)
+    .catch(err => {
+
+      log(err, 'error');
+
+      reject(err);
 
     });
-
-  });
 
 });
 
