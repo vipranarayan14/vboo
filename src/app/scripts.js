@@ -77,7 +77,10 @@ const getBreadcrumbs = path => {
 
   const breadcrumbs = path.split('/');
 
-  if (path[path.length - 1] === '/') {
+  if (
+    breadcrumbs[breadcrumbs.length - 1] === '' ||
+    breadcrumbs[breadcrumbs.length - 1] === 'main'
+  ) {
 
     // eslint-disable-next-line no-magic-numbers
     return breadcrumbs.slice(0, -2);
