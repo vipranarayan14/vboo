@@ -73,6 +73,24 @@ const setPageContent = (content, contentPath, sectionId) => {
 
 };
 
+const getBreadcrumbs = path => {
+
+  const breadcrumbs = path.split('/');
+
+  if (
+    breadcrumbs[breadcrumbs.length - 1] === '' ||
+    breadcrumbs[breadcrumbs.length - 1] === 'main'
+  ) {
+
+    // eslint-disable-next-line no-magic-numbers
+    return breadcrumbs.slice(0, -2);
+
+  }
+
+  return breadcrumbs.slice(0, -1);
+
+};
+
 const updateBreadcrumbs = path => {
 
   let html = '',
@@ -83,11 +101,7 @@ const updateBreadcrumbs = path => {
 
     html += '<a href="#/home">Home</a> >';
 
-    const breadcrumbs = path.split('/');
-
-    breadcrumbs.pop();
-
-    breadcrumbs.forEach(breadcrumb => {
+    getBreadcrumbs(path).forEach(breadcrumb => {
 
       href += `/${breadcrumb}`;
       html += ` <a href="${href}/">${breadcrumb}</a> >`;
