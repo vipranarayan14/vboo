@@ -1,48 +1,24 @@
-// const { log, readFile } = require('../utils');
-// const { transcludeString } = require('hercule');
+const { readFileSync } = require('fs');
 
-const markdownInclude = require('markdown-include');
+const processTransclusions = data =>
 
-const processTransclusions = data => new Promise(resolve =>
+  new Promise(resolve => {
 
-  resolve(markdownInclude.replaceIncludeTags(data))
+    const transclusionRegex = /\n%\[.*?\]\(#\/(.*?)\)\n/g;
 
-);
+    let match,
+      transcludedData = data;
 
-// const processTransclusions = data =>
-//
-//   new Promise((resolve, reject) => {
-//
-//     const transclusionRegex = /{{#\/(.*?)}}/g;
-//
-//     const match = [];
-//     let transcludedData = data;
-//
-//     log(match);
-//
-//     while (match !== null) {
-//
-//       readFile(`src/docs/${match[1]}.md`)
-//         .then(content => {
-//
-//           transcludedData = transcludedData.replace(match[0], content);
-//           log(content);
-//
-//         })
-//         .catch(err => reject(err));
-//
-//       match = transclusionRegex.exec(data);
-//
-//       log(match);
-//
-//       if (match === null) {
-//
-//         resolve(transcludedData);
-//
-//       }
-//
-//     }
-//
-//   });
+    while ((match = transclusionRegex.exec(transcludedData))) {
+
+      const content = readFileSync(`src/docs/${match[1]}.md`, 'utf8');
+
+      transcludedData = transcludedData.replace(match[0], `\n${content}`);
+
+    }
+
+    resolve(transcludedData);
+
+  });
 
 module.exports = { processTransclusions };

@@ -2,7 +2,7 @@ const { getPaths } = require('./get-paths');
 const { readFile } = require('../utils');
 const { processData } = require('./process-data');
 const { writeOutput } = require('./write-output');
-// const { processTransclusions } = require('./process-transclusions');
+const { processTransclusions } = require('./process-transclusions');
 
 const process = config => () =>
 
@@ -11,7 +11,7 @@ const process = config => () =>
     getPaths(config).then(filePaths =>
 
       filePaths.forEach(filePath => readFile(filePath)
-        // .then(processTransclusions)
+        .then(processTransclusions)
         .then(processData)
         .then(writeOutput(filePath, config))
         .then(resolve)
