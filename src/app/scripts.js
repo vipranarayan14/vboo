@@ -93,13 +93,13 @@ const getBreadcrumbs = path => {
 
 const updateBreadcrumbs = path => {
 
-  let html = '',
+  let html = 'Home',
 
     href = '#';
 
   if (path !== 'home') {
 
-    html += '<a href="#/home">Home</a> >';
+    html = '<a href="#/home">Home</a> >';
 
     getBreadcrumbs(path).forEach(breadcrumb => {
 
