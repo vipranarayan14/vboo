@@ -8,7 +8,7 @@ form various //pada//-s.
 
 These //pratyaya//-s which add the senses of //vibhakti// (case) and
 //vachana// (number) to a //prAtipadika// thus making its meaning more
-specific, are called //subanta-pratyaya//-s.
+specific are called //subanta-pratyaya//-s.
 
 ## List of //subanta-pratyaya//-s
 
@@ -21,7 +21,7 @@ The //subanta-pratyaya//-s are:
 i.e. //su, au, jas, am, auT, shas, TA, bhyAm, bhis, ~NE, bhyAm, bhyas, ~Nasi,
 bhyAm, bhyas, ~Nas, Os, Am, ~Ni, Os, sup‌ |//
 
-//pANini// makes an //pratyAhAra// (abbreviation) of this list of
+//pANini// makes a //pratyAhAra// (abbreviation) of this list of
 //pratyaya//-s by taking the first syllable of the first //pratyaya, 'su'// and
 last letter of the last of the //pratyaya, 'p'// thus making //sup|//
 

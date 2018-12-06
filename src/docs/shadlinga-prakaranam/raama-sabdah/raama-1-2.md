@@ -47,11 +47,11 @@ But this //sUtra// --
 
 says that if the last letter of the //prAtipadika// is //'a'// and the
 first letter of the //pratyaya// is one of //'i, ii, u, uu, RRi, RRI,
-LLi, E, O, ai, au'// then the previous //sUtra, 'prathamayOH
+LLi, E, O, ai, au'//, then the previous //sUtra, 'prathamayOH
 pUrvasavarNaH'// does not apply.
 
-Then why is these //sUtra//-s discussed here? Because it has
-applicablity in some cases.
+Then why are these //sUtra//-s discussed here? Because it has
+applicability in some cases.
 
 If so, then what happens here? The last letter of the //prAtipadika//
 and the first letter of the //pratyaya// just undergoes
