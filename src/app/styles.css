@@ -96,6 +96,10 @@
   margin: 0 auto;
 }
 
+.vboo main ul > li > p {
+  margin-bottom: 0;
+}
+
 ul.checklist {
   list-style-type: none;
   padding-inline-start: 20px;
