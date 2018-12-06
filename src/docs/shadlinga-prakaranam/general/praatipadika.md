@@ -16,8 +16,8 @@ The process of forming //pada//-s from a //prAtipadika// is called as
 
 ## The Definition of //prAtipadika//
 
-For the convenience of understanding, let's consider here that 'word' means
-collection of vowels and consonants only.
+Here, for the convenience of understanding, let us take '//shabda//' to mean just some sound or
+a collection of sounds (such as //svara//-s and //vya~njana//-s).
 
 //paNini// says:
 
@@ -27,7 +27,7 @@ and
 
 > //kRRittaddhitasamAsAshcha//
 
-A word is considered as **//prAtipadika//** if it:
+A //shabda// is considered as **//prAtipadika//** if it:
 
 - is meaningful (//arthavat//) and,
 
@@ -38,10 +38,10 @@ A word is considered as **//prAtipadika//** if it:
 - does not have a //pratyaya// at its end, except the //pratyaya//-s in the
   //kRRit// and //taddhita// sets, and
 
-- is labeled as //samAsa.//
+- is labelled as //samAsa.//
 
-Now, let's take this list of words and see which words can be taken as
-//prAtipadika//:
+Now, let's take this list of //shabda//-s and see which them can be considered as
+//prAtipadika// --
 
 1. //kAkuki//
 2. //pra//
@@ -55,38 +55,48 @@ Now, let's take this list of words and see which words can be taken as
 10. //shaiva//
 11. //kRRiShNashrita//
 
-The first word in the list, //'kAkuki'// is just an assemblage of vowels and
-consonants and it does not have any meaning. Since a //prAtipadika// should be
-//arthavat// (have meaning), this word is not a //prAtipadika//. The second
-word, //'pra'// is a //upasarga// (a set prefixes attached to a verb). As this
-word too does not have any defined meaning of its own, is not a //prAtipadika
-|//
+- **//kAkuki// and //pra// are not //prAtipadika//**
 
-The third and fourth words, //'paTh'// (to read) and //'naT'// (to dance) are
-//dhAtu//-s. Though they have well-defined meanings, the //'adhAtuH'//
-condition of //prAtipadika // excludes them from having the label //prAtipadika
-|//
+  The first //shabda// in the list, //'kAkuki'// is just an assemblage of vowels and
+  consonants and it does not have any meaning. Since a //prAtipadika// should be
+  //arthavat// (have meaning), this //shabda// is not a //prAtipadika//. The second
+  //shabda//, //'pra'// is a //upasarga// (a set prefixes attached to a verb). As this
+  //shabda// too does not have any defined meaning of its own, is not a //prAtipadika
+  |//
 
-The fifth and sixth words, //'sup'// and //'lyap'// are //pratyaya//-s. So,
-they also cannot be called as //prAtipadika |//
+- **//paTh// and //naT// are not //prAtipadika//**
 
-The seventh and eighth words are, //'bAlau'// (to boys) and //'khAdati'// (s/he
-eats). Both of them are //arthavat// (have meaning), //adhAtuH// (not
-//dhAtu//-s) and //apratyayaH// (not //pratyaya//-s). So can these be called as
-//prAtipadika//? No. Why? Because, they both have //pratyaya//-s at their end
-and these //pratyaya//-s neither belong to the //kRRit// set nor to the
-//taddhita// set of //pratyaya//-s. The word, //'bAlau'// has //'au' pratyaya//
-which is a //subanta-pratyaya// and the word, //'khAdati'// has //'tip'
-pratyaya// which is a //ti~Nanta-pratyaya |//
+  The third and fourth //shabda//s, //'paTh'// (to read) and //'naT'// (to dance) are
+  //dhAtu//-s. Though they have well-defined meanings, the //'adhAtuH'//
+  condition of //prAtipadika // excludes them from having the label //prAtipadika
+  |//
 
-Now almost at last: The ninth and tenth words, //shrutavat// and //shaiva//
-**are //prAtipadika//-s** as they are meaningful, and are neither //dhAtu//-s
-nor //pratyaya//-s, and they do not have any //pratyaya//-s other than
-//kRRit// or //taddhita pratyaya//-s. //'shrutavat'// is formed from a //dhAtu,
-'shru'// and a //kRRit pratyaya, 'ktavatu'// while //'shaiva'// is formed from
-the combination //'shiva'// and a //taddhita pratyaya, 'aN' |//
+- **//'sup'// and //'lyap'// are not //prAtipadika//**
 
-Similarly, The last word, //'kRRiShNashrita'// is a //samasta-pada// (compound)
-formed from compounding of //'kRRiShNa'// and //'shrita' |// Since the word now
-has the label //samAsa//, it gets the label //prAtipadika// i.e. it can be
-called as //prAtipadika//.
+  The fifth and sixth //shabda//s, //'sup'// and //'lyap'// are //pratyaya//-s. So,
+  they also cannot be called as //prAtipadika |//
+
+- **//'bAlau'// and //'khAdati'// are not //prAtipadika//**
+
+  The seventh and eighth //shabda//-s are, //'bAlau'// (two boys) and //'khAdati'// (s/he
+  eats). Both of them are //arthavat// (have meaning), //adhAtuH// (not
+  //dhAtu//-s) and //apratyayaH// (not //pratyaya//-s). So can these be called as
+  //prAtipadika//? No. Why? Because they both have //pratyaya//-s at their end
+  and these //pratyaya//-s neither belong to the //kRRit// set nor to the
+  //taddhita// set of //pratyaya//-s. The //shabda//, //'bAlau'// has //'au' pratyaya//
+  which is a //subanta-pratyaya// and the //shabda//, //'khAdati'// has //'tip'
+  pratyaya// which is a //ti~Nanta-pratyaya |//
+
+- **//shrutavat//, //kRRiShNashrita// and //shaiva// ARE //prAtipadika//**
+
+  The ninth and tenth //shabda//-s, //shrutavat// and //shaiva//
+  **are //prAtipadika//-s** as they are meaningful, and are neither //dhAtu//-s
+  nor //pratyaya//-s, and they do not have any //pratyaya//-s other than
+  //kRRit// or //taddhita pratyaya//-s. //'shrutavat'// is formed from a //dhAtu,
+  'shru'// and a //kRRit pratyaya, 'ktavatu'// while //'shaiva'// is formed from
+  the combination //'shiva'// and a //taddhita pratyaya, 'aN' |//
+
+  Similarly, The last //shabda//, //'kRRiShNashrita'// is a //samasta-pada// (compound)
+  formed from the compounding of //'kRRiShNa'// and //'shrita' |// Since the //shabda// now
+  has the label //samAsa//, it gets the label //prAtipadika// i.e. it can be
+  called as //prAtipadika//.
