@@ -1,6 +1,6 @@
 # //hE rAma//
 
-When we want call or address someone (or something) we have use to the
+When we want to call or address someone (or something) we have to use the
 //'saMbOdhana-prathamA' vibhakti|//
 
 But, if you can remeber, in the notes on
