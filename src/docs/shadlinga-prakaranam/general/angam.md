@@ -77,7 +77,7 @@ Again, by the //sUtra, ‘kartari shap| 3/1 68’// we place the //pratyaya,
 
 ;;;
 
-Now what is the //a~Nga// of the //pratyaya, ‘tip’//?
+Now, what is the //a~Nga// of the //pratyaya, ‘tip’//?
 
 As said before, we start from the first letter of the //dhAtu// and go till the
 first letter is the //tip-pratyaya// and mark it as the //a~Nga// of the
@@ -105,21 +105,21 @@ Continuing with the previous example, let’s add a //upasarga//, say
 Now, what is the //a~Nga// of the //pratyaya, ‘tip’//?
 
 We added the //tip-pratyaya// with reference to //bhU//, right? So, as per
-definition, starting from the first letter of //‘bhU’ dhAtu// , till the
+definition, starting from the first letter of //‘bhU’ dhAtu//, till the
 first letter of the //pratyaya, 'tip’// is considered the //a~Nga// of the
 //tip-pratyaya|//
 
 ![Angam Example: sam bhu shap tip
 animation](images/angam-eg-sam-bhu-shap-and-tip-anim.gif)
 
-And, we see that, the //upasarga, ‘sam’// is not included within the
+And, we see that the //upasarga, ‘sam’// is not included within the
 //a~Nga// of the //pratyaya|//
 
 ![Angam Example: sam bhu shap tip](images/angam-eg-sam-bhu-shap-and-tip.png)
 
 ## Summary
 
-Thereby, we learn that the //a~Nga// of a //pratyaya//:
+Thereby, we learn that the //a~Nga// of a //pratyaya// :
 
 - is determined by the word with reference to which the //pratyaya// is
   instructed to be placed.
@@ -128,4 +128,4 @@ Thereby, we learn that the //a~Nga// of a //pratyaya//:
 
 - will not include the //pratyaya// or anything after it.
 
-- will not will include anything before the reference word.
+- will not include anything before the reference word.

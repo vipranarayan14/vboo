@@ -47,7 +47,7 @@ And by the //sUtra// --
 
 > //tasya lOpaH| 1/3/9//
 
-the //it-saMj~naka// i.e. one which is labeled as //'it'// should get
+the //it-saMj~naka// i.e. one which is labelled as //'it'// should get
 //'lOpa'// i.e. it should disappear.
 
 But the following //sUtra// --

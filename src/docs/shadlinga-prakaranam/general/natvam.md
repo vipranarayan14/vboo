@@ -15,7 +15,7 @@ word is changed into the letter,
 The letter, //'n'// is changed into //'N'://
 
 1. when, within a word, it comes just after the letter, //'r'// or //'Sh'// or
-   even when it is seperated from them by
+   even when it is separated from them by
    one or more of these:
 
    - //aT// i.e. the letters, //'a, i, u, RRi, LLi, E, ai, O, au, h, y, v, r'|//

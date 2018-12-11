@@ -56,7 +56,7 @@ And now, the //sUtra// --
 > //sasajuShO ruH| 8/2/66//
 
 says that //'s'// at the end of a //pada// is replaced by //'ru'|//
-Since, //'rAma + s'// now has the label //'pada'//, and //'s'// is at
+Since //'rAma + s'// now has the label //'pada'//, and //'s'// is at
 the end of this //pada//, we get --
 
 ;;;prakriya
@@ -75,7 +75,7 @@ Finally, by the //sUtra// --
 > //kharavasAnayOrvisarjanIyaH| 8/3/15//
 
 the //'r'// which is an
-[//avasAna//](#/shadlinga-prakaranam/general/avasana) , is replaced by
+[//avasAna//](#/shadlinga-prakaranam/general/avasana), is replaced by
 //visarga (:)// --
 
 ;;;prakriya
