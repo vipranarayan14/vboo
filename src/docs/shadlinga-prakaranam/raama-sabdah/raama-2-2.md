@@ -23,7 +23,7 @@ the last consonant //(vya~njana)// in the //upadEsha// (here, the
 
 > //tasya lOpaH| 1/3/9//
 
-the //it-saMj~naka// i.e. one which is labeled as //'it'// gets
+the //it-saMj~naka// i.e. one which is labelled as //'it'// gets
 //'lOpa'// i.e. it should disappears. So, we will get --
 
 ;;;prakriya

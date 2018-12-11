@@ -69,7 +69,7 @@ Here,
 2. the last letter of the //a~Nga// is //'a'// which is a short vowel
    //(hrasva).//
 
-3. the //pratyaya, 'su'// is labeled as //sambuddhi// and has a
+3. the //pratyaya, 'su'// is labelled as //sambuddhi// and has a
    consonant, //'s'// in it.
 
 So, the //'s'// after //'rAma'// gets //lOpa// i.e. it disappears --
