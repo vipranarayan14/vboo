@@ -21,7 +21,7 @@
   "homepage": "https://github.com/vipranarayan14/vboo#readme",
   "main": " ",
   "scripts": {
-    "eslint": "eslint .",
+    "eslint": "eslint . --ignore-path .gitignore",
     "remark-lint": "remark src/docs/. -q",
     "test": "npm run eslint && npm run remark-lint",
     "build": "NODE_ENV=production npm start",
