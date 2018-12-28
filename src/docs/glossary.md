@@ -9,7 +9,7 @@ in the website.
 4. **Declension:** 
     - The act of [declining](https://en.m.wiktionary.org/wiki/decline "decline") a word
     - The act of listing the [inflections](https://en.m.wiktionary.org/wiki/inflection#English "inflection") of a noun, pronoun or adjective in order.
-5.
+5. **Conjugation:** To inflect a dhatu for each person, in order, for one or more tenses.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAzNjM0NTEsLTkzOTQxMjM0OF19
+eyJoaXN0b3J5IjpbMzYzOTUyMzIyLC05Mzk0MTIzNDhdfQ==
 -->
