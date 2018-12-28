@@ -27,10 +27,13 @@
 - अन्तर
 - त्यद्
 - तद्
+- यद्
+- एतद्
+- इदम्
 - अदस्
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzI3ODQ5NiwxMzc3OTU1ODU3LC0xND
-g1NTA2NjkxLDg5NDIyMzQxNSw5MDM4MzY5MDQsLTE2Nzk3MjQ4
-NDBdfQ==
+eyJoaXN0b3J5IjpbLTIxMTI5NzIxNjEsMTM3Nzk1NTg1NywtMT
+Q4NTUwNjY5MSw4OTQyMjM0MTUsOTAzODM2OTA0LC0xNjc5NzI0
+ODQwXX0=
 -->
