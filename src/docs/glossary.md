@@ -10,7 +10,8 @@ in the website.
     - The act of declining a word
     - The act of listing the inflections of a noun, pronoun or adjective in order.
 5. **Conjugate:** To inflect a //dhaatu// for each //puruSa// (person) and //vachana// (number), in order, for one or more tenses or moods.
+6. **Conjugation:** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzgwNTQ2NSwtMjA3NjgzNjg2OCw1NT
+eyJoaXN0b3J5IjpbLTc4MDQwMTEzOCwtMjA3NjgzNjg2OCw1NT
 E2MDM2NDMsNzA0NjgwNjYwLC05Mzk0MTIzNDhdfQ==
 -->
