@@ -9,8 +9,8 @@ in the website.
 4. **Declension:** 
     - The act of declining a word
     - The act of listing the inflections of a noun, pronoun or adjective in order.
-5. **Conjugation:** To inflect a //dhaatu// for each //puruSa// (person) and //vachana// (number), in order, for one or more tenses or moods.
+5. **Conjugate:** To inflect a //dhaatu// for each //puruSa// (person) and //vachana// (number), in order, for one or more tenses or moods.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY4MzY4NjgsNTUxNjAzNjQzLDcwND
-Y4MDY2MCwtOTM5NDEyMzQ4XX0=
+eyJoaXN0b3J5IjpbMTAzMzgwNTQ2NSwtMjA3NjgzNjg2OCw1NT
+E2MDM2NDMsNzA0NjgwNjYwLC05Mzk0MTIzNDhdfQ==
 -->
