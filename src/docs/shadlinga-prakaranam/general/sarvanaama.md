@@ -1,7 +1,7 @@
 # //sarvanaama//
 
-//sarvanaama// is the //samj~Naa// given to a set of //shabda//-s that differ in the 
+//sarvanaama// is the //samj~Naa// given to a set of //shabda//-s that differ from the general 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0MjIzNDE1LDkwMzgzNjkwNCwtMTY3OT
-cyNDg0MF19
+eyJoaXN0b3J5IjpbLTE1OTM3Njg1NzIsODk0MjIzNDE1LDkwMz
+gzNjkwNCwtMTY3OTcyNDg0MF19
 -->
