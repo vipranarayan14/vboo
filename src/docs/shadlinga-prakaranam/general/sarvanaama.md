@@ -38,9 +38,9 @@
 34. //bhavatu//
 35. //kim//
 
-
+The derivation and declension of these //shab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTEyODI3LDUyNTkzMzQ4NSwxMjgyMT
-M4OTYxLDEzNzc5NTU4NTcsLTE0ODU1MDY2OTEsODk0MjIzNDE1
-LDkwMzgzNjkwNCwtMTY3OTcyNDg0MF19
+eyJoaXN0b3J5IjpbMjY2ODQzNTM4LDEzMjExMjgyNyw1MjU5Mz
+M0ODUsMTI4MjEzODk2MSwxMzc3OTU1ODU3LC0xNDg1NTA2Njkx
+LDg5NDIyMzQxNSw5MDM4MzY5MDQsLTE2Nzk3MjQ4NDBdfQ==
 -->
