@@ -1,8 +1,8 @@
 # //sarvanaama//
 
-//sarvanaama// is the //samj~Naa// given to //shabda//-s in this group:
+//sarvanaama// is the //samj~Naa// given to //shabda//-s in the //sarvaadigaNa|// The //sarv
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU1MjU2MjQsMTM3Nzk1NTg1NywtMT
+eyJoaXN0b3J5IjpbLTE4MDM1MTc2NDEsMTM3Nzk1NTg1NywtMT
 Q4NTUwNjY5MSw4OTQyMjM0MTUsOTAzODM2OTA0LC0xNjc5NzI0
 ODQwXX0=
 -->
