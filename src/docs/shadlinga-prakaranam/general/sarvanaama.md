@@ -16,9 +16,14 @@
 - नेम
 - सम
 - सिम
-- 
+- पूर्व
+- पर
+- अवर
+- दक्षिण
+- उत्तर
+- अपराधराणि
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MzE0NDIyLDEzNzc5NTU4NTcsLTE0OD
+eyJoaXN0b3J5IjpbNTMzNjg2Nzg4LDEzNzc5NTU4NTcsLTE0OD
 U1MDY2OTEsODk0MjIzNDE1LDkwMzgzNjkwNCwtMTY3OTcyNDg0
 MF19
 -->
