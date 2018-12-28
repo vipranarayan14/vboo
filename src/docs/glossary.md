@@ -7,9 +7,9 @@ in the website.
 2. **Inflection:** A change in the form of a word that reflects a change in grammatical function.
 3. **Decline:** To inflect for [case](https://en.m.wiktionary.org/wiki/case "case"), [number](https://en.m.wiktionary.org/wiki/number "number") and sometimes [gender](https://en.m.wiktionary.org/wiki/gender "gender").
 4. **Declension:** 
-    - The act of [declining](https://en.m.wiktionary.org/wika word
-    - The act of listing the [inflections](https://en.m.wiktionary.org/wiki/inflection#English "inflection") of a noun, pronoun or adjective in order.
+    - The act of declining a word
+    - The act of listing the inflections of a noun, pronoun or adjective in order.
 5. **Conjugation:** To inflect a //dhaatu// for each //puruSa// (person) and //vachana// (number), in order, for one or more tenses or moods.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTExNzM2ODQsLTkzOTQxMjM0OF19
+eyJoaXN0b3J5IjpbNzA0NjgwNjYwLC05Mzk0MTIzNDhdfQ==
 -->
