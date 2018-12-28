@@ -24,14 +24,14 @@
 20. //apara//
 21. //adhara//
 22. //sva//
-- antara
-- tyad
-- tad
-- yad
-- Etad
-- idam
-- adas
-- Eka
+23. //antara//
+24. //tyad//
+25. //tad//
+26. //yad//
+27. //Etad//
+28. //idam//
+29. //adas//
+30. //Eka
 - dvi
 - yuShmad
 - asmad
@@ -39,7 +39,7 @@
 - kim
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA2MTEyNyw1MjU5MzM0ODUsMTI4Mj
+eyJoaXN0b3J5IjpbMTQ0NTQ1NDc2Niw1MjU5MzM0ODUsMTI4Mj
 EzODk2MSwxMzc3OTU1ODU3LC0xNDg1NTA2NjkxLDg5NDIyMzQx
 NSw5MDM4MzY5MDQsLTE2Nzk3MjQ4NDBdfQ==
 -->
