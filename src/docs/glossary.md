@@ -7,13 +7,13 @@ in the website.
 2. **Inflection:** A change in the form of a word to express tense, gender, number, mood, etc.
 3. **Decline:** To inflect for case, number and sometimes gender.
 4. **Declension:** 
-    - The act of declining a word
-    - The act of listing the inflections of a noun, pronoun or adjective in order.
+    - The act of declining a //praatipadika|//
+    - The act of listing the inflections of a //praatipadika// in order.
 5. **Conjugate:** To inflect a //dhaatu// for each //puruSa// (person) and //vachana// (number), in order, for one or more tenses or moods.
 6. **Conjugation:** 
     - The act of conjugating a //dhatu|//
-    - The act of inflections of 
+    - The act of inflections of //dhatu// in order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjgyNjk3NywtMjA3NjgzNjg2OCw1NT
+eyJoaXN0b3J5IjpbLTQwMjQ1MTM1NywtMjA3NjgzNjg2OCw1NT
 E2MDM2NDMsNzA0NjgwNjYwLC05Mzk0MTIzNDhdfQ==
 -->
