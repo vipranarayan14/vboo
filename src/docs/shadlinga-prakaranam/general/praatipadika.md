@@ -11,8 +11,8 @@ The //prAtipadika//-s themselves cannot be used in a sentence. Only the
 //pada//-s formed from their respective //prAtipadika//-s can be used in a
 sentence.
 
-The process of forming //pada//-s from a //prAtipadika// is called as
-**Declension** in English.
+The process of forming a //pada// from a //prAtipadika// is called as
+**declension** in English.
 
 ## The Definition of //prAtipadika//
 
@@ -100,3 +100,6 @@ Now, let's take this list of //shabda//-s and see which them can be considered a
   formed from the compounding of //'kRRiShNa'// and //'shrita' |// Since the //shabda// now
   has the label //samAsa//, it gets the label //prAtipadika// i.e. it can be
   called as //prAtipadika//.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTg1Mzk4ODMxNF19
+-->
