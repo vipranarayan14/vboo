@@ -1,8 +1,9 @@
 # //sarvanaama//
 
-//sarvanaama// is the //samj~Naa// given to //shabda//-s in the //sarvaadigaNa|// The //sarv
+//sarvanaama// is the //samj~Naa// given to //shabda//-s in the //sarvaadigaNa|// The //sarvaadigaNa// consists of the following //shabdas//-s:
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM1MTc2NDEsMTM3Nzk1NTg1NywtMT
-Q4NTUwNjY5MSw4OTQyMjM0MTUsOTAzODM2OTA0LC0xNjc5NzI0
-ODQwXX0=
+eyJoaXN0b3J5IjpbMTA1MTAxNTM4MSwxMzc3OTU1ODU3LC0xND
+g1NTA2NjkxLDg5NDIyMzQxNSw5MDM4MzY5MDQsLTE2Nzk3MjQ4
+NDBdfQ==
 -->
