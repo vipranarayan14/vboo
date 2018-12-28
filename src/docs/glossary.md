@@ -11,8 +11,8 @@ in the website.
     - The act of listing the inflections of a noun, pronoun or adjective in order.
 5. **Conjugate:** To inflect a //dhaatu// for each //puruSa// (person) and //vachana// (number), in order, for one or more tenses or moods.
 6. **Conjugation:** 
-7. 
+    - The act of [conjugating](https://en.m.wiktionary.org/wiki/conjugate "conjugate") a [verb](https://en.m.wiktionary.org/wiki/verb "verb").
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjU0MzM0NSwtMjA3NjgzNjg2OCw1NT
-E2MDM2NDMsNzA0NjgwNjYwLC05Mzk0MTIzNDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNjM0NDg4ODYsLTIwNzY4MzY4NjgsNT
+UxNjAzNjQzLDcwNDY4MDY2MCwtOTM5NDEyMzQ4XX0=
 -->
