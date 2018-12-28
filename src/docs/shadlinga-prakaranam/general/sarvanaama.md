@@ -31,15 +31,16 @@
 27. //Etad//
 28. //idam//
 29. //adas//
-30. //Eka
-- dvi
-- yuShmad
-- asmad
-- bhavatu
-- kim
+30. //Eka//
+31. //dvi//
+32. //yuShmad//
+33. //asmad//
+34. //bhavatu//
+35. //kim//
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTQ1NDc2Niw1MjU5MzM0ODUsMTI4Mj
-EzODk2MSwxMzc3OTU1ODU3LC0xNDg1NTA2NjkxLDg5NDIyMzQx
-NSw5MDM4MzY5MDQsLTE2Nzk3MjQ4NDBdfQ==
+eyJoaXN0b3J5IjpbMTMyMTEyODI3LDUyNTkzMzQ4NSwxMjgyMT
+M4OTYxLDEzNzc5NTU4NTcsLTE0ODU1MDY2OTEsODk0MjIzNDE1
+LDkwMzgzNjkwNCwtMTY3OTcyNDg0MF19
 -->
