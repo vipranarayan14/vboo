@@ -1,6 +1,6 @@
 # Glossary
 
-**
+**Glossary** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMTUxNzg5XX0=
+eyJoaXN0b3J5IjpbLTIxNjcxODc0N119
 -->
