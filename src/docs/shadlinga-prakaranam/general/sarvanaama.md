@@ -16,14 +16,14 @@
 12. //nEma//
 13. //sama//
 14. //sima//
-1 pUrva
-- para
-- avara
-- dakShiNa
-- uttara
-- apara
-- adhara
-- sva
+15. //pUrva//
+16. //para//
+17. //avara//
+18. //dakShiNa//
+19. //uttara//
+20. //apara//
+21. //adhara//
+22. //sva//
 - antara
 - tyad
 - tad
@@ -39,7 +39,7 @@
 - kim
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDY0MjIzNiw1MjU5MzM0ODUsMTI4Mj
+eyJoaXN0b3J5IjpbLTE3NzA2MTEyNyw1MjU5MzM0ODUsMTI4Mj
 EzODk2MSwxMzc3OTU1ODU3LC0xNDg1NTA2NjkxLDg5NDIyMzQx
 NSw5MDM4MzY5MDQsLTE2Nzk3MjQ4NDBdfQ==
 -->
