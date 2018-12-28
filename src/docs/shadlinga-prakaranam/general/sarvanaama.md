@@ -2,7 +2,7 @@
 
 //sarvanaama// is the //samj~Naa// given to //shabda//-s in the //sarvaadigaNa|// The //sarvaadigaNa// consists of the following //shabdas//-s:
 
-- सर्व
+1. सर्व
 - विश्व
 - उभ
 - उभय
@@ -40,7 +40,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1OTMzNDg1LDEyODIxMzg5NjEsMTM3Nz
-k1NTg1NywtMTQ4NTUwNjY5MSw4OTQyMjM0MTUsOTAzODM2OTA0
-LC0xNjc5NzI0ODQwXX0=
+eyJoaXN0b3J5IjpbMTE0ODU0NDY5LDUyNTkzMzQ4NSwxMjgyMT
+M4OTYxLDEzNzc5NTU4NTcsLTE0ODU1MDY2OTEsODk0MjIzNDE1
+LDkwMzgzNjkwNCwtMTY3OTcyNDg0MF19
 -->
