@@ -31,9 +31,14 @@
 - एतद्
 - इदम्
 - अदस्
-- 
+- एक
+- द्वि
+- युष्मद्
+- अस्मद्
+- भवतु
+- किम्
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI5NzIxNjEsMTM3Nzk1NTg1NywtMT
-Q4NTUwNjY5MSw4OTQyMjM0MTUsOTAzODM2OTA0LC0xNjc5NzI0
-ODQwXX0=
+eyJoaXN0b3J5IjpbMTI4MjEzODk2MSwxMzc3OTU1ODU3LC0xND
+g1NTA2NjkxLDg5NDIyMzQxNSw5MDM4MzY5MDQsLTE2Nzk3MjQ4
+NDBdfQ==
 -->
