@@ -1,7 +1,8 @@
 # Glossary
 
-The list here explains or defines difficult or unusual words and expressions used 
-in the website.
+The list here explains or defines difficult or unusual words and expressions used in the website.
+
+## hi 
 
 1. **Inflect:** To change the form of a word to express tense, gender, number, mood, etc.
 2. **Inflection:** A change in the form of a word to express tense, gender, number, mood, etc.
@@ -14,6 +15,7 @@ in the website.
     - The act of conjugating a //dhatu|//
     - The act of inflections of //dhatu// in order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjQ1MTM1NywtMjA3NjgzNjg2OCw1NT
-E2MDM2NDMsNzA0NjgwNjYwLC05Mzk0MTIzNDhdfQ==
+eyJoaXN0b3J5IjpbMTM1MDgyMTY0NiwtNDAyNDUxMzU3LC0yMD
+c2ODM2ODY4LDU1MTYwMzY0Myw3MDQ2ODA2NjAsLTkzOTQxMjM0
+OF19
 -->
