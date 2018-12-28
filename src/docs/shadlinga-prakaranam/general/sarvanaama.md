@@ -38,9 +38,9 @@
 34. //bhavatu//
 35. //kim//
 
-The derivation and declension of these //shab
+The derivation and declension of these //shabda//-s differ from 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2ODQzNTM4LDEzMjExMjgyNyw1MjU5Mz
-M0ODUsMTI4MjEzODk2MSwxMzc3OTU1ODU3LC0xNDg1NTA2Njkx
-LDg5NDIyMzQxNSw5MDM4MzY5MDQsLTE2Nzk3MjQ4NDBdfQ==
+eyJoaXN0b3J5IjpbLTc4MTI0MDQ4MywxMzIxMTI4MjcsNTI1OT
+MzNDg1LDEyODIxMzg5NjEsMTM3Nzk1NTg1NywtMTQ4NTUwNjY5
+MSw4OTQyMjM0MTUsOTAzODM2OTA0LC0xNjc5NzI0ODQwXX0=
 -->
