@@ -1,6 +1,6 @@
 # Glossary
 
-The list here explains or defines difficult or unusual words and expressions used in the website.
+The list here explains or defines difficult or unusual words and expressions used in this section.
 
 1. **Inflect:** To change the form of a word to express tense, gender, number, mood, etc.
 2. **Inflection:** A change in the form of a word to express tense, gender, number, mood, etc.
@@ -13,7 +13,7 @@ The list here explains or defines difficult or unusual words and expressions use
     - The act of conjugating a //dhatu|//
     - The act of inflections of //dhatu// in order.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MTM3NjgxLDEzNTA4MjE2NDYsLTQwMj
+eyJoaXN0b3J5IjpbNjc5MTE5OTg0LDEzNTA4MjE2NDYsLTQwMj
 Q1MTM1NywtMjA3NjgzNjg2OCw1NTE2MDM2NDMsNzA0NjgwNjYw
 LC05Mzk0MTIzNDhdfQ==
 -->
