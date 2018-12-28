@@ -24,9 +24,13 @@
 - अपर
 - अधर
 - स्व
+- अन्तर
+- त्यद्
+- तद्
+- अदस्
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjY0OTg4OCwxMzc3OTU1ODU3LC0xND
+eyJoaXN0b3J5IjpbMTYwNzI3ODQ5NiwxMzc3OTU1ODU3LC0xND
 g1NTA2NjkxLDg5NDIyMzQxNSw5MDM4MzY5MDQsLTE2Nzk3MjQ4
 NDBdfQ==
 -->
