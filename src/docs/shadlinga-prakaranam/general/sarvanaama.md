@@ -1,6 +1,6 @@
 # //sarvanaama//
 
-//sarvanaama// is the label 
+//sarvanaama// is the //samj~Naa// given to a set of sha
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjU3OTAyOCwtMTY3OTcyNDg0MF19
+eyJoaXN0b3J5IjpbMTg3MzI0Njg1MSwtMTY3OTcyNDg0MF19
 -->
