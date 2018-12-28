@@ -21,9 +21,12 @@
 - अवर
 - दक्षिण
 - उत्तर
-- अपराधराणि
+- अपर
+- अधर
+- स्व
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNjg2Nzg4LDEzNzc5NTU4NTcsLTE0OD
-U1MDY2OTEsODk0MjIzNDE1LDkwMzgzNjkwNCwtMTY3OTcyNDg0
-MF19
+eyJoaXN0b3J5IjpbMTQ5MjY0OTg4OCwxMzc3OTU1ODU3LC0xND
+g1NTA2NjkxLDg5NDIyMzQxNSw5MDM4MzY5MDQsLTE2Nzk3MjQ4
+NDBdfQ==
 -->
