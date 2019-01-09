@@ -8,9 +8,10 @@
 4. //lRRiT//
 5. //lET//
 6. //lOT//
-7. //la
-
+7. //la^N//
+8. //li^N//
+9. //
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjMxOTAyNywtMTExNzc5ODg5MV19
+eyJoaXN0b3J5IjpbNzMxMzI1NjkxLC0xMTE3Nzk4ODkxXX0=
 -->
