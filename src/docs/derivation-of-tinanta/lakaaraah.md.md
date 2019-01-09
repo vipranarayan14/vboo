@@ -15,9 +15,8 @@
 
 These //pratyaya//-s are collectively called as //lakaara//-s.
 
-## 
+## //lakaara//-s 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYwMDQ3NDcsLTExMTc3OTg4OTFdfQ
-==
+eyJoaXN0b3J5IjpbNDEzNjA1MzQ0LC0xMTE3Nzk4ODkxXX0=
 -->
