@@ -1,8 +1,8 @@
 # //lakaaraaH//
 
-//kriyaapada//-s (verbs) are mostly derived from //dhatu//-s. There are 10 //pratyaya//-s which help us 
+//kriyaapada//-s (verbs) are mostly derived from //dhatu//-s. There are 10 //pratyaya//-s which help in deriving //kriyaapada//-s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTE0MjQwMCwtMTExNzc5ODg5MV19
+eyJoaXN0b3J5IjpbNjI2MDY0MjU0LC0xMTE3Nzk4ODkxXX0=
 -->
