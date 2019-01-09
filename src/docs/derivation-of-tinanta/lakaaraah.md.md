@@ -13,8 +13,8 @@
 9. //lu^N//
 10. //lRRi^N//
 
-These 
+These //pratyaya//-s are collectively called as //lakaara//-s.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODAyNzE1MywtMTExNzc5ODg5MV19
+eyJoaXN0b3J5IjpbLTY1NDU3MjE2MSwtMTExNzc5ODg5MV19
 -->
