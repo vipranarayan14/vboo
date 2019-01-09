@@ -15,8 +15,8 @@
 
 These //pratyaya//-s are collectively called as //lakaara//-s.
 
-## //lakaara//-s add 
+## Derivation of //kriya
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU0ODg5NSwtMTExNzc5ODg5MV19
+eyJoaXN0b3J5IjpbMTQzMjI1ODYwOSwtMTExNzc5ODg5MV19
 -->
