@@ -10,8 +10,12 @@
 6. //lOT//
 7. //la^N//
 8. //li^N//
-9. //
+9. //lu^N//
+10. //lRRi^N//
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMzI1NjkxLC0xMTE3Nzk4ODkxXX0=
+eyJoaXN0b3J5IjpbLTE2MzE0NTczMzAsLTExMTc3OTg4OTFdfQ
+==
 -->
