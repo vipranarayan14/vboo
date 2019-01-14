@@ -1,11 +1,4 @@
-const { processVtranslit } = require('./process-vtranslit');
-
 const preprocesses = [
-
-  {
-    regex: /\/\/((.|\n)*?)\/\//g,
-    replacement: processVtranslit
-  },
 
   {
     regex: /;;;(.*?)\n((.|\n)*?)\n;;;/g,
