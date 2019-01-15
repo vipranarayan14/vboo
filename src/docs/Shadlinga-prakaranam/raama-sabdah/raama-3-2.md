@@ -5,9 +5,9 @@ the word, //rAma// in the sense of instrument //(tRRitIyA-vibhakti)//
 and in dual //(dvivachana)//, we add the //subanta-pratyaya// associated
 with same //vibhakti// and //vachana//, which is //'bhyAm',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + bhyAm//
-;;;
+:::
 
 Here, this //sUtra// has to be used --
 
@@ -42,15 +42,15 @@ In this context, we have the //prAtipadika, 'rAma'// and the
 So, by the above given //sUtra,// the last letter of the //a~Nga,
 'rAma'// which is //'a'// is replaced by its //dIrgha// i.e. //'A'// --
 
-;;;prakriya
+:::prakriya
 //rAmA + bhyAm//
-;;;
+:::
 
 Finally, we get --
 
-;;;prakriya
+:::prakriya
 //rAmAbhyAm//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmAbhyAm'// by adding the
 //subanta-pratyaya, 'bhyAm'// to the //prAtipadika, 'rAma'|//

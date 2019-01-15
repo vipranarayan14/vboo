@@ -30,17 +30,17 @@ we want to use the //shabda//, //rAma// in the sense of vocative
 singular //(Ekavachana)//, we add the //subanta-pratyaya// associated
 with same //vibhakti// and //vachana//, which is //'su',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + su//
-;;;
+:::
 
 Now, by the //sUtra//-s “//upadeshE...//” and “//tasya ...//” , the
 //'u'// in //'su'// gets //'lOpa'// \[Refer [//prakriyA// for
 //rAma//](#/shadlinga-prakaranam/raama-sabdah/raama-1-1)] --
 
-;;;prakriya
+:::prakriya
 //rAma + s//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -74,9 +74,9 @@ Here,
 
 So, the //'s'// after //'rAma'// gets //lOpa// i.e. it disappears --
 
-;;;prakriya
+:::prakriya
 //rAma//
-;;;
+:::
 
 Thus we derive the //pada//, //'rAma'// by adding the
 //subanta-pratyaya, 'su'// in the sense of //sambOdhana,// to the

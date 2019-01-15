@@ -24,11 +24,11 @@ The sutra, //‘~NyapprAtipadikat’// says that the //subabta-pratyaya,
 
 So, let's take the //prAtipadika, 'bAla’// and place //'su’// after it:
 
-;;;prakriya
+:::prakriya
 
 //bAla + su//
 
-;;;
+:::
 
 Now, since the //prAtipadika// is used as the reference to place the
 //pratyaya// after it, we start from the first letter of //prAtipadika,
@@ -51,11 +51,11 @@ By the sutras, //‘dhAtOH| 3/1/91’, ‘vartamanE laT| 3/2/123’, ‘lasya|
 
 So, let's take the //dhAtu, 'bhU’// and place //'tip’// after it:
 
-;;;prakriya
+:::prakriya
 
 //bhU + tip//
 
-;;;
+:::
 
 Now, since the //dhAtu// is used as the reference to place the //pratyaya//
 after it, we start from the first letter of //dhAtu, ‘bhU’// and go till
@@ -71,11 +71,11 @@ Thus, //'bhU’// is the //a~Nga// of the //pratyaya, 'tip’|//
 Again, by the //sUtra, ‘kartari shap| 3/1 68’// we place the //pratyaya,
 ‘shap’// after the //dhAtu//.
 
-;;;prakriya
+:::prakriya
 
 //bhU shap tip//
 
-;;;
+:::
 
 Now, what is the //a~Nga// of the //pratyaya, ‘tip’//?
 
@@ -96,11 +96,11 @@ of the //tip-pratyaya|//
 Continuing with the previous example, let’s add a //upasarga//, say
 //‘sam’//, to it:
 
-;;;prakriya
+:::prakriya
 
 //sam bhU shap tip//
 
-;;;
+:::
 
 Now, what is the //a~Nga// of the //pratyaya, ‘tip’//?
 

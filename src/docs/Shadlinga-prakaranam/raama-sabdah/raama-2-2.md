@@ -9,9 +9,9 @@ Here we have to recall that though we are talking about two //rAma//-s
 only one //rAma// word is taken here, following the //sUtra//,
 “//sarUpANAmEkashESha Ekavibhaktau|//”
 
-;;;prakriya
+:::prakriya
 //rAma + auT//
-;;;
+:::
 
 Here, by the //sUtra// --
 
@@ -26,9 +26,9 @@ the last consonant //(vya~njana)// in the //upadEsha// (here, the
 the //it-saMj~naka// i.e. one which is labelled as //'it'// gets
 //'lOpa'// i.e. it should disappears. So, we will get --
 
-;;;prakriya
+:::prakriya
 //rAma + au//
-;;;
+:::
 
 Now, the rest of the //prakriyA// (derivation) is like that of
 [//rAmau//](#/shadlinga-prakaranam/raama-sabdah/raama-1-2) in

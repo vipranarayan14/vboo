@@ -5,29 +5,29 @@ the word, //rAma// in the sense of location //(saptamI-vibhakti)// and
 in plural //(bahuvachana)//, we add the //subanta-pratyaya// associated
 with same //vibhakti// and //vachana//, which is //'sup',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + sup//
-;;;
+:::
 
 Now, by the //sUtra// “//halantyam//” the //'p'// in //'sup'// gets
 //lOpa// i.e. it disappears \[See under
 [//rAmau//](#/shadlinga-prakaranam/raama-sabdah/raama-2-2)] --
 
-;;;prakriya
+:::prakriya
 //rAma + su//
-;;;
+:::
 
 Now, by the //sUtra,// “//bahuvachanE jhalyEt//” , the last letter
 //'a'// in //'rAma'// is replaced by //'E'// \[See under
 [//rAmEbhyaH//](#/shadlinga-prakaranam/raama-sabdah/raama-4-3)] --
 
-;;;prakriya
+:::prakriya
 //rAm(a) + su//
 
 //rAm(E) + su//
 
 //rAmEsu//
-;;;
+:::
 
 Now, the //sUtra,//
 
@@ -58,9 +58,9 @@ Here, in //'rAmEsu',// the letter //'s'//
 So, the letter //'s'// in //'rAmEsu'// is replaced by the letter
 //'Sh'// --
 
-;;;prakriya
+:::prakriya
 //rAmEShu//
-;;;
+:::
 
 Thus we derive the //pada//, //'rAmEShu'// by adding the
 //subanta-pratyaya, 'sup'// to the //prAtipadika, 'rAma'|//

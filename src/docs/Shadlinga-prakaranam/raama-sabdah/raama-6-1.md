@@ -6,9 +6,9 @@ the word, //rAma// in the sense of any other relation to the
 we add the //subanta-pratyaya// associated with same //vibhakti// and
 //vachana//, which is //'~Nas',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + ~Nas//
-;;;
+:::
 
 Unlike the other //prakriyA//-s, the //prakriyA// of //rAmasya// is very
 simple.
@@ -23,18 +23,18 @@ the //ShaShTI-Ekavachana-pratyaya, '~Nas'// is replaced by //'sya'//
 
 So, now we have --
 
-;;;prakriya
+:::prakriya
 //rAma + sya//
-;;;
+:::
 
 <!--anEkAlshitsarvasya-->
 
 Then, the //prAtipadika, 'rAma'// and //'sya'// simply join without
 undergoing any change. So, we get --
 
-;;;prakriya
+:::prakriya
 //rAmasya//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmasya'// by adding the
 //subanta-pratyaya, '~Nas'// to the //prAtipadika, 'rAma'|//

@@ -21,9 +21,9 @@ after //(parashcha)// the //prAtipadika// //(~NyApprAtipadikAt)|//
 
 So, now we add //'su'// after //'rAma'// --
 
-;;;prakriya
+:::prakriya
 //rAma + su//
-;;;
+:::
 
 Here, we have to note that the word, //'rAma'// now has a //pratyaya//
 at its end. There are two consequences from this:
@@ -47,9 +47,9 @@ Now, by the //sUtra//-s --
 
 the //'u'// in //'su'// gets //'lOpa'// i.e. it disappears. So, we get
 
-;;;prakriya
+:::prakriya
 //rAma + s//
-;;;
+:::
 
 And now, the //sUtra// --
 
@@ -59,16 +59,16 @@ says that //'s'// at the end of a //pada// is replaced by //'ru'|//
 Since //'rAma + s'// now has the label //'pada'//, and //'s'// is at
 the end of this //pada//, we get --
 
-;;;prakriya
+:::prakriya
 //rAma + ru//
-;;;
+:::
 
 Again by the same //sUtra//-s ( “//upadeshE...//” and “//tasya ...//” )
 quoted above, the //'u'// in //'ru'// gets //'lOpa'// --
 
-;;;prakriya
+:::prakriya
 //rAma + r//
-;;;
+:::
 
 Finally, by the //sUtra// --
 
@@ -78,9 +78,9 @@ the //'r'// which is an
 [//avasAna//](#/shadlinga-prakaranam/general/avasana), is replaced by
 //visarga (:)// --
 
-;;;prakriya
+:::prakriya
 //rAmaH//
-;;;
+:::
 
 Thus we derive the //pada//, //'rAmaH'// by adding the
 //subanta-pratyaya, 'su'// to the //prAtipadika, 'rAma'|//

@@ -8,9 +8,9 @@ same //vibhakti// and //vachana//, which is //'au',// to it.
 As we are talking about two //rAma//-s, we have two //'rAma'// words
 here --
 
-;;;prakriya
+:::prakriya
 //rAma rAma + au//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -21,9 +21,9 @@ says if there are multiple forms of the same word are followed by a
 
 So, we will have --
 
-;;;prakriya
+:::prakriya
 //rAma + au//
-;;;
+:::
 
 Here, the //sUtra// --
 
@@ -36,10 +36,10 @@ LLi'// at its end, then both of these (the last letter of the
 //prAtipadika// and the first letter of the //pratyaya//) is replaced by
 the //dIrgha// of the last letter of the //prAtipadika|//
 
-;;;prakriya
+:::prakriya
 //rAm + a + au//\
 //rAm + A//
-;;;
+:::
 
 But this //sUtra// --
 
@@ -57,11 +57,11 @@ If so, then what happens here? The last letter of the //prAtipadika//
 and the first letter of the //pratyaya// just undergoes
 //vRRidhi-sandhi// i.e. both of them are replaced by //'au'// --
 
-;;;prakriya
+:::prakriya
 //rAma + au//\
 = //rAm (a + au)//\
 = //rAmau ...................\[vRRiddhi-sandhiH]//
-;;;
+:::
 
 Thus we derive the //pada//, //'rAmau'// by adding the
 //subanta-pratyaya, 'au'// to the //prAtipadika, 'rAma'|//

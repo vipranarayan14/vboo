@@ -6,9 +6,9 @@ the word, //rAma// in the sense of recipient or purpose
 //subanta-pratyaya// associated with same //vibhakti// and //vachana//,
 which is //'~NE',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + ~NE//
-;;;
+:::
 
 Now, the //sUtra,//
 
@@ -28,9 +28,9 @@ Here,
 So, by the //sUtra// given above, the //pratyaya, '~NE'// is replaced
 by //'ya'// --
 
-;;;prakriya
+:::prakriya
 //rAma + ya//
-;;;
+:::
 
 Now, will this //'ya'// also be treated like a [//'sup'//](#/shadlinga-prakaranam/general/subanta-pratyayah)?
 
@@ -51,15 +51,15 @@ its //dIrgha// i.e. the letter //'a'// at the end of //'rAma'// is
 replaced by //'A'// \[See under
 [//rAmAbhyAm//](#/shadlinga-prakaranam/raama-sabdah/raama-3-2)] --
 
-;;;prakriya
+:::prakriya
 //rAmA + ya//
-;;;
+:::
 
 Finally, we get --
 
-;;;prakriya
+:::prakriya
 //rAmAya//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmAya'// by adding the
 //subanta-pratyaya, '~NE'// to the //prAtipadika, 'rAma'|//

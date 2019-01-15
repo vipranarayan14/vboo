@@ -6,9 +6,9 @@ the word, //rAma// in the sense of any other relation to the
 add the //subanta-pratyaya// associated with same //vibhakti// and
 //vachana//, which is //'Am',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + Am//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -49,31 +49,31 @@ Here,
 
 So, //'nuT'// is to placed at the start of the //pratyaya, 'Am'// --
 
-;;;prakriya
+:::prakriya
 //rAma + nuT Am//
-;;;
+:::
 
 We saw that the letter, //'T'// in //'nuT'// gets //'it'-saMj~nA|// We
 also know that a letter having the //'it'-saMj~nA// disappears. So,
 //'T'// in //'nuT'// disappears --
 
-;;;prakriya
+:::prakriya
 //rAma + nu Am//
-;;;
+:::
 
 Similiarly, the //'u'// in the remaining //'nu'// also gets
 //it-saMj~nA// by the //sUtra,// “//upadEshE.ajanu..//” and disappears
 \--
 
-;;;prakriya
+:::prakriya
 //rAma + n Am//
-;;;
+:::
 
 Now, joining the //'n'// with //'Am'// we get --
 
-;;;prakriya
+:::prakriya
 //rAma + nAm//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -94,7 +94,7 @@ the //a~Nga, 'rAma'// is //'a'|//
 So, the last letter //'a'// in //rAma// is replaced by its //dIrgha//
 i.e. //'A'// --
 
-;;;prakriya
+:::prakriya
 //rAm(a) + nAm//
 
 = //rAm(A) + nAm//
@@ -102,15 +102,15 @@ i.e. //'A'// --
 = //rAmA + nAm//
 
 = //rAmAnAm//
-;;;
+:::
 
 Now, since the letter, //'n'// comes after the letter //'r'// within the
 same word, it becomes //'N'// \[See
 [//Natvam//](#/shadlinga-prakaranam/general/natvam)] --
 
-;;;prakriya
+:::prakriya
 //rAmANAm//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmANAm'// by adding the
 //subanta-pratyaya, 'Am'// to the //prAtipadika, 'rAma'|//

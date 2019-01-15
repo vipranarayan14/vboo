@@ -9,9 +9,9 @@ Here we have to recall that though we are talking about many //rAma//-s
 only one //rAma// word is taken here, following the //sUtra//,
 “//sarUpANAmEkashESha Ekavibhaktau|//”
 
-;;;prakriya
+:::prakriya
 //rAma + shas//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -25,16 +25,16 @@ i.e. such a letter disappears.
 
 Therefore, the letter //'sh'// in //shas// disappears --
 
-;;;prakriya
+:::prakriya
 //rAma + as//
-;;;
+:::
 
 Now, by the //sUtra,// “//prathamOH...//” the last letter of the
 //prAtipadika// and the first letter of the //pratyaya// are replaced by
 the //dIrgha// of the last letter of the //prAtipadika// \[See under
 [//rAmAH//](#/shadlinga-prakaranam/raama-sabdah/raama-1-3)] --
 
-;;;prakriya
+:::prakriya
 //rAma + as//
 
 = //rAm(a + a)s//
@@ -42,30 +42,30 @@ the //dIrgha// of the last letter of the //prAtipadika// \[See under
 = //rAm(A)s ...............\[pUrva-savarNa-dIrghaH]//
 
 = //rAmAs//
-;;;
+:::
 
 Then, the //sUtra// --
 
-;;;prakriya
+:::prakriya
 //tasmAtchChasO naH puMsi| 6/1/103//
-;;;
+:::
 
 says that, in //pulli~Nga//, the letter, //'s'// of the
 //shas-pratyaya// coming after a //pUrva-savarNa-dIrgha// is replaced by
 the letter, //'n'// --
 
-;;;prakriya
+:::prakriya
 //rAmA + n//
-;;;
+:::
 
 Now, by the //sUtra//, “//aT-ku-pu-A~N-num-vyayAyE.api//” \[See
 [//Natvam//](#/shadlinga-prakaranam/general/natvam)], the letter,
 //'n'// has to be replaced by //'N'|// But, the replacement is opposed
 by the //sUtra,// “//padAntasya//” and thus, nothing changes.
 
-;;;prakriya
+:::prakriya
 //rAmAn//
-;;;
+:::
 
 Thus we derive the //pada//, //'rAmAn'// by adding the
 //subanta-pratyaya, 'shas'// to the //prAtipadika, 'rAma'|//

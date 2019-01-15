@@ -5,9 +5,9 @@ word, //rAma// in the sense of location //(saptamI-vibhakti)// and in
 dual //(dvivachana)//, we add the //subanta-pratyaya// associated with
 same //vibhakti// and //vachana//, which is //'Os',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + Os//
-;;;
+:::
 
 The rest of the //prakriyA// is same as that
 //ShaShThi-vibhakti-dvivachana,//

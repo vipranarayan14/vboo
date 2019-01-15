@@ -5,9 +5,9 @@ word, //rAma// in the sense of object //(dvitIyA-vibhakti)// and in
 singular //(Ekavachana)//, we add the //subanta-pratyaya// associated
 with same //vibhakti// and //vachana//, which is //'am',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + am//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -23,7 +23,7 @@ So, here the last letter of the //prAtipadika// which is //'a'// and the
 first letter of the //pratyaya// which is //'a'// are replace by the
 last letter of the //prAtipadika|//
 
-;;;prakriya
+:::prakriya
 //rAm(a + a)m//
 
 both are replaced by the last letter of the //prAtipadika// --
@@ -31,7 +31,7 @@ both are replaced by the last letter of the //prAtipadika// --
 = //rAm(a)m//
 
 = //rAmam//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmam'// by adding the
 //subanta-pratyaya, 'am'// to the //prAtipadika, 'rAma'|//

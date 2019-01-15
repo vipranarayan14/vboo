@@ -6,9 +6,9 @@ and in plural //(bahuvachana)//, we add the //subanta-pratyaya//
 associated with same //vibhakti// and //vachana//, which is //'bhis',//
 to it.
 
-;;;prakriya
+:::prakriya
 //rAma + bhis//
-;;;
+:::
 
 Here, the //sUtra// --
 
@@ -24,17 +24,17 @@ whose last letter is //'a'//), is replaced by //'ais'|//
 Now, since //rAma// is a //'a-kArAnta-shabda'// the //pratyaya, 'bhis'//
 placed after it, is replaced by //'ais'// --
 
-;;;prakriya
+:::prakriya
 //rAma + ais//
-;;;
+:::
 
 Now, the last letter of the //prAtipadika, 'a'// and the first letter of
 the //pratyaya, 'ai'// are replaced by the letter //'ai'// (i.e.
 //vRRiddhi-sandhi//)--
 
-;;;prakriya
+:::prakriya
 //rAmais//
-;;;
+:::
 
 And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 “//kharavasAnayOH...//” the //'s'// in //'rAmais'// is replaced by
@@ -42,9 +42,9 @@ And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 [//rAmaH//](#/shadlinga-prakaranam/raama-sabdah/raama-1-1) for more
 details.] So, we get --
 
-;;;prakriya
+:::prakriya
 //rAmaiH//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmaiH'// by adding the
 //subanta-pratyaya, 'bhis'// to the //prAtipadika, 'rAma'|//

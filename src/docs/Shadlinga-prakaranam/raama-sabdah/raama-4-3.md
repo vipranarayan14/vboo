@@ -6,9 +6,9 @@ the word, //rAma// in the sense of recipient or purpose
 //subanta-pratyaya// associated with same //vibhakti// and //vachana//,
 which is //'bhyas',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + bhyas//
-;;;
+:::
 
 Now, the //sUtra,//
 
@@ -39,13 +39,13 @@ Here,
 
 So, the last letter //'a'// in //'rAma'// is replaced by //'E'// --
 
-;;;prakriya
+:::prakriya
 //rAm(a) + bhyas//
 
 = //rAmE + bhyas//
 
 = //rAmEbhyas//
-;;;
+:::
 
 And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 “//kharavasAnayOH...//” the //'s'// in //'rAmEbhyas'// is replaced by
@@ -53,9 +53,9 @@ And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 [//rAmaH//](#/shadlinga-prakaranam/raama-sabdah/raama-1-1) for more
 details.] So, we get --
 
-;;;prakriya
+:::prakriya
 //rAmEbhyaH//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmEbhyaH'// by adding the
 //subanta-pratyaya, 'bhyas'// to the //prAtipadika, 'rAma'|//

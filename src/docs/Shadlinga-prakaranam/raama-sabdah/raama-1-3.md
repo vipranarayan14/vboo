@@ -8,9 +8,9 @@ with same //vibhakti// and //vachana//, which is //'jas',// to it.
 As we are talking about many //rAma//-s, we have many //'rAma'// words
 here --
 
-;;;prakriya
+:::prakriya
 //rAma rAma rAma ... + jas//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -21,9 +21,9 @@ says if there are multiple forms of the same word are followed by a
 
 So, we will have --
 
-;;;prakriya
+:::prakriya
 //rAma + jas//
-;;;
+:::
 
 Now, by the //sUtra//-s --
 
@@ -33,9 +33,9 @@ Now, by the //sUtra//-s --
 
 the //'j'// in //'jas'// gets //'lOpa'// i.e. it disappears. So, we get
 
-;;;prakriya
+:::prakriya
 //rAma + as//
-;;;
+:::
 
 Then, according to the //sUtra// --
 
@@ -65,7 +65,7 @@ Now, by the //sUtra,// “//prathamOH...//” the last letter of the
 //savarNa-dIrgha-sandhi//~~ are replaced by the //dIrgha// of the last
 letter of the //prAtipadika// --
 
-;;;prakriya
+:::prakriya
 //rAma + as//
 
 = //rAm(a + a)s//
@@ -74,7 +74,7 @@ letter of the //prAtipadika// --
 
 = //rAmAs//
 
-;;;
+:::
 
 And now, by the //sUtra//-s --
 
@@ -88,10 +88,10 @@ details.]
 
 So, we get --
 
-;;;prakriya
+:::prakriya
 //rAmAH//
 
-;;;
+:::
 
 Thus we derive the //pada//, //'rAmAH'// by adding the
 //subanta-pratyaya, 'jas'// to the //prAtipadika, 'rAma'|//

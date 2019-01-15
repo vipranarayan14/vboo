@@ -6,9 +6,9 @@ and in singular //(Ekavachana)//, we add the //subanta-pratyaya//
 associated with same //vibhakti// and //vachana//, which is //'TA',// to
 it.
 
-;;;prakriya
+:::prakriya
 //rAma + TA//
-;;;
+:::
 
 Here, the //sUtra// --
 
@@ -34,25 +34,25 @@ kRRiShNa,// etc.
 Now, since //rAma// is a //'a-kArAnta-shabda'// the //pratyaya, 'TA'//
 placed after it is replaced by //'ina'// --
 
-;;;prakriya
+:::prakriya
 //rAma + ina//
-;;;
+:::
 
 Now, the last letter of the //prAtipadika, 'a'// and the first letter of
 the //pratyaya, 'i'// are replaced by the letter //'E'// (i.e.
 //guNa-sandhi//)--
 
-;;;prakriya
+:::prakriya
 //rAmEna//
-;;;
+:::
 
 Now, since the letter, //'n'// comes after the letter //'r'// within the
 same word, it becomes //'N'// \[See
 [//Natvam//](#/shadlinga-prakaranam/general/natvam)] --
 
-;;;prakriya
+:::prakriya
 //rAmENa//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmENa'// by adding the
 //subanta-pratyaya, 'TA'// to the //prAtipadika, 'rAma'|//

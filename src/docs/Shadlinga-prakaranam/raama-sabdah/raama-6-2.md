@@ -6,9 +6,9 @@ the word, //rAma// in the sense of any other relation to the
 add the //subanta-pratyaya// associated with same //vibhakti// and
 //vachana//, which is //'Os',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + Os//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -26,31 +26,31 @@ Here,
 
 So, the last letter //'a'// in //'rAma'// is replaced by //'E'// --
 
-;;;prakriya
+:::prakriya
 //rAm(a) + Os//
 
 = //rAmE + Os//
-;;;
+:::
 
 Now, the last letter //'E'// in //rAmE// and the first letter, //'O'//
 in //Os// undergoes //ayavAyAva-sandhi// (a.k.a.
 //yAntAvAntAdEsha-sandhi//).
 
-;;;prakriya
+:::prakriya
 //rAm (E + O) s//
-;;;
+:::
 
 So, the last letter //'E'// in //rAmE// is replaced by //'ay'// --
 
-;;;prakriya
+:::prakriya
 //rAm (ay + O) s//
-;;;
+:::
 
 Finally, we get --
 
-;;;prakriya
+:::prakriya
 //rAmayOs//
-;;;
+:::
 
 And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 “//kharavasAnayOH...//” the //'s'// in //'rAmayaOs'// is replaced by
@@ -58,9 +58,9 @@ And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 [//rAmaH//](#/shadlinga-prakaranam/raama-sabdah/raama-1-1) for more
 details.] So, we get --
 
-;;;prakriya
+:::prakriya
 //rAmayOH//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmayOH'// by adding the
 //subanta-pratyaya, 'Os'// to the //prAtipadika, 'rAma'|//

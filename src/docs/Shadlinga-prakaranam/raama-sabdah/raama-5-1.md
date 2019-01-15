@@ -6,9 +6,9 @@ and in singular //(Ekavachana)//, we add the //subanta-pratyaya//
 associated with same //vibhakti// and //vachana//, which is
 //'~Nasi',// to it.
 
-;;;prakriya
+:::prakriya
 //rAma + ~Nasi//
-;;;
+:::
 
 Now, by the //sUtra// --
 
@@ -20,9 +20,9 @@ the //pa~nchamI-Ekavachana-pratyaya, '~Nasi'// is replaced by //'At'//
 
 So, now we have --
 
-;;;prakriya
+:::prakriya
 //rAma + At//
-;;;
+:::
 
 <!--anEkAlshitsarvasya-->
 
@@ -30,13 +30,13 @@ Now, the last letter of the //prAtipadika, 'rAma'// and the first letter
 of //'At'// while undergo //savarNa-dIrgha-sandhi// i.e. both will be
 replaced by the letter //'A'// --
 
-;;;prakriya
+:::prakriya
 //rAm (a + A) t//
 
 = //rAm (A) t//
 
 = //rAmAt//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -76,9 +76,9 @@ Here, since //'rAmAt'// is a //pada// and its last letter, //'t'// is
 one of the letters of the //pratyAhAra, 'jhal'//, this last letter
 is replaced by the letter, //'d'// --
 
-;;;prakriya
+:::prakriya
 //rAmAd//
-;;;
+:::
 
 Now, the //sUtra// --
 
@@ -95,22 +95,22 @@ Since, in //'rAmAd'// the last letter, //'d'// is a
 letters of the //pratyAhAra, 'jhal'//, this last letter is replaced
 by the letter, //'t'// --
 
-;;;prakriya
+:::prakriya
 //rAmAt//
-;;;
+:::
 
 But, this replacement of //'d'// with //'t'// is optional. So, we will
 have two alternate forms --
 
-;;;prakriya
+:::prakriya
 //rAmAd//
-;;;
+:::
 
 Or
 
-;;;prakriya
+:::prakriya
 //rAmAt//
-;;;
+:::
 
 Thus, we derive the //pada//, //'rAmAt'// by adding the
 //subanta-pratyaya, '~Nasi'// to the //prAtipadika, 'rAma'|//
