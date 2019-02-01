@@ -2,9 +2,8 @@
 
 ## Introduction
 
-We have learnt that a
-[//prAtipadika//](#/shadlinga-prakaranam/general/praatipadika) itself
-cannot be used in a sentence. So, by the //sUtra//-s --
+We have learnt that a [//prAtipadika//](#/shadlinga-prakaranam/general/praatipadika) 
+itself cannot be used in a sentence. So, by the //sUtra//-s --
 
 > //~NyApprAtipadikAt| 4/1/1//
 >
