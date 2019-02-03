@@ -113,9 +113,7 @@ For example, if we add the //tRRitIyA-Ekavachana-pratyaya, 'TA'// to the
 //prAtipadika, 'bAla'//--
 
 :::prakriya
-
 //bAla + TA//
-
 :::
 
 we get the meaning, 'by a boy'.
@@ -125,9 +123,7 @@ from the same //vibhakti,// //'bhis'// which has the //bahuvachana-saMj~nA//
 (label) --
 
 :::prakriya
-
 //bAla + bhis//
-
 :::
 
 we get the meaning, 'by many boys'.
