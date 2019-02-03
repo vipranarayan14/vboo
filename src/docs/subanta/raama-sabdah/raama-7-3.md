@@ -11,7 +11,7 @@ with same //vibhakti// and //vachana//, which is //'sup',// to it.
 
 Now, by the //sUtra// “//halantyam//” the //'p'// in //'sup'// gets
 //lOpa// i.e. it disappears \[See under
-[//rAmau//](#/shadlinga-prakaranam/raama-sabdah/raama-2-2)] --
+[//rAmau//](#/subanta/raama-sabdah/raama-2-2)] --
 
 :::prakriya
 //rAma + su//
@@ -19,7 +19,7 @@ Now, by the //sUtra// “//halantyam//” the //'p'// in //'sup'// gets
 
 Now, by the //sUtra,// “//bahuvachanE jhalyEt//” , the last letter
 //'a'// in //'rAma'// is replaced by //'E'// \[See under
-[//rAmEbhyaH//](#/shadlinga-prakaranam/raama-sabdah/raama-4-3)] --
+[//rAmEbhyaH//](#/subanta/raama-sabdah/raama-4-3)] --
 
 :::prakriya
 //rAm(a) + su//

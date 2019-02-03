@@ -31,7 +31,7 @@ the //it-saMj~naka// i.e. one which is labelled as //'it'// gets
 :::
 
 Now, the rest of the //prakriyA// (derivation) is like that of
-[//rAmau//](#/shadlinga-prakaranam/raama-sabdah/raama-1-2) in
+[//rAmau//](#/subanta/raama-sabdah/raama-1-2) in
 //prathamA-vibhakti-dvivachana|//
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNTIzNDUyNDldfQ==

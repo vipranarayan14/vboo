@@ -32,7 +32,7 @@ Therefore, the letter //'sh'// in //shas// disappears --
 Now, by the //sUtra,// “//prathamOH...//” the last letter of the
 //prAtipadika// and the first letter of the //pratyaya// are replaced by
 the //dIrgha// of the last letter of the //prAtipadika// \[See under
-[//rAmAH//](#/shadlinga-prakaranam/raama-sabdah/raama-1-3)] --
+[//rAmAH//](#/subanta/raama-sabdah/raama-1-3)] --
 
 :::prakriya
 //rAma + as//
@@ -59,7 +59,7 @@ the letter, //'n'// --
 :::
 
 Now, by the //sUtra//, “//aT-ku-pu-A~N-num-vyayAyE.api//” \[See
-[//Natvam//](#/shadlinga-prakaranam/general/natvam)], the letter,
+[//Natvam//](#/subanta/general/natvam)], the letter,
 //'n'// has to be replaced by //'N'|// But, the replacement is opposed
 by the //sUtra,// “//padAntasya//” and thus, nothing changes.
 

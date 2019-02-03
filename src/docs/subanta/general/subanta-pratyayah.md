@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As a [//prAtipadika//](#/shadlinga-prakaranam/general/praatipadika) itself
+As a [//prAtipadika//](#/subanta/general/praatipadika) itself
 cannot be used in a sentence, it is combined with various //pratyaya//-s to
 form various //pada//-s.
 
@@ -102,7 +102,7 @@ So, now we can call //'su'// as //prathamA-Ekavachana-pratyaya,// //'auT'// as
 ## Use of //subanta-pratyaya//-s
 
 As discussed in the
-[Introduction](#/shadlinga-prakaranam/general/subanta-pratyayah/#ha-introduction),
+[Introduction](#/subanta/general/subanta-pratyayah/#ha-introduction),
 the //subanta-pratyaya//-s are added to a //prAtipadika// to give it the senses
 of //vibhakti// (case) and //vachana// (number), in addition to its own meaning.
 

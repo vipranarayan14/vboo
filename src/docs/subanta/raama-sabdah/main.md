@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We have learnt that a [//prAtipadika//](#/shadlinga-prakaranam/general/praatipadika) 
+We have learnt that a [//prAtipadika//](#/subanta/general/praatipadika) 
 itself cannot be used in a sentence. So, by the //sUtra//-s --
 
 > //~NyApprAtipadikAt| 4/1/1//
@@ -12,9 +12,9 @@ itself cannot be used in a sentence. So, by the //sUtra//-s --
 > //parashcha| 3/1/2//
 
 we get to add the
-[//subanta-pratyaya//-s](#/shadlinga-prakaranam/general/subanta-pratyayah)
+[//subanta-pratyaya//-s](#/subanta/general/subanta-pratyayah)
 to the //prAtipadika// to give it the senses of //vibhakti// and
-[//vachana//](#/shadlinga-prakaranam/general/vachanani), thereby making
+[//vachana//](#/subanta/general/vachanani), thereby making
 it usable in a sentence.
 
 <!--
@@ -39,7 +39,7 @@ below.
 
 Note: Click on a word in the table to see its //prakriyA|//
 
-%[Declension](#/shadlinga-prakaranam/raama-sabdah/0-table)
+%[Declension](#/subanta/raama-sabdah/0-table)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk1NTAzMTAzOF19
 -->

@@ -1,0 +1,6 @@
+- [//prAtipadikam//](#/subanta/general/praatipadika)
+- [//subanta-pratyayAH//](#/subanta/general/subanta-pratyayah)
+- [//vachanAni//](#/subanta/general/vachanani)
+- [//avasAnam//](#/subanta/general/avasana)
+- [//a~Ngam//](#/subanta/general/angam)
+- [//Natvam//](#/subanta/general/natvam)

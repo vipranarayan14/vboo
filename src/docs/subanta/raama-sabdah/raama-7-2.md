@@ -11,7 +11,7 @@ same //vibhakti// and //vachana//, which is //'Os',// to it.
 
 The rest of the //prakriyA// is same as that
 //ShaShThi-vibhakti-dvivachana,//
-[//rAmayOH//](#/shadlinga-prakaranam/raama-sabdah/raama-6-2)
+[//rAmayOH//](#/subanta/raama-sabdah/raama-6-2)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzUxNTA5Njg1XX0=
 -->
