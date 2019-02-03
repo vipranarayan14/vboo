@@ -19,7 +19,7 @@ Now, by the //sUtra// --
 
 the //ShaShTI-Ekavachana-pratyaya, '~Nas'// is replaced by //'sya'//
 \[Refer the [//prakriyA// of
-//rAmENa//](#/subanta/raama-sabdah/raama-3-1)].
+//rAmENa//](#/lsk/subanta/raama-sabdah/raama-3-1)].
 
 So, now we have --
 

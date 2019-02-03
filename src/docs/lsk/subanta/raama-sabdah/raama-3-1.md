@@ -15,7 +15,7 @@ Here, the //sUtra// --
 > //TA~Nasi~NasaminAtsyAH| 7/1/12//
 
 says that the
-[//subanta-pratyaya//-s,](#/subanta/general/subanta-pratyayah)
+[//subanta-pratyaya//-s,](#/lsk/subanta/general/subanta-pratyayah)
 //'TA', '~Nasi', '~Nas'// coming after a //'a'-kArAnta-shabda// (i.e.
 a //shabda// whose last letter is //'a'//), are replaced by //'ina',
 'At', 'sya'//, respectively.
@@ -48,7 +48,7 @@ the //pratyaya, 'i'// are replaced by the letter //'E'// (i.e.
 
 Now, since the letter, //'n'// comes after the letter //'r'// within the
 same word, it becomes //'N'// \[See
-[//Natvam//](#/subanta/general/natvam)] --
+[//Natvam//](#/lsk/subanta/general/natvam)] --
 
 :::prakriya
 //rAmENa//

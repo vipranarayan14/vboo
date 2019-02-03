@@ -15,7 +15,7 @@ Now, the //sUtra// --
 > //Osi cha| 7/3/104//
 
 says that the last letter of the
-[//a~Nga//](#/subanta/general/angam) of the
+[//a~Nga//](#/lsk/subanta/general/angam) of the
 //subanta-pratyaya, 'Os'// is replaced by the letter, //'E'// if the
 last letter of the //a~Nga// is //'a'|//
 
@@ -55,7 +55,7 @@ Finally, we get --
 And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 “//kharavasAnayOH...//” the //'s'// in //'rAmayaOs'// is replaced by
 //visarga// (:). \[See under
-[//rAmaH//](#/subanta/raama-sabdah/raama-1-1) for more
+[//rAmaH//](#/lsk/subanta/raama-sabdah/raama-1-1) for more
 details.] So, we get --
 
 :::prakriya

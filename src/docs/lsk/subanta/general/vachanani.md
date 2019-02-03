@@ -8,7 +8,7 @@ Samskritam to indicate the number of people or things we are talking about.
 > //supaH| 1/4/103//
 
 Here, //pANini// uses three //saMj~nA//-s (labels) to label the
-[//sup-pratyaya//-s](#/subanta/general/subanta-pratyayah) and
+[//sup-pratyaya//-s](#/lsk/subanta/general/subanta-pratyayah) and
 //ti~N-pratyaya//-s:
 
 - //Ekavachana//
@@ -17,7 +17,7 @@ Here, //pANini// uses three //saMj~nA//-s (labels) to label the
 
 These //saMj~nA//-s determine the sense of number (vachana) the //pratyaya//-s
 will be adding to the meaning of a
-[//prAtipadika//](#/subanta/general/praatipadika) or a //dhAtu.//
+[//prAtipadika//](#/lsk/subanta/general/praatipadika) or a //dhAtu.//
 
 > //dvyEkayOrdvivachanaikavachanE| 1/4/22//
 >

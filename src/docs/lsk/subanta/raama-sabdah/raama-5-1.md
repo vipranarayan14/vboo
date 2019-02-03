@@ -16,7 +16,7 @@ Now, by the //sUtra// --
 
 the //pa~nchamI-Ekavachana-pratyaya, '~Nasi'// is replaced by //'At'//
 \[Refer the [//prakriyA// of
-//rAmENa//](#/subanta/raama-sabdah/raama-3-1)].
+//rAmENa//](#/lsk/subanta/raama-sabdah/raama-3-1)].
 
 So, now we have --
 
@@ -91,7 +91,7 @@ be replaced by the letters of the //pratyAhAra, 'char'//, optionally.
 //'k, ch, T, t, p'// and the letters //'sh, Sh, s'|//
 
 Since, in //'rAmAd'// the last letter, //'d'// is a
-[//avasAna//](#/subanta/general/avasana) and is one of the
+[//avasAna//](#/lsk/subanta/general/avasana) and is one of the
 letters of the //pratyAhAra, 'jhal'//, this last letter is replaced
 by the letter, //'t'// --
 

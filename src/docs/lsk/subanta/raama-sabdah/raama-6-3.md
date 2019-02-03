@@ -106,7 +106,7 @@ i.e. //'A'// --
 
 Now, since the letter, //'n'// comes after the letter //'r'// within the
 same word, it becomes //'N'// \[See
-[//Natvam//](#/subanta/general/natvam)] --
+[//Natvam//](#/lsk/subanta/general/natvam)] --
 
 :::prakriya
 //rAmANAm//

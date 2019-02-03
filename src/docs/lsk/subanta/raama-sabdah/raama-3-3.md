@@ -15,7 +15,7 @@ Here, the //sUtra// --
 > //atO bhisa ais| 7/1/9//
 
 says that the
-[//subanta-pratyaya//](#/subanta/general/subanta-pratyayah),
+[//subanta-pratyaya//](#/lsk/subanta/general/subanta-pratyayah),
 //'bhis'// coming after a //'a'-kArAnta-shabda// (i.e. a //shabda//
 whose last letter is //'a'//), is replaced by //'ais'|//
 
@@ -39,7 +39,7 @@ the //pratyaya, 'ai'// are replaced by the letter //'ai'// (i.e.
 And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 “//kharavasAnayOH...//” the //'s'// in //'rAmais'// is replaced by
 //visarga// (:). \[See under
-[//rAmaH//](#/subanta/raama-sabdah/raama-1-1) for more
+[//rAmaH//](#/lsk/subanta/raama-sabdah/raama-1-1) for more
 details.] So, we get --
 
 :::prakriya

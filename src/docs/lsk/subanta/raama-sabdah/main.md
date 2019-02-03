@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We have learnt that a [//prAtipadika//](#/subanta/general/praatipadika) 
+We have learnt that a [//prAtipadika//](#/lsk/subanta/general/praatipadika) 
 itself cannot be used in a sentence. So, by the //sUtra//-s --
 
 > //~NyApprAtipadikAt| 4/1/1//
@@ -12,9 +12,9 @@ itself cannot be used in a sentence. So, by the //sUtra//-s --
 > //parashcha| 3/1/2//
 
 we get to add the
-[//subanta-pratyaya//-s](#/subanta/general/subanta-pratyayah)
+[//subanta-pratyaya//-s](#/lsk/subanta/general/subanta-pratyayah)
 to the //prAtipadika// to give it the senses of //vibhakti// and
-[//vachana//](#/subanta/general/vachanani), thereby making
+[//vachana//](#/lsk/subanta/general/vachanani), thereby making
 it usable in a sentence.
 
 <!--
@@ -50,22 +50,22 @@ Note: Click on a word in the table to see its //prakriyA|//
 | **//ShaShThI//**     | [//rAmasya//][14] | [//rAmayOH//][15]  |  [//rAmANAm//][16]  |
 | **//saptamI//**      |  [//rAmE//][17]   | [//rAmayOH//][18]  |  [//rAmEShu//][19]  |
 
-[1]: #/subanta/raama-sabdah/raama-1-1
-[2]: #/subanta/raama-sabdah/raama-1-2
-[3]: #/subanta/raama-sabdah/raama-1-3
-[4]: #/subanta/raama-sabdah/raama-1.1-1
-[5]: #/subanta/raama-sabdah/raama-2-1
-[6]: #/subanta/raama-sabdah/raama-2-2
-[7]: #/subanta/raama-sabdah/raama-2-3
-[8]: #/subanta/raama-sabdah/raama-3-1
-[9]: #/subanta/raama-sabdah/raama-3-2
-[10]: #/subanta/raama-sabdah/raama-3-3
-[11]: #/subanta/raama-sabdah/raama-4-1
-[12]: #/subanta/raama-sabdah/raama-4-3
-[13]: #/subanta/raama-sabdah/raama-5-1
-[14]: #/subanta/raama-sabdah/raama-6-1
-[15]: #/subanta/raama-sabdah/raama-6-2
-[16]: #/subanta/raama-sabdah/raama-6-3
-[17]: #/subanta/raama-sabdah/raama-7-1
-[18]: #/subanta/raama-sabdah/raama-7-2
-[19]: #/subanta/raama-sabdah/raama-7-3
+[1]: #/lsk/subanta/raama-sabdah/raama-1-1
+[2]: #/lsk/subanta/raama-sabdah/raama-1-2
+[3]: #/lsk/subanta/raama-sabdah/raama-1-3
+[4]: #/lsk/subanta/raama-sabdah/raama-1.1-1
+[5]: #/lsk/subanta/raama-sabdah/raama-2-1
+[6]: #/lsk/subanta/raama-sabdah/raama-2-2
+[7]: #/lsk/subanta/raama-sabdah/raama-2-3
+[8]: #/lsk/subanta/raama-sabdah/raama-3-1
+[9]: #/lsk/subanta/raama-sabdah/raama-3-2
+[10]: #/lsk/subanta/raama-sabdah/raama-3-3
+[11]: #/lsk/subanta/raama-sabdah/raama-4-1
+[12]: #/lsk/subanta/raama-sabdah/raama-4-3
+[13]: #/lsk/subanta/raama-sabdah/raama-5-1
+[14]: #/lsk/subanta/raama-sabdah/raama-6-1
+[15]: #/lsk/subanta/raama-sabdah/raama-6-2
+[16]: #/lsk/subanta/raama-sabdah/raama-6-3
+[17]: #/lsk/subanta/raama-sabdah/raama-7-1
+[18]: #/lsk/subanta/raama-sabdah/raama-7-2
+[19]: #/lsk/subanta/raama-sabdah/raama-7-3

@@ -4,7 +4,7 @@ When we want to call or address someone (or something) we have to use the
 //'saMbOdhana-prathamA' vibhakti|//
 
 But, if you can remeber, in the notes on
-[//subanta-pratyaya//-s,](#/subanta/general/subanta-pratyayah)
+[//subanta-pratyaya//-s,](#/lsk/subanta/general/subanta-pratyayah)
 we never saw any //subanta-pratyaya// associated with this
 //'saMbOdhana-prathamA' vibhakti|//
 
@@ -36,7 +36,7 @@ with same //vibhakti// and //vachana//, which is //'su',// to it.
 
 Now, by the //sUtra//-s “//upadeshE...//” and “//tasya ...//” , the
 //'u'// in //'su'// gets //'lOpa'// \[Refer [//prakriyA// for
-//rAma//](#/subanta/raama-sabdah/raama-1-1)] --
+//rAma//](#/lsk/subanta/raama-sabdah/raama-1-1)] --
 
 :::prakriya
 //rAma + s//
@@ -54,7 +54,7 @@ Then, the following //sUtra//--
 > //E~NhrasvAtsambuddhEH| 6/1/69//
 
 says that the consonant //(hal)// of a //sambuddhi// gets //lOpa// if it
-comes after a [//a~Nga//](#/subanta/general/angam) whose
+comes after a [//a~Nga//](#/lsk/subanta/general/angam) whose
 last letter is:
 
 - //E//
@@ -64,7 +64,7 @@ last letter is:
 Here,
 
 1. the word, //rAma// is the //a~Nga// of the //pratyaya, 'su'|//
-   \[See [//a~Nga//](#/subanta/general/angam)].
+   \[See [//a~Nga//](#/lsk/subanta/general/angam)].
 
 2. the last letter of the //a~Nga// is //'a'// which is a short vowel
    //(hrasva).//

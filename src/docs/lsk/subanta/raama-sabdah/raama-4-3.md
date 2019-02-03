@@ -15,7 +15,7 @@ Now, the //sUtra,//
 > //bahuvachanE jhalyEt| 7/3/103 //
 
 says that the last letter of the
-[//a~Nga//](#/subanta/general/angam) of a
+[//a~Nga//](#/lsk/subanta/general/angam) of a
 //subanta-pratyaya// is replaced by the letter, //'E'// if
 
 1. the last letter of the //a~Nga// is //'a'//
@@ -50,7 +50,7 @@ So, the last letter //'a'// in //'rAma'// is replaced by //'E'// --
 And now, by the //sUtra//-s, “//sasajuShO ruH//” and
 “//kharavasAnayOH...//” the //'s'// in //'rAmEbhyas'// is replaced by
 //visarga// (:). \[See under
-[//rAmaH//](#/subanta/raama-sabdah/raama-1-1) for more
+[//rAmaH//](#/lsk/subanta/raama-sabdah/raama-1-1) for more
 details.] So, we get --
 
 :::prakriya

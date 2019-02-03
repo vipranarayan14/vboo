@@ -83,7 +83,7 @@ And now, by the //sUtra//-s --
 > //kharavasAnayOrvisarjanIyaH| 8/3/15//
 
 the //'s'// in //'rAmAs'// is replaced by //visarga// (:). \[See under
-[//rAma//](#/subanta/raama-sabdah/main/#ha-rAmaH) for more
+[//rAma//](#/lsk/subanta/raama-sabdah/main/#ha-rAmaH) for more
 details.]
 
 So, we get --

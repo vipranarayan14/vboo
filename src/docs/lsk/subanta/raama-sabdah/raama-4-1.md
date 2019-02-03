@@ -19,7 +19,7 @@ says that the //pratyaya, '~NE'// is to be replaced by //'ya'// if its
 
 Here,
 
-1. //'rAma'// is the [//a~Nga//](#/subanta/general/angam)
+1. //'rAma'// is the [//a~Nga//](#/lsk/subanta/general/angam)
    of the //pratyaya, '~NE'|//
 
 2. And the last letter of the //a~Nga, 'rAma'// is //'a'// i.e.
@@ -32,7 +32,7 @@ by //'ya'// --
 //rAma + ya//
 :::
 
-Now, will this //'ya'// also be treated like a [//'sup'//](#/subanta/general/subanta-pratyayah)?
+Now, will this //'ya'// also be treated like a [//'sup'//](#/lsk/subanta/general/subanta-pratyayah)?
 
 Here, the //sUtra// --
 
@@ -49,7 +49,7 @@ the letters in the //pratyAhAra, 'ya~n' (y, v, r, ...)//, by the
 //sUtra//, “//supi cha|//” the last letter of //'rAma'// is replaced by
 its //dIrgha// i.e. the letter //'a'// at the end of //'rAma'// is
 replaced by //'A'// \[See under
-[//rAmAbhyAm//](#/subanta/raama-sabdah/raama-3-2)] --
+[//rAmAbhyAm//](#/lsk/subanta/raama-sabdah/raama-3-2)] --
 
 :::prakriya
 //rAmA + ya//
