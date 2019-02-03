@@ -24,8 +24,8 @@
     "eslint": "eslint . --ignore-path .gitignore",
     "remark-lint": "remark src/docs/. -q",
     "test": "npm run eslint && npm run remark-lint",
-    "build": "vboo-scripts build",
-    "start": "npm test && vboo-scripts start"
+    "build": "vboo-scripts ./src ./build",
+    "start": "npm test && vboo-scripts ./src"
   },
   "dependencies": {},
   "devDependencies": {
@@ -43,7 +43,7 @@
     "remark-vtranslit": "1.1.0",
     "rimraf": "2.6.2",
     "traverse": "0.6.6",
-    "vboo-scripts": "0.4.0",
+    "vboo-scripts": "1.0.1",
     "vfile-reporter": "5.1.0",
     "vtranslit": "4.2.0",
     "vtranslit-scheme-deva": "0.4.0",
