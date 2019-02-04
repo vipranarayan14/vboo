@@ -11,4 +11,5 @@ The meanings for some of the techinical terms and difficult words used in a sect
 - [//subantaH//](#/lsk/subanta/)
   - [General](#/lsk/subanta/general/)
   - [//rAma-shabdaH//](#/lsk/subanta/raama-sabdah/)
+- [//ti~Nanta//](#/lsk/tinanta/)
 - [Glossary](#/lsk/glossary)
