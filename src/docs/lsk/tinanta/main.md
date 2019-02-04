@@ -50,7 +50,7 @@ The 18 //ti~N-pratyaya//-s are divided into two groups with 9 //pratyaya//-s in 
 
 The //suutra//,
 
-> //laH parasmaipadam 1/4/99//
+> //laH parasmaipadam| 1/4/99//
 
 says that the //aadEsha//-s (replacements) that occur in the place of //la// (//lakaara//) are labelled as //parasmaipada|//
 
@@ -78,7 +78,7 @@ are labelled as //aatmanEpada|//
 
 Now, these //aadEsha//-s (//ta~N//, //shaanach//and //kaanach//) have two labels, //parasmaipadam// as well as //aatmanEpadam|// But according to the //adhikaara-suutra//,
 
-> //AkaDArAt EkA saMj~nA  1/4/1//
+> //AkaDArAt EkA saMj~nA|  1/4/1//
 
 only one label remains. Since, //parasmaipada// is a general label and //aatmanEpada// is a particular label, <!--and the particular label is considered more strong/important--> these //aadEsha//-s are left with only the particular label of "//aatmanEpada//".
 
