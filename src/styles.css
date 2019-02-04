@@ -28,24 +28,11 @@
   margin-left: 10px;
 }
 
-.vboo a {
-  color: #1e6bb8;
-  text-decoration: none;
-}
-
-.vboo a:hover {
-  text-decoration: underline;
-}
-
-
 .vboo main {
   font-family: "Laila", serif;
   max-width: 700px;
   margin: 5px auto 55px;
   padding: 20px;
-}
-
-.vboo main {
   word-wrap: break-word;
 }
 
@@ -55,6 +42,9 @@
 
 .vboo main img {
   max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  width: 100%;
 }
 
 .vboo main h1,
@@ -67,6 +57,37 @@
   margin-bottom: 1rem;
   font-weight: normal;
   color: #159957;
+}
+
+.vboo a {
+  color: #1e6bb8;
+  text-decoration: none;
+}
+
+.vboo a:hover {
+  text-decoration: underline;
+}
+
+.vboo main h1 a,
+.vboo main h2 a,
+.vboo main h3 a {
+  color: inherit;
+}
+
+.vboo main h1::after,
+.vboo main h2::after,
+.vboo main h3::after {
+  content: " ";
+  display: block;
+  border: 1.5px solid #d3d3d3;
+}
+
+.vboo main h2::after {
+  border-width: 1px;
+}
+
+.vboo main h3::after {
+  border-width: 0.5px;
 }
 
 .vboo main ul,
@@ -94,7 +115,16 @@
   margin-bottom: 0;
 }
 
+.vboo main .remark-wrapper-table {
+  overflow-x: auto;
+}
+
 .vboo main table {
+  /*
+   display: table;
+   width: auto;
+  */
+  margin: 5px auto;
   display: block;
   width: 100%;
   overflow: auto;
@@ -105,12 +135,19 @@
 
 .vboo main table th {
   font-weight: bold;
+  /* #0bb111 */
+  background-color: #159957;
+  color: #fff;
 }
 
 .vboo main table th,
 .vboo main table td {
   padding: 0.5rem 1rem;
   border: 1px solid #e9ebec;
+}
+
+.vboo main table tr:nth-child(even) {
+  background-color: #d8d8d8;
 }
 
 .vboo main dl {
@@ -146,48 +183,6 @@
   line-height: 1.8;
 }
 
-.vboo main h1 a,
-.vboo main h2 a,
-.vboo main h3 a {
-  color: inherit;
-}
-
-.vboo main h1:after,
-.vboo main h2:after,
-.vboo main h3:after {
-  content: " ";
-  display: block;
-  border: 1.5px solid #d3d3d3;
-}
-
-.vboo main h2:after {
-  border-width: 1px;
-}
-
-.vboo main h3:after {
-  border-width: 0.5px;
-}
-
-.vboo main .table-container {
-  overflow-x: auto;
-}
-
-.vboo main table {
-  display: table;
-  width: auto;
-  margin: 5px auto;
-}
-
-.vboo main table th {
-  /*#0bb111*/
-  background-color: #159957;
-  color: #fff;
-}
-
-.vboo main table tr:nth-child(even) {
-  background-color: #d8d8d8;
-}
-
 .vboo main q {
   color: #000;
 }
@@ -208,12 +203,6 @@
   margin-bottom: 0;
 }
 
-.vboo main img {
-  display: block;
-  margin: 0 auto;
-  width: 100%;
-}
-
 .vboo main ul>li>p {
   margin-bottom: 0;
 }
@@ -223,7 +212,7 @@ ul.checklist {
   padding-inline-start: 20px;
 }
 
-ul.checklist li:before {
+ul.checklist li::before {
   content: "\2714\0020";
 }
 
