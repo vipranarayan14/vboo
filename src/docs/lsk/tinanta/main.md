@@ -5,6 +5,7 @@
 - //lakaara//-s
 - //ti~N//
 - //parasmaipada// & //AtmanEpada//
+- //parasmaipadin//, //aatmanEpadin// & //ubhayapadin//
 
 ## //lakaara//-s
 
@@ -12,19 +13,18 @@
 
 The 10 //lakaara//-s and the meaning of tense or mood they give to the //dhaatu// are given are below:
 
-|     | //lakaara// | //arthaH//                        | Tense or Mood              |
-| --- | ----------- | --------------------------------- | -------------------------- |
-| 1   | //laT//     | //vartamanE//                     | Present Tense              |
-| 2   | //liT//     | //parOkSabhuuta//                 | Past Tense, Perfect        |
-| 3   | //luT//     | //anadyatanabhaviSyat//           | First Future               |
-| 4   | //lRRit//   | //bhaviSyat//                     | Second Future              |
-| 5   | //lET//     | //dhaurtyE// (//vEdE//)           | Subjunctive Mood           |
-| 6   | //lOT//     | //vidhyAdi//                      | Imperative Mood            |
-| 7   | //laN^//    | //anadyatanabhuuta//              | Past Tense, Imperfect      |
-| 8   | //liN^//    | //vidhiliN^// / //AshIrliN^//     | Potential/Benedictive Mood |
-| 9   | //luN^//    | //bhuutaH//                       | Past Tense, Aorist         |
-| 10  | //lRRiN^//  | //kRRiyAtipattiH// (//saMkEtaH//) | Conditional                |
-|     |             |                                   |                            |
+|      | //lakaara// | //arthaH//                        | Tense or Mood              |
+| :--: | :---------: | --------------------------------- | -------------------------- |
+|  1   |   //laT//   | //vartamana//                     | Present Tense              |
+|  2   |   //liT//   | //parOkSabhuuta//                 | Past Tense, Perfect        |
+|  3   |   //luT//   | //anadyatanabhaviSyat//           | First Future               |
+|  4   |  //lRRit//  | //bhaviSyat//                     | Second Future              |
+|  5   |   //lET//   | //dhaurtyE// (//vEdE//)           | Subjunctive Mood           |
+|  6   |   //lOT//   | //vidhyAdi//                      | Imperative Mood            |
+|  7   |  //laN^//   | //anadyatanabhuuta//              | Past Tense, Imperfect      |
+|  8   |  //liN^//   | //vidhiliN^// / //AshIrliN^//     | Potential/Benedictive Mood |
+|  9   |  //luN^//   | //bhuutaH//                       | Past Tense, Aorist         |
+|  10  | //lRRiN^//  | //kRRiyAtipattiH// (//saMkEtaH//) | Conditional                |
 
 The 5th //lakaara//, //lET// is used only in the //vEda//-s. So, we will not be dealing with that here.
 
@@ -94,9 +94,63 @@ and the **//aatmanEpada//-s** are:
 - the //shaanach-pratyaya// and
 - the //kaanach-pratyaya//
 
-<!--
+## //parasmaipadin//, //aatmanEpadin// & //ubhayapadin//
 
-## //aatmanEpadii// & //parasmaipadii//
+//parasmaipada-pratyaya//-s can be placed after only certain //dhaatu//-s. Such a //dhaatu// is known as **//parasmaipadin//** or **//parasmaipadii-dhaatu//**//|//
+
+Similarly, //aatmanEpada-pratyaya//-s can be placed after only certain //dhaatu//-s. Such a //dhaatu// is known as **//aatmanEpadin//** or **//aatmanEpadii-dhaatu//**//|// 
+
+However, there are some other //dhaatu//-s after which either //parasmaipada-pratyaya//-s  or //aatmanEpada-pratyaya//-s can be placed. Such //dhaatu//-s are known as **//ubhayapadin//-s** or //ubhayapadii-dhaatu//-s.
+
+<!-- add examples-->
+
+Now, how to know if //dhaatu// is a //parasmaipadin//, an //aatmanEpadin// or an //ubhayapadin// ?
+
+//paaNini// lays out the way to find it.
+
+### Checking for //aatmanEpadin//
+
+> //anudaatta~Nita aatmanEpadam| 1/3/12//
+
+The //suutra// says that if a //dhaatu//:
+
+- contains an //anudaatta-svara// and that //anudaatta-svara// has the //it-saMj~naa//
+- or it contains the letter, "//~N//" and that letter has the //it-saMj~naa//
+
+then the //aatmanEpada-pratyaya//-s can be placed after it. In other words, such a //dhaatu// is called as //aatmanEpadii-dhaatu|//
+
+**Note:** //anudaatta-svara// is a vowel pronounced with lower pitch.
+
+### Checking for //parasmaipadin//
+
+> //sheshhaat kartari parasmaipadam| 1/3/78 //
+
+The //suutra// says that //parasmaipada-pratyaya//-s can be placed after //dhaatu//-s after which //aatmanEpada-pratyaya//-s are not (instructed to be) placed after. So, when a //parasmaipada-pratyaya// is placed after such a //dhaatu//, it is called a //parasmaipadii-dhaatu|//
+
+### Checking for //ubhayapadin//
+
+> //svarita~nitaH kartrabhipraayE kriyaaphalE| 1/3/72//
+
+The //suutra// says that if a //dhaatu//:
+
+- contains an //svarita-svara// and that //svarita-svara// has the //it-saMj~naa//
+- or it contains the letter, "//~n//" and that letter has the //it-saMj~naa//
+
+then either the //aatmanEpada-pratyaya//-s or //parasmaipada-pratyaya//-s can be placed after it. In other words, such a //dhaatu// is called as //ubhayapadii-dhaatu|//
+
+**Note:** //svarita-svara// is a vowel pronounced with combination of high and low tone.
+
+*Now, in the case of //ubhayapadin//-s, when to use //aatmanEpada-pratyaya//-s and when to use //parasmaipada-pratyaya//-s? Is it the speaker's choice?* 
+
+No. That is what the "//kartrabhipraayE kriyaaphalE//" part of the //suutra// tells about. It says that //aatmanEpada-pratyaya//-s can be placed after the  a //ubhayapadii-dhaatu// only if the result of the //kriyaa// (action) meant by the //dhaatu//  is intended towards the //kartRRi// (agent) himself. In other words, if a //kartRRi// does a //kriyaa// and the result of the //kriyaa// reaches himself, like a cook cooking for himself, then the //ubayapadii-dhaatu// representing the //kriyaa// gets the //aatmanEpada-pratyaya//-s after it.
+
+*Then, what if the the result of the //kriyaa// meant by the //dhaatu// is NOT intended towards the //kartRRi// himself?* 
+
+As discussed in the previous section regarding //parasmaipadin//-s, //dhaatu//-s after which //aatmanEpada-pratyaya//-s are not (instructed to be) placed, //parasmaipada-pratyaya//-s are placed.
+
+So, when placing //ti~N-pratyaya//-s after //ubhayapadii-dhaatu//-s, one has to see where the result of the //kriyaa// goes. If it is intended towards the //kartRRi// then //aatmanEpada-pratyaya//-s are to be used. Otherwise, //parasmaipada-pratyaya//-s are to be used.
+
+<!--
 
 ## //puruSa//
 
@@ -106,7 +160,7 @@ and the **//aatmanEpada//-s** are:
 
 - The //ti.n pratyaya-s// and the //shit pratyaya//-s that are mentioned in the //dhaatu-adhikaara// are called //saarvadhaatuka pratyaya//-s.
   - "//ti.n-shit-saarvadhaatukam//"
-- All other //pratyaya//-s mentioned in the //dhaatu-adhikaara// are called //aardhadhaatuka pratyaya//-s.
+- All the other //pratyaya//-s mentioned in the //dhaatu-adhikaara// are called //aardhadhaatuka pratyaya//-s.
   - //aardhadhaatuka.m sheshha.h//
 
 ## //sarvadhaatuka// & //aardhadhaatuka// //lakaara//-s
@@ -124,8 +178,6 @@ Now, //paNini// says:
 Since the //ti~N-pratyaya//-s are the ones that actually render the meanings of tense/mood, //puruSha// and //vachana// to a //dhaatu// and thus making it usable in a sentence, the resulting //kriyaapada// are also called as //ti~Nanta|//
 
 ## Checklist
-
-
 
 - [x] laH karmaNicha
 - [x] tip-tas-jhi
@@ -155,5 +207,9 @@ Since the //ti~N-pratyaya//-s are the ones that actually render the meanings of 
   8. //li~N//
   9. //lu~N//
   10. //lRRi~N//
+
+- Some //dhaatu//-s accept only //parasmaipada-pratyaya//-s. Meaning , only //parasmaipada-pratyaya//-s can be placed after them. Similarly, some //dhaatu//-s take only //aatmanEpada-pratyaya//-s.
+
+- A //dhaatu// that accepts only //parasmaipada-pratyaya//-s is known as **//parasmaipadin//** whereas a //dhaatu// that accepts only //aatmanEpada-pratyaya//-s is known as **//aatmanEpadin//**//|//
 
 -->
