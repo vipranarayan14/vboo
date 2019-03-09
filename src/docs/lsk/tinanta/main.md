@@ -179,13 +179,13 @@ Since the //ti~N-pratyaya//-s are the ones that actually render the meanings of 
 
 ## Checklist
 
-- [x] laH karmaNicha
+- [ ] laH karmaNicha
 - [x] tip-tas-jhi
 - [x] laH parasmaipadam
 - [x] ta~NAnAvAtmanEpadam
-- [ ] anudaatta~Nita
-- [ ] savrita~nitaH
-- [ ] sheSAtkartari
+- [x] anudaatta~Nita
+- [x] savrita~nitaH
+- [x] sheSAtkartari
 - [ ] ti~NastrINi
 - [ ] tAnyekavacana
 - [ ] yuSmad

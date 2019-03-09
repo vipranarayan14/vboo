@@ -48,7 +48,7 @@ Here,
 - the //tip-pratyaya// is a [//sarvadhaatuka-pratyaya//](#/lsk/tinanta/)
 - and //tip-pratyaya// comes after the //bhuu-dhaatu//
 
-So, by the above //suutra//, we place //shap// after the //bhuu-dhaatu// --
+So, by the above //suutra//, we place //shap// next to the //bhuu-dhaatu// --
 
 :::prakriya
 //bhuu + shap + tip//

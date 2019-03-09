@@ -22,13 +22,10 @@ The letter, //'n'// is changed into //'N'://
    - //ka-varga (ku)// i.e. the letters, //'k, kh, g, gh, ~N'//
    - //pa-varga (pu)// i.e. the letters, //'p, ph, b, bh, m'//
    - the upasarga //A~N//
-   - //anusvAra (:)//
+   - //anusvAra//
 
    eg: //rAmENa, rAmANAm//
 
 2. when it (letter //'n'//) does not come at the end of a word.
 
    eg: //rAmAn//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODYwNjEyNF19
--->
