@@ -170,6 +170,9 @@
 
 .vboo main nav {
   font-size: 0.9rem;
+  background-color: #dadada;
+  padding: 5px;
+  border-radius: 5px;
 }
 
 .vboo main article {
