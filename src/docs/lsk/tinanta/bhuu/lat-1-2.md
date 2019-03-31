@@ -1,6 +1,6 @@
 # //bhavataH//
 
-As we want to use the //bhuu-dhAtu// in present-tense, we add "//laT//" after the //dhAtu//, just as we did in the derivation of [//bhavati//](#/lsk/tinanta/bhuu/lat/bhavati)//|//
+As we want to use the //bhuu-dhAtu// in present-tense, we add "//laT//" after the //dhAtu//, just as we did in the derivation of [//bhavati//](#/lsk/tinanta/bhuu/lat-1-1)//|//
 
 ::: prakriya
 //bhuu + laT//
@@ -18,7 +18,7 @@ And of //laT//, only the letter //l// remains --
 //bhuu + tas//
 :::
 
-After this, the steps are similar to those of the derivation of [//bhavati//](#/lsk/tinanta/bhuu/lat/bhavati) --
+After this, the steps are similar to those of the derivation of [//bhavati//](#/lsk/tinanta/bhuu/lat-1-1) --
 
 :::prakriya
 //bhuu + shap + tas//
@@ -40,7 +40,7 @@ After this, the steps are similar to those of the derivation of [//bhavati//](#/
 = //bhavatas//
 :::
 
- Now, the //sUtra// --
+Now, the //sUtra// --
 
 > //sasajuShO ruH| 8/2/66//
 
@@ -48,7 +48,7 @@ says that //'s'// at the end of a //pada// is replaced by '//ru//'//|//
 
 Here,
 
-- //bhavatas// is a //pada//, 
+- //bhavatas// is a //pada//,
 - and //'s'// is at the end of this //pada//
 
 So, the letter, '//s//' is replaced by '//ru//' --
@@ -79,4 +79,4 @@ the letter, //'r'// which is an [//avasAna//](#/lsk/subanta/general/avasana), is
 //bhavataH//
 :::
 
-Thus we derive the //kriyaapada//, '//bhavatah//' by adding the //ti~Nanta-pratyaya//, '//tas//' to the //dhaatu//, '//bhuu//'//|//
+Thus we derive the //kriyaapada//, '//bhavataH//' by adding the //ti~Nanta-pratyaya//, '//tas//' to the //dhaatu//, '//bhuu//'//|//
