@@ -74,7 +74,7 @@ So, now we have --
 
 Now, the //suutra//,
 
-> //sarvadhaatuka-aardhadhaatukayoH| 7/3/84//
+> //sarvadhaatuka-aardhadhaatukayOH| 7/3/84//
 
 says that when a //sarvadhaatuka-pratyaya// or an //aardhadhaatuka-pratyaya// follows, and if the last letter of its [//a~Nga//](#/lsk/subanta/general/angam) is one of the //ik-pratyaahaara// i.e. //i, u, RRi, LLi// then that last letter is replaced with its corresponding //guNa// letter.
 
