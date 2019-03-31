@@ -16,11 +16,9 @@ The meanings for some of the techinical terms and difficult words used in a sect
     - [//bhuu-dhaatu//](#/lsk/tinanta/bhuu/)
   - [Glossary](#/lsk/glossary)
 
-<!-- 
+<!--
 
 ## Purpose(s) of the Book
-
-## A Prose.io Test
 
 - Material for understanding Samskrita grammar and literature.
 
