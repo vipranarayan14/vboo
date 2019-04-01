@@ -13,14 +13,38 @@
   </head>
 
   <body class="vboo">
-    <header><div class="logo"></div></header>
+    <header>
+      <div>
+        <div>
+          <div class="sidebar-toggle-btn sidebar-toggle"></div>
+          <div class="logo"></div>
+          <div class="search-toggle-btn sidebar-toggle"></div>
+        </div>
+      </div>
+    </header>
 
     <main class="main-content">
       <nav></nav>
 
       <article id="pages-container" data-homepage="#/home"></article>
     </main>
+
+    <aside>
+      <div class="search-input-container">
+        <input
+          type="search"
+          class="search-input"
+          placeholder="Search notes..."
+        />
+      </div>
+      <div class="search-results-container"></div>
+      <div class="toc-container"></div>
+      </div>
+    </aside>
   </body>
+
+  <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@master/dist/flexsearch.min.js"></script>
+  <script src="flexsearch-index.js"></script>
 
   <script src="scripts.js"></script>
 </html>

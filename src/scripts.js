@@ -1,7 +1,18 @@
-const navEle = document.querySelector('nav');
+const navEle = document.querySelector('.vboo nav');
 const pagesContEle = document.getElementById('pages-container');
+const sidebarEle = document.querySelector('.vboo aside');
+const searchInput = sidebarEle.querySelector('.search-input');
+const searchResultsContainer = sidebarEle.querySelector(
+  '.search-results-container'
+);
+const tocContainer = sidebarEle.querySelector('.toc-container');
+const sidebarToggles = document.querySelectorAll(
+  '.vboo header .sidebar-toggle'
+);
 
 const log = console.log; //eslint-disable-line no-console
+
+let index;
 
 const ajax = (url, cb) => {
 
@@ -30,7 +41,7 @@ const ajax = (url, cb) => {
 
 };
 
-const setHash = hash => window.location.hash = hash;
+const setHash = hash => (window.location.hash = hash);
 
 const setView = sectionId => {
 
@@ -50,15 +61,14 @@ const setView = sectionId => {
 
 const setAnchors = contentPath => {
 
-  document.querySelectorAll('a.ha-anchor')
+  document
+    .querySelectorAll('a.ha-anchor')
 
     .forEach(anchorElement =>
-
       anchorElement.setAttribute(
         'href',
         `${contentPath}/${anchorElement.getAttribute('href')}`
       )
-
     );
 
 };
@@ -94,7 +104,6 @@ const getBreadcrumbs = path => {
 const updateBreadcrumbs = path => {
 
   let html = 'Home',
-
     href = '#';
 
   if (path !== 'home') {
@@ -115,16 +124,9 @@ const updateBreadcrumbs = path => {
 };
 
 const getContentUrl = path =>
-
-  path[path.length - 1] === '/' ? (
-
-    `./docs/${path}main.html`
-
-  ) : (
-
-    `./docs/${path}.html`
-
-  );
+  path[path.length - 1] === '/'
+    ? `./docs/${path}main.html`
+    : `./docs/${path}.html`;
 
 const handleHash = () => {
 
@@ -138,11 +140,7 @@ const handleHash = () => {
 
     ajax(contentUrl, responseText => {
 
-      setPageContent(
-        responseText,
-        _path,
-        sectionId
-      );
+      setPageContent(responseText, _path, sectionId);
 
       updateBreadcrumbs(path);
 
@@ -155,6 +153,15 @@ const handleHash = () => {
 const documentInit = () => {
 
   const homeContentPath = pagesContEle.getAttribute('data-homepage');
+
+  index = window.FlexSearch.create();
+
+  index.import(window.$FLEX_SEARCH_INDEX);
+
+  ajax(
+    '/docs/toc.html',
+    responseText => (tocContainer.innerHTML = responseText)
+  );
 
   if (window.location.hash) {
 
@@ -174,3 +181,35 @@ window.addEventListener('hashchange', event => {
 });
 
 window.addEventListener('DOMContentLoaded', documentInit);
+
+sidebarToggles.forEach(ele =>
+  ele.addEventListener('click', () => {
+
+    sidebarEle.classList.toggle('open');
+
+  })
+);
+
+searchInput.addEventListener('keyup', e => {
+
+  const searchQuery = e.target.value;
+
+  const searchResults = index.search(searchQuery);
+
+  const searchResultsDetails =
+    searchResults.map(result => window.$FILE_LIST[result]) || [];
+
+  const searchResultsDetailsHTML = searchResultsDetails.map(
+    resultDetails =>
+      `<div class="search-result">
+      <a href="${resultDetails.filepath.replace(
+    /.*?docs(.*?)(main)?.md$/,
+    '#$1'
+  )}" onclick="javascript:sidebarEle.classList.remove('open');">${
+  resultDetails.docTitle
+}</a></div>`
+  );
+
+  searchResultsContainer.innerHTML = searchResultsDetailsHTML.join(' ');
+
+});
