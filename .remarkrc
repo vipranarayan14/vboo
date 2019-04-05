@@ -3,6 +3,7 @@
     "remark-preset-lint-markdown-style-guide",
     ["lint-ordered-list-marker-value", "ordered"],
     ["lint-list-item-indent", "space"],
-    ["lint-emphasis-marker", "_"]
+    ["lint-emphasis-marker", "_"],
+    ["lint-maximum-line-length", false]
   ]
 }
