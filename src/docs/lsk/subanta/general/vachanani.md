@@ -32,6 +32,3 @@ etc. (i.e. in dual) we have to use the //pratyaya//-s labelled as //dvivachana|/
 Finally, when we are talking about **more than two** persons or thing or animal,
 etc. (i.e. in plural) we have to use the //pratyaya//-s labelled as
 //bahuvachana|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0Njk5MzgyXX0=
--->

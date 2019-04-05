@@ -54,6 +54,3 @@ Finally, we get --
 
 Thus, we derive the //pada//, //'rAmAbhyAm'// by adding the
 //subanta-pratyaya, 'bhyAm'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzg3Njg3NV19
--->

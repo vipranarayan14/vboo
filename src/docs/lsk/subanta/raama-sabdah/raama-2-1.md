@@ -35,6 +35,3 @@ both are replaced by the last letter of the //prAtipadika// --
 
 Thus, we derive the //pada//, //'rAmam'// by adding the
 //subanta-pratyaya, 'am'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTEyOTMwN119
--->

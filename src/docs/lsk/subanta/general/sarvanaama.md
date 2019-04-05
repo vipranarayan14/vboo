@@ -39,6 +39,3 @@
 35. //kim//
 
 The derivation and declension of these //shabda//-s slightly differ from general derivation and declension which we had seen while deriving //raama|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc2NjY5NV19
--->

@@ -121,6 +121,3 @@ Thereby, we learn that the //a~Nga// of a //pratyaya// :
 - will not include the //pratyaya// or anything after it.
 
 - will not include anything before the reference word.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY4MDg1NjldfQ==
--->

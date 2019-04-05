@@ -38,6 +38,3 @@ undergoing any change. So, we get --
 
 Thus, we derive the //pada//, //'rAmasya'// by adding the
 //subanta-pratyaya, '~Nas'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODUxMzc0Nl19
--->

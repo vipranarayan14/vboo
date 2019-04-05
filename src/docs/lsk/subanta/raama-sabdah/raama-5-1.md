@@ -114,6 +114,3 @@ Or
 
 Thus, we derive the //pada//, //'rAmAt'// by adding the
 //subanta-pratyaya, '~Nasi'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjYzMzgzM119
--->

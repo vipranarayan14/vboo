@@ -131,6 +131,3 @@ we get the meaning, 'by many boys'.
 This way, the //subanta-pratyayas// can be added to the //prAtipadika//-s to
 give them the senses of //vibhakti// and //vachana//, and thereby, making them
 usable in a sentence.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDE0NTYyM119
--->

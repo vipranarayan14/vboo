@@ -56,6 +56,3 @@ same word, it becomes //'N'// \[See
 
 Thus, we derive the //pada//, //'rAmENa'// by adding the
 //subanta-pratyaya, 'TA'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzAxMDgzNV19
--->

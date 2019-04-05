@@ -64,6 +64,3 @@ So, the letter //'s'// in //'rAmEsu'// is replaced by the letter
 
 Thus we derive the //pada//, //'rAmEShu'// by adding the
 //subanta-pratyaya, 'sup'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MjExNDQ2XX0=
--->

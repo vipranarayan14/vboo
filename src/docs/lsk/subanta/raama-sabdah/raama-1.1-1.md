@@ -91,6 +91,3 @@ Note: The //prakriyA// (derivation) of //"(hE) rAmau"// and //"(hE)
 rAmAH"// in the //sambOdhana-prathamA-vibhakti// are same as that of
 //rAmau// and //rAmAH// in //prathamA-vibhakti|// So, they will not be
 discussed separately again.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTkzMTQ5M119
--->

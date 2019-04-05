@@ -39,6 +39,3 @@ So, finally we get --
 
 Thus we derive the //pada//, //'rAmE'// by adding the
 //subanta-pratyaya, '~Ni'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Mjc1MTU4MV19
--->

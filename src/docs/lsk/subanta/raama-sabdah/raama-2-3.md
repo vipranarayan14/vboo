@@ -69,6 +69,3 @@ by the //sUtra,// “//padAntasya//” and thus, nothing changes.
 
 Thus we derive the //pada//, //'rAmAn'// by adding the
 //subanta-pratyaya, 'shas'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDMwMjM1OF19
--->

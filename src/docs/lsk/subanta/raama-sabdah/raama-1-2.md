@@ -65,6 +65,3 @@ and the first letter of the //pratyaya// just undergoes
 
 Thus we derive the //pada//, //'rAmau'// by adding the
 //subanta-pratyaya, 'au'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTQ4MTMxXX0=
--->

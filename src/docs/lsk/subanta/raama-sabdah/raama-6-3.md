@@ -114,6 +114,3 @@ same word, it becomes //'N'// \[See
 
 Thus, we derive the //pada//, //'rAmANAm'// by adding the
 //subanta-pratyaya, 'Am'// to the //prAtipadika, 'rAma'|//
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDg1NzM5XX0=
--->
