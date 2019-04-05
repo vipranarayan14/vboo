@@ -55,30 +55,22 @@ Now, let's take this list of //shabda//-s and see which them can be considered a
 10. //shaiva//
 11. //kRRiShNashrita//
 
-- **//kAkuki// and //pra// are not //prAtipadika//**
-
-  The first //shabda// in the list, //'kAkuki'// is just an assemblage of vowels and
+- **//kAkuki// and //pra// are not //prAtipadika//**: The first //shabda// in the list, //'kAkuki'// is just an assemblage of vowels and
   consonants and it does not have any meaning. Since a //prAtipadika// should be
   //arthavat// (have meaning), this //shabda// is not a //prAtipadika//. The second
   //shabda//, //'pra'// is a //upasarga// (a set prefixes attached to a verb). As this
   //shabda// too does not have any defined meaning of its own, is not a //prAtipadika
   |//
 
-- **//paTh// and //naT// are not //prAtipadika//**
-
-  The third and fourth //shabda//s, //'paTh'// (to read) and //'naT'// (to dance) are
+- **//paTh// and //naT// are not //prAtipadika//**: The third and fourth //shabda//s, //'paTh'// (to read) and //'naT'// (to dance) are
   //dhAtu//-s. Though they have well-defined meanings, the //'adhAtuH'//
   condition of //prAtipadika // excludes them from having the label //prAtipadika
   |//
 
-- **//'sup'// and //'lyap'// are not //prAtipadika//**
-
-  The fifth and sixth //shabda//s, //'sup'// and //'lyap'// are //pratyaya//-s. So,
+- **//'sup'// and //'lyap'// are not //prAtipadika//**: The fifth and sixth //shabda//s, //'sup'// and //'lyap'// are //pratyaya//-s. So,
   they also cannot be called as //prAtipadika |//
 
-- **//'bAlau'// and //'khAdati'// are not //prAtipadika//**
-
-  The seventh and eighth //shabda//-s are, //'bAlau'// (two boys) and //'khAdati'// (s/he
+- **//'bAlau'// and //'khAdati'// are not //prAtipadika//**: The seventh and eighth //shabda//-s are, //'bAlau'// (two boys) and //'khAdati'// (s/he
   eats). Both of them are //arthavat// (have meaning), //adhAtuH// (not
   //dhAtu//-s) and //apratyayaH// (not //pratyaya//-s). So can these be called as
   //prAtipadika//? No. Why? Because they both have //pratyaya//-s at their end
@@ -87,19 +79,12 @@ Now, let's take this list of //shabda//-s and see which them can be considered a
   which is a //subanta-pratyaya// and the //shabda//, //'khAdati'// has //'tip'
   pratyaya// which is a //ti~Nanta-pratyaya |//
 
-- **//shrutavat//, //kRRiShNashrita// and //shaiva// ARE //prAtipadika//**
-
-  The ninth and tenth //shabda//-s, //shrutavat// and //shaiva//
+- **//shrutavat//, //kRRiShNashrita// and //shaiva// ARE //prAtipadika//**: The ninth and tenth //shabda//-s, //shrutavat// and //shaiva//
   **are //prAtipadika//-s** as they are meaningful, and are neither //dhAtu//-s
   nor //pratyaya//-s, and they do not have any //pratyaya//-s other than
   //kRRit// or //taddhita pratyaya//-s. //'shrutavat'// is formed from a //dhAtu,
   'shru'// and a //kRRit pratyaya, 'ktavatu'// while //'shaiva'// is formed from
-  the combination //'shiva'// and a //taddhita pratyaya, 'aN' |//
-
-  Similarly, The last //shabda//, //'kRRiShNashrita'// is a //samasta-pada// (compound)
+  the combination //'shiva'// and a //taddhita pratyaya, 'aN' |// Similarly, The last //shabda//, //'kRRiShNashrita'// is a //samasta-pada// (compound)
   formed from the compounding of //'kRRiShNa'// and //'shrita' |// Since the //shabda// now
   has the label //samAsa//, it gets the label //prAtipadika// i.e. it can be
   called as //prAtipadika//.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mzk4ODMxNF19
--->
