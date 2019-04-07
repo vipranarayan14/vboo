@@ -13,24 +13,26 @@
 
 The 10 //lakaara//-s and the meaning of tense or mood they give to the //dhaatu// are given are below:
 
-|      | //lakaara// | //arthaH//                        | Tense or Mood              |
-| :--: | :---------: | --------------------------------- | -------------------------- |
-|  1   |   //laT//   | //vartamana//                     | Present Tense              |
-|  2   |   //liT//   | //parOkSabhuuta//                 | Past Tense, Perfect        |
-|  3   |   //luT//   | //anadyatanabhaviSyat//           | First Future               |
-|  4   |  //lRRit//  | //bhaviSyat//                     | Second Future              |
-|  5   |   //lET//   | //dhaurtyE// (//vEdE//)           | Subjunctive Mood           |
-|  6   |   //lOT//   | //vidhyAdi//                      | Imperative Mood            |
-|  7   |  //laN^//   | //anadyatanabhuuta//              | Past Tense, Imperfect      |
-|  8   |  //liN^//   | //vidhiliN^// / //AshIrliN^//     | Potential/Benedictive Mood |
-|  9   |  //luN^//   | //bhuutaH//                       | Past Tense, Aorist         |
-|  10  | //lRRiN^//  | //kRRiyAtipattiH// (//saMkEtaH//) | Conditional                |
+|       | //lakaara// | //arthaH//                        | Tense or Mood              |
+| :---: | :---------: | --------------------------------- | -------------------------- |
+|   1   |   //laT//   | //vartamana//                     | Present Tense              |
+|   2   |   //liT//   | //parOkSabhuuta//                 | Past Tense, Perfect        |
+|   3   |   //luT//   | //anadyatanabhaviSyat//           | First Future               |
+|   4   |  //lRRit//  | //bhaviSyat//                     | Second Future              |
+|   5   |   //lET//   | //dhaurtyE// (//vEdE//)           | Subjunctive Mood           |
+|   6   |   //lOT//   | //vidhyAdi//                      | Imperative Mood            |
+|   7   |  //laN^//   | //anadyatanabhuuta//              | Past Tense, Imperfect      |
+|   8   |  //liN^//   | //vidhiliN^// / //AshIrliN^//     | Potential/Benedictive Mood |
+|   9   |  //luN^//   | //bhuutaH//                       | Past Tense, Aorist         |
+|  10   | //lRRiN^//  | //kRRiyAtipattiH// (//saMkEtaH//) | Conditional                |
 
 The 5th //lakaara//, //lET// is used only in the //vEda//-s. So, we will not be dealing with that here.
 
 The 8th //lakaara//, //li~N// is of two types -- //vidhili~N// and //AshIrli~N|// The distinction is based on the meaning they give to the //dhaatu//. The //vidhili~N-lakaara// gives the meaning of potential mood (and others) to the //dhaatu// while the //AshIrli~N// gives it the meaning of benediction. The resulting forms of the two //lakaara//-s are also different. So, they are considered as two different //lakaara//-s.
 
 These //pratyaya//-s are collectively called as //lakaara//-s or just //la|//
+
+<!--TODO: add explation for each lakara quoting suutra and vRRitti -->
 
 ## //ti~N//
 
@@ -42,7 +44,9 @@ The 18 //ti~N-pratyaya//-s are:
 
 The name //ti~N// is formed by taking the first //akSara//, "//ti//" of the //tip-pratyaya// and the last //akSara//, "//~N//" of the //mahi~N-pratyaya|// This name is used to denote all the 18 //pratyaya//-s given above.
 
-This type of names formed by using the first letter of the first item and the last letter of the last item of a list are called **//pratyaahaara//-s**. <!--aadiratyEna-->
+This type of names formed by using the first letter of the first item and the last letter of the last item of a list are called **//pratyaahaara//-s**. <!--TODO: aadiratyEna-->
+
+<!--TODO: Table of ti~N-pratyayas -->
 
 ## //parasmaipada// & //AtmanEpada//
 
@@ -102,7 +106,7 @@ Similarly, //aatmanEpada-pratyaya//-s can be placed after only certain //dhaatu/
 
 However, there are some other //dhaatu//-s after which either //parasmaipada-pratyaya//-s  or //aatmanEpada-pratyaya//-s can be placed. Such //dhaatu//-s are known as **//ubhayapadin//-s** or //ubhayapadii-dhaatu//-s.
 
-<!-- add examples-->
+<!--TODO: add examples-->
 
 Now, how to know if //dhaatu// is a //parasmaipadin//, an //aatmanEpadin// or an //ubhayapadin// ?
 
@@ -140,17 +144,17 @@ then either the //aatmanEpada-pratyaya//-s or //parasmaipada-pratyaya//-s can be
 
 **Note:** //svarita-svara// is a vowel pronounced with combination of high and low tone.
 
-*Now, in the case of //ubhayapadin//-s, when to use //aatmanEpada-pratyaya//-s and when to use //parasmaipada-pratyaya//-s? Is it the speaker's choice?* 
+Now, in the case of //ubhayapadin//-s, when to use //aatmanEpada-pratyaya//-s and when to use //parasmaipada-pratyaya//-s? Is it the speaker's choice?
 
 No. That is what the "//kartrabhipraayE kriyaaphalE//" part of the //suutra// tells about. It says that //aatmanEpada-pratyaya//-s can be placed after the  a //ubhayapadii-dhaatu// only if the result of the //kriyaa// (action) meant by the //dhaatu//  is intended towards the //kartRRi// (agent) himself. In other words, if a //kartRRi// does a //kriyaa// and the result of the //kriyaa// reaches himself, like a cook cooking for himself, then the //ubayapadii-dhaatu// representing the //kriyaa// gets the //aatmanEpada-pratyaya//-s after it.
 
-*Then, what if the the result of the //kriyaa// meant by the //dhaatu// is NOT intended towards the //kartRRi// himself?* 
+Then, what if the the result of the //kriyaa// meant by the //dhaatu// is NOT intended towards the //kartRRi// himself?
 
 As discussed in the previous section regarding //parasmaipadin//-s, //dhaatu//-s after which //aatmanEpada-pratyaya//-s are not (instructed to be) placed, //parasmaipada-pratyaya//-s are placed.
 
 So, when placing //ti~N-pratyaya//-s after //ubhayapadii-dhaatu//-s, one has to see where the result of the //kriyaa// goes. If it is intended towards the //kartRRi// then //aatmanEpada-pratyaya//-s are to be used. Otherwise, //parasmaipada-pratyaya//-s are to be used.
 
-<!--
+<!—TODO:
 
 ## //puruSa//
 
@@ -160,12 +164,11 @@ So, when placing //ti~N-pratyaya//-s after //ubhayapadii-dhaatu//-s, one has to 
 
 - The //ti.n pratyaya-s// and the //shit pratyaya//-s that are mentioned in the //dhaatu-adhikaara// are called //saarvadhaatuka pratyaya//-s.
   - "//ti.n-shit-saarvadhaatukam//"
+
 - All the other //pratyaya//-s mentioned in the //dhaatu-adhikaara// are called //aardhadhaatuka pratyaya//-s.
   - //aardhadhaatuka.m sheshha.h//
 
 ## //sarvadhaatuka// & //aardhadhaatuka// //lakaara//-s
-
-
 
 ## Derivation of //ti~Nanta//-s
 
