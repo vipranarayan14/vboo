@@ -154,7 +154,7 @@ As discussed in the previous section regarding //parasmaipadin//-s, //dhaatu//-s
 
 So, when placing //ti~N-pratyaya//-s after //ubhayapadii-dhaatu//-s, one has to see where the result of the //kriyaa// goes. If it is intended towards the //kartRRi// then //aatmanEpada-pratyaya//-s are to be used. Otherwise, //parasmaipada-pratyaya//-s are to be used.
 
-<!—TODO:
+<!--TODO:
 
 ## //puruSa//
 
