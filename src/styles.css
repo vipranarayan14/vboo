@@ -266,7 +266,7 @@
   height: 50px;
   outline: none;
   background: none;
-  margin: 5px 0;
+  margin: 10px 0;
   padding: 5px;
   border: none;
   box-sizing: border-box;
@@ -275,9 +275,7 @@
   background-color: #e2e2e2;
   font-family: inherit;
 }
-.vboo aside .search-results-container {
-  margin: 10px auto 0;
-}
+
 .vboo aside .search-results-container,
 .vboo aside .toc-container {
   border-width: 2px 0 0 0;
