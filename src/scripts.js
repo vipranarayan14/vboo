@@ -144,6 +144,8 @@ const handleHash = () => {
 
       updateBreadcrumbs(path);
 
+      sidebarEle.classList.remove('open');
+
     });
 
   }
@@ -205,9 +207,7 @@ searchInput.addEventListener('keyup', e => {
       <a href="${resultDetails.filepath.replace(
     /.*?docs(.*?)(main)?.md$/,
     '#$1'
-  )}" onclick="javascript:sidebarEle.classList.remove('open');">${
-  resultDetails.docTitle
-}</a></div>`
+  )}">${resultDetails.docTitle}</a></div>`
   );
 
   searchResultsContainer.innerHTML = searchResultsDetailsHTML.join(' ');
