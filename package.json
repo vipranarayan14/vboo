@@ -2,12 +2,6 @@
   "name": "vboo",
   "version": "0.0.0",
   "description": "A book of notes on Samskrita grammar and literature",
-  "author": "Prasanna Venkatesh T S <vipranarayan14@gmail.com>",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vipranarayan14/vboo.git"
-  },
   "keywords": [
     "sanskrit",
     "grammar",
@@ -15,17 +9,22 @@
     "samskritam",
     "notes"
   ],
+  "author": "Prasanna Venkatesh T S <vipranarayan14@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipranarayan14/vboo.git"
+  },
+  "homepage": "https://github.com/vipranarayan14/vboo#readme",
   "bugs": {
     "url": "https://github.com/vipranarayan14/vboo/issues"
   },
-  "homepage": "https://github.com/vipranarayan14/vboo#readme",
-  "main": " ",
   "scripts": {
     "eslint": "eslint . --ignore-path .gitignore",
     "remark-lint": "remark src/docs/. -q",
     "test": "npm run eslint && npm run remark-lint",
-    "build": "vboo-scripts ./src ./build",
-    "start": "npm test && vboo-scripts ./src"
+    "build": "vboo-scripts src build",
+    "start": "npm test && vboo-scripts src"
   },
   "devDependencies": {
     "eslint": "5.2.0",
