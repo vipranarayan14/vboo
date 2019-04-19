@@ -10,7 +10,7 @@
     "notes"
   ],
   "author": "Prasanna Venkatesh T S <vipranarayan14@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vipranarayan14/vboo.git"
@@ -21,7 +21,7 @@
   },
   "scripts": {
     "eslint": "eslint . --ignore-path .gitignore",
-    "remark-lint": "remark src/docs/. -q",
+    "remark-lint": "remark src/docs -q",
     "test": "npm run eslint && npm run remark-lint",
     "build": "vboo-scripts src build",
     "start": "npm test && vboo-scripts src"
