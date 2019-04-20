@@ -37,7 +37,7 @@ says that the nine [//ti~N-pratyaya//-s](#/lsk/tinanta/) is to be substituted by
 | //puruSaaH//     | //Ekavachana// | //dvivachana// | //bahuvachana// |
 | :--------------- | :------------: | :------------: | :-------------: |
 | **//prathama//** |    //Nal//     |    //atus//    |     //us//      |
-| **//madhyama//** |    //thal//    |   //Athus//    |      //a//      |
+| **//madhyama//** |    //thal//    |   //athus//    |      //a//      |
 | **//uttama//**   |    //Nal//     |     //va//     |     //ma//      |
 
 So, by the above-mentioned //suutra//, the //prathamapuruSa-Ekavachana-pratyaya//, ’//tip//' is substituted by ’//Nal//'. So, we now have:
@@ -52,13 +52,15 @@ Now, the letter ’//N//’ and '//l//' in //Nal// gets //lOpa// by the //suutra
 //bhuu + a//  
 :::
 
+<!--TODO: Exaplin why shap wont come here-->
+
 Now, the //suutra//,
 
 > //bhuvO vuglu~NliTOH| 6/4/88//
 
 says that when a //pratyaya// of //lu~N// or //liT// //lakaara//, having its first letter as a vowel, comes after the '//bhuu-dhaatu//', '//vug//' is added to the '//dhaatu//'.
 
-Note: Such additions are called '//aagama//'. We can call '//vug//' as '//vug-aagama//'.
+Note: Such additions are called '//aagama//'. We call '//vug//' as '//vug-aagama//'.
 
 Here,
 
