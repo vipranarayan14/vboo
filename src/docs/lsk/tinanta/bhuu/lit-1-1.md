@@ -46,7 +46,7 @@ So, by the above-mentioned //suutra//, the //prathamapuruSa-Ekavachana-pratyaya/
 //bhuu + Nal//  
 :::
 
-Now, the letter ’//N//’ and '//l//' in //Nal// gets //lOpa// by the //suutra//-s, '//chuTuu| 1/3/7//' and '//halantyam| 1/3/3//', respectively —
+Now, the letters, ’//N//’ and '//l//' in //Nal// gets //lOpa// by the //suutra//-s, '//chuTuu| 1/3/7//' and '//halantyam| 1/3/3//', respectively —
 
 :::prakriya  
 //bhuu + a//  
@@ -58,9 +58,9 @@ Now, the //suutra//,
 
 > //bhuvO vuglu~NliTOH| 6/4/88//
 
-says that when a //pratyaya// of //lu~N// or //liT// //lakaara//, having its first letter as a vowel, comes after the '//bhuu-dhaatu//', '//vug//' is added to the '//dhaatu//'.
+says that when a //pratyaya// of //lu~N// or //liT// //lakaara//, having its first letter as a vowel, comes after the '//bhuu-dhaatu//', '//vuk//' is added to the '//dhaatu//'.
 
-Note: Such additions are called '//aagama//'. We call '//vug//' as '//vug-aagama//'.
+Note: Such additions are called '//aagama//'. We call '//vuk//' as '//vuk-aagama//'.
 
 Here,
 
@@ -68,15 +68,15 @@ Here,
 - //Nal// comes after the //bhuu-dhaatu//
 - After the //lOpa// of //Na-kaara// and //la-kaara//, only '//a//' remains which is a vowel. Since it is the only letter, it is also the first letter.
 
-So now, the //vug-aagama// is to be added to the //bhuu-dhaatu// and by the //suutra//, '//aadyantau Takitau| 1/1/46//’, we add it after //dhaatu// —
+So now, the //vuk-aagama// is to be added to the //bhuu-dhaatu// and by the //suutra//, '//aadyantau Takitau| 1/1/46//’, we add it after //dhaatu// —
 
 <!--TODO explain aadyantau Takitau (somewhere) -->
 
 :::prakriya  
-//bhuu vug + a//  
+//bhuu vuk+ a//  
 :::
 
-Now, the letters '//u//' and '//g//' in //vug// gets //lOpa// by the //suutra//-s, '//upadEshE ajanunAsika it| 1/3/2//' and '//halantyam| 1/3/3//', respectively —
+Now, the letters '//u//' and '//g//' in //vuk// gets //lOpa// by the //suutra//-s, '//upadEshE ajanunAsika it| 1/3/2//' and '//halantyam| 1/3/3//', respectively —
 
 :::prakriya  
 //bhuu v + a//  

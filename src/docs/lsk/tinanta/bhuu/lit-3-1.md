@@ -32,21 +32,21 @@ So, we now have —
 //bhuu + Nal//
 :::
 
-The rest of the derivation is much similar to that of [//babhuuva//](#/lsk/tinanta/bhuu/lit-1-1) as the //pratyaya// is same.
+The rest of the derivation is exactly same as that of [//babhuuva//](#/lsk/tinanta/bhuu/lit-1-1), since the //pratyaya// is also same.
 
-Now, the letter ’//N//’ and '//l//' in //Nal// gets //lOpa// by the //suutra//-s, '//chuTuu| 1/3/7//' and '//halantyam| 1/3/3//', respectively —
+Now, the letters, ’//N//’ and '//l//' in //Nal// gets //lOpa// by the //suutra//-s, '//chuTuu| 1/3/7//' and '//halantyam| 1/3/3//', respectively —
 
 :::prakriya  
 //bhuu + a//  
 :::
 
-By the //suutra//, "//bhuvO vuglu~NliTOH| 6/4/88//“, the //dhaatu// gets //vug-aagama// — 
+By the //suutra//, "//bhuvO vuglu~NliTOH| 6/4/88//“, the //dhaatu// gets //vuk-aagama// — 
 
 :::prakriya  
-//bhuu vug + a//  
+//bhuu vuk+ a//  
 :::
 
-Now, the letters '//u//' and '//g//' in //vug// gets //lOpa// by the //suutra//-s, '//upadEshE ajanunAsika it| 1/3/2//' and '//halantyam| 1/3/3//', respectively —
+Now, the letters '//u//' and '//g//' in //vuk// gets //lOpa// by the //suutra//-s, '//upadEshE ajanunAsika it| 1/3/2//' and '//halantyam| 1/3/3//', respectively —
 
 :::prakriya  
 //bhuu v + a//  
@@ -96,4 +96,3 @@ Combining all, we get —
 :::
 
 Thus we derive the //kriyaapada//, **’//babhuuva//'** by adding the //ti~Nanta-pratyaya//, ‘//tha//' to the //dhaatu//, '//bhuu//‘ in //liT-lakaara|//
-

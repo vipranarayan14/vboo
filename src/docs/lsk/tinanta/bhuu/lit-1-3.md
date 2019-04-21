@@ -34,13 +34,13 @@ So, we now have —
 
 The rest of the derivation is similar to that of [//babhuuva//](#/lsk/tinanta/bhuu/lit-1-1).
 
-By the //suutra//, "//bhuvO vuglu~NliTOH| 6/4/88//“, the //dhaatu// gets //vug-aagama// — 
+By the //suutra//, "//bhuvO vuglu~NliTOH| 6/4/88//“, the //dhaatu// gets //vuk-aagama// — 
 
 :::prakriya  
-//bhuu vug + us//  
+//bhuu vuk+ us//  
 :::
 
-Now, the letters '//u//' and '//g//' in //vug// gets //lOpa// by the //suutra//-s, '//upadEshE ajanunAsika it| 1/3/2//' and '//halantyam| 1/3/3//', respectively —
+Now, the letters '//u//' and '//g//' in //vuk// gets //lOpa// by the //suutra//-s, '//upadEshE ajanunAsika it| 1/3/2//' and '//halantyam| 1/3/3//', respectively —
 
 :::prakriya  
 //bhuu v + us//  
@@ -108,4 +108,3 @@ Combining all, we get —
 :::
 
 Thus we derive the //kriyaapada//, **’//babhuuvuH//'** by adding the //ti~Nanta-pratyaya//, ‘//us//' to the //dhaatu//, '//bhuu//‘ in //liT-lakaara|//
-
