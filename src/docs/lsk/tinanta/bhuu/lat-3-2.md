@@ -12,7 +12,7 @@ And of //laT//, only the letter //l// remains --
 //bhuu + l//
 :::
 
-//uttama-puruSa-dvivachana-vivakSAyAm// i.e. when we want to express the //dhAtu//, "//bhuu//" in //dvivachana// (dual) of the //uttama-puruSa// (first person), we substitute the '//l//' with a //ti~Nanta-pratyaya// associated with //uttama-puruSa// and //dvivachana//, which is '//vas//'--
+//uttama-puruSa-dvivachana-vivakSAyAm// i.e. when we want to express the //dhAtu//, "//bhuu//" in //dvivachana// (dual) of the //uttama-puruSa// (first person), we substitute the '//l//' with a //ti~Nanta-pratyaya// associated with //uttama-puruSa// and //dvivachana//, which is '//vas//'— 
 
 :::prakriya
 //bhuu + vas//
@@ -67,4 +67,3 @@ Finally, by the //sUtra//, "//kharavasAnayOrvisarjanIyaH//" the letter, //'r'// 
 :::
 
 Thus we derive the //kriyaapada//, **'//bhavaavaH//'** by adding the //ti~Nanta-pratyaya//, '//vas//' to the //dhaatu//, '//bhuu//'//|//
-

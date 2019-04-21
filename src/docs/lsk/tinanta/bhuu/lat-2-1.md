@@ -12,7 +12,7 @@ And of //laT//, only the letter //l// remains --
 //bhuu + l//
 :::
 
-//madhyama-puruSa-Ekavachana-vivakSAyAm// i.e. when we want to express the //dhAtu//, "//bhuu//" in //Ekavachana// (singular) of the //madhyama-puruSa// (second person), we substitute the '//l//' with a //ti~Nanta-pratyaya// associated with //madhyama-puruSa// and //Ekavachana//, which is '//sip//'--
+//madhyama-puruSa-Ekavachana-vivakSAyAm// i.e. when we want to express the //dhAtu//, "//bhuu//" in //Ekavachana// (singular) of the //madhyama-puruSa// (second person), we substitute the '//l//' with a //ti~Nanta-pratyaya// associated with //madhyama-puruSa// and //Ekavachana//, which is '//sip//'— 
 
 :::prakriya
 //bhuu + sip//
@@ -41,4 +41,3 @@ After this, the steps are similar to those of the derivation of [//bhavati//](#/
 :::
 
 Thus we derive the //kriyaapada//, **'//bhavasi//'** by adding the //ti~Nanta-pratyaya//, '//sip//' to the //dhaatu//, '//bhuu//'//|//
-
